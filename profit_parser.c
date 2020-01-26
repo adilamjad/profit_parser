@@ -1,4 +1,4 @@
-#include "auto_parser.h"
+#include "profit_parser.h"
 
 //==================================================================================================//
 // Main Program
@@ -9,7 +9,7 @@ int main(int argc, char *argv[])
 	if (argc < 3)
 	{
 		printf("%d\n", argc);
-		printf("Usage: ./auto_parser <log_file> <number_of_sinks> <number_of_sources>\n");
+		printf("Usage: ./auto_parser <log_file> <number_of_sinks> <number_of_sources> [source-id-1] [source-id-2]\n");
 		exit(0);
 	}
 
@@ -35,6 +35,12 @@ int main(int argc, char *argv[])
 	strcpy(filename, argv[1]);
 
 	fd = open(filename, O_RDONLY);
+
+	if (fd < 0)
+	{
+        printf("Input file not found. Exiting.\n");
+        exit(-1);
+	}
 	printf("\n------------------------------------------------------------\n");
 	printf("Processing file %s\n", filename);
 
@@ -119,7 +125,7 @@ int main(int argc, char *argv[])
 		{
 			recv_array[k].sysTime = atoi(argv2[0])/1000;
 			recv_array[k].nID = atoi(argv2[1]);
-			recv_array[k].total_packets = atoi(argv1[1]);
+			recv_array[k].total_packets++;
 			recv_array[k].sender = atoi(argv1[2]);
 			recv_array[k].seq_no = atoi(argv1[4]);
 
@@ -618,9 +624,5 @@ int main(int argc, char *argv[])
 	printf("===================================================================================\n\n");
 	return 0;
 }
-
-
-
-
 
 

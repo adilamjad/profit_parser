@@ -5,12 +5,14 @@
 #include <stdlib.h>
 #include <string.h>
 
+#define FRAME_COUNT         1
+#define PKTS_PER_FRAME 		1000
+#define SINK_01             1
+
 #define GEN_OUTPUT_FILES 	0
 #define PRINT_ROW 			1
-#define FRAME_COUNT 		10
-#define PKTS_PER_FRAME 		256
+#define PRINT_OUTPUT        1
 
-#define SINK_01     1
 //==================================================================================================//
 // Parsing Functions
 
@@ -154,12 +156,11 @@ typedef struct _sink_data
 {
 	int sysTime;
 	int nID;
-	int priority;
-	int total_packets;
-	int s1_packets;
-	int s2_packets;
-	int sender;
 	int seq_no;
+	int sender;
+	int hi_pkts_received;
+	int lo_pkts_received;
+	int total_packets;
 }Sink_Data;
 
 typedef struct _dropped_pkt_data
