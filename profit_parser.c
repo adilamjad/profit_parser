@@ -126,8 +126,8 @@ int main(int argc, char *argv[])
 			recv_array[k].sysTime = atoi(argv2[0])/1000;
 			recv_array[k].nID = atoi(argv2[1]);
 			recv_array[k].total_packets++;
-			recv_array[k].sender = atoi(argv1[2]);
-			recv_array[k].seq_no = atoi(argv1[4]);
+			recv_array[k].sender = atoi(argv2[16]);
+			recv_array[k].seq_no = atoi(argv2[4]);
 
 /*			printf("recv_array[%d].sysTime = %d\n", k, recv_array[k].sysTime);
 			printf("recv_array[%d].nID = %d\n", k, recv_array[k].nID);
@@ -187,7 +187,7 @@ int main(int argc, char *argv[])
 	int send_time;
 	int recv_time;
 	int sink1_dropped = 0;
-	TX_TIME pkts_tx_time[MAX_SOURCES][FRAME_COUNT][PKTS_PER_FRAME];
+	TX_TIME pkts_tx_time[MAX_SOURCES][PKTS_PER_FRAME];
 
 	int x;
 	int send_index = 0;
@@ -214,9 +214,8 @@ int main(int argc, char *argv[])
                 if (recv_time != 0)
                 {
                     // packet reached sink
-                    pkts_tx_time[x][i][j].tx_time = recv_time - send_time;
-                    pkts_tx_time[x][i][j].sink = recv_array[recv_index].nID;
-                    //printf("pkts_tx_time[x][i][j].sink: %d\n", pkts_tx_time[x][i][j].sink);
+                    pkts_tx_time[x][j].tx_time = recv_time - send_time;
+                    pkts_tx_time[x][j].sink = recv_array[recv_index].nID;
 
                     if(recv_array[recv_index].nID == SINK_01) // sink 1
                     {
@@ -236,14 +235,14 @@ int main(int argc, char *argv[])
 
                     //printf("Packet dropped frm: %d, seq: %d\n",  i, j);
 
-                    pkts_tx_time[x][i][j].tx_time = 0;
+                    pkts_tx_time[x][j].tx_time = 0;
                 }
             }
             else
             {
 
                 // packet was not sent
-                pkts_tx_time[x][i][j].tx_time = 0;
+                pkts_tx_time[x][j].tx_time = 0;
             }
 
 		}
@@ -261,31 +260,29 @@ int main(int argc, char *argv[])
 
     for(x=0; x<MAX_SOURCES;x++)
 	{
-		for (i=0; i<FRAME_COUNT; i++)
+		for (j=0; j<PKTS_PER_FRAME; j++)
 		{
-			for (j=0; j<PKTS_PER_FRAME; j++)
+			if (pkts_tx_time[x][j].tx_time > 0)
 			{
-                if (pkts_tx_time[x][i][j].tx_time > 0)
-                {
-                    if (pkts_tx_time[x][i][j].sink == SINK_01)
-                    {
-				       total_sink1_time += pkts_tx_time[x][i][j].tx_time;
+				if (pkts_tx_time[x][j].sink == SINK_01)
+				{
+				   total_sink1_time += pkts_tx_time[x][j].tx_time;
 
-                        for (k=0; k<DEADLINES; k++)
-                        {
-                            if (pkts_tx_time[x][i][j].tx_time < (sink1_deadline*(1+k)))
-                            {
-                                sink1_reached_in_time[k]++;
-                            }
-                            else
-                            {
-								sink1_reached_late[k]++;
-							}
-                        }
-                    }
-                }
-            }
-        }
+					for (k=0; k<DEADLINES; k++)
+					{
+						if (pkts_tx_time[x][j].tx_time < (sink1_deadline*(1+k)))
+						{
+							sink1_reached_in_time[k]++;
+						}
+						else
+						{
+							sink1_reached_late[k]++;
+						}
+					}
+				}
+			}
+		}
+
     }
 
 #endif //DEADLINE
@@ -392,12 +389,19 @@ int main(int argc, char *argv[])
 	printf("\tTime\tS1 Sent\tS1 Recv\tS1 PR\n");
 	for (k = 0; k < TIME_SLOTS; k++)
 	{
-		printf("\t%d\t%d\t%d\t%0.2f\n",
+		printf("\t%d\t%d\t%d\t",
 				time_span_slot*(k+1),
 				tc_sink1_sent[k],
-				tc_sink1_received[k],
-				(float)tc_sink1_received[k]/(float)tc_sink1_sent[k]
+				tc_sink1_received[k]
 				);
+		if (!(tc_sink1_sent[k] == 0))
+		{
+			printf("%0.2f\n",(float)tc_sink1_received[k]/(float)tc_sink1_sent[k]);
+		}
+		else
+		{
+			printf("INF\n");
+		}
 	}
 
 
