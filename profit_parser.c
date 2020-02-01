@@ -58,16 +58,19 @@ int main(int argc, char *argv[])
 		if (SENDER_LINE)
 		{
 			nSendingLines++;
+			continue;
 		}
 
 		if (SINK_LINE)
 		{
 			nSinkLines++;
+			continue;
 		}
 
 		if (DROP_LINE)
 		{
 			nDroppedLines++;
+			continue;
 		}
 	}
 
@@ -106,10 +109,10 @@ int main(int argc, char *argv[])
 
 			send_array[h].sysTime = atoi(argv2[0])/1000;
 			send_array[h].nID = atoi(argv2[1]);
-			send_array[h].sink = SINK_01;
-			send_array[h].sender = atoi(argv2[4]);
-			send_array[h].seq_no = atoi(argv2[6]);
-			send_array[h].priority = atoi(argv2[8]);
+			send_array[h].sink = atoi(argv2[8]);
+			send_array[h].sender = atoi(argv2[1]);
+			send_array[h].seq_no = atoi(argv2[4]);
+			send_array[h].priority = atoi(argv2[6]);
 
 /*			printf("send_array[%d].sysTime = %d\n", h, send_array[h].sysTime);
 			printf("send_array[%d].nID = %d\n", h, send_array[h].nID);
@@ -119,9 +122,10 @@ int main(int argc, char *argv[])
 			printf("send_array[%d].seq_no = %d\n", h, send_array[h].seq_no);
 */
 			h++;
+			continue;
 		}
 
-		if (SINK_LINE)
+		else if (SINK_LINE)
 		{
 			recv_array[k].sysTime = atoi(argv2[0])/1000;
 			recv_array[k].nID = atoi(argv2[1]);
@@ -137,15 +141,17 @@ int main(int argc, char *argv[])
 			printf("recv_array[%d].nSeq = %d\n", k, recv_array[k].nSeq);
 */
 			k++;
+			continue;
 		}
 
-		if (DROP_LINE)
+		else if (DROP_LINE)
 		{
 			dropped_array[i].sysTime = getID(argv2[0])/1000;
 			dropped_array[i].nID = getID(argv2[1]);
-			dropped_array[i].total_dropped = getID(argv2[4]);
-			dropped_array[i].hi_dropped = getID(argv2[6]);
-			dropped_array[i].lo_dropped = getID(argv2[8]);
+			dropped_array[i].total_dropped = getID(argv2[5]);
+			dropped_array[i].hi_dropped = getID(argv2[7]);
+			dropped_array[i].lo_dropped = getID(argv2[9]);
+			dropped_array[i].seq = getID(argv2[11]);
 
 /*			printf("dropped_array[%d].sysTime: %d\t", i, dropped_array[i].sysTime);
 			printf("nID: %d\t", dropped_array[i].nID);
@@ -156,9 +162,8 @@ int main(int argc, char *argv[])
 			printf("listen: %d\n", dropped_array[i].listen);
 */
 			i++;
+			continue;
 		}
-
-
 	}
 
 

@@ -15,7 +15,7 @@
 
 #define SENDER_LINE 	(numtoken1 == 5) && (numtoken2 == 10) && ((strcmp(argv1[3],"SENDER") == 0 ))
 #define SINK_LINE 		(numtoken1 == 5) && (numtoken2 == 18) && ((strcmp(argv1[3],"SINK") == 0 ))
-#define DROP_LINE		(numtoken1 == 5) && (numtoken2 == 11) && ((strcmp(argv1[3],"DROPPED") == 0 ))
+#define DROP_LINE		(numtoken1 == 5) && (numtoken2 == 13) && ((strcmp(argv1[3],"DROPPED") == 0 ))
 
 
 //==================================================================================================//
@@ -175,6 +175,7 @@ typedef struct _dropped_pkt_data
 	int total_dropped;
 	int hi_dropped;
 	int lo_dropped;
+	int seq;
 }Dropped_Packet_Data;
 
 //==================================================================================================//
