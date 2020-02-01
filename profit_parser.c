@@ -55,17 +55,17 @@ int main(int argc, char *argv[])
 		print_array(argv2, buff, numtoken2);
 #endif
 
-		if ((numtoken1 == 5) && (numtoken2 == 10) && ((strcmp(argv1[3],"SENDER") == 0 )))
+		if (SENDER_LINE)
 		{
 			nSendingLines++;
 		}
 
-		if ((numtoken1 == 5) && (numtoken2 == 18) && ((strcmp(argv1[3],"SINK") == 0 )))
+		if (SINK_LINE)
 		{
 			nSinkLines++;
 		}
 
-		if ((numtoken1 == 5) && (numtoken2 == 10) && ((strcmp(argv1[3],"DROPPED") == 0 )))
+		if (DROP_LINE)
 		{
 			nDroppedLines++;
 		}
@@ -101,7 +101,7 @@ int main(int argc, char *argv[])
 		print_array(argv2, buff, numtoken2);
 #endif
 
-		if ((numtoken1 == 5) && (numtoken2 == 10) && ((strcmp(argv1[3],"SENDER") == 0 )))
+		if (SENDER_LINE)
 		{
 
 			send_array[h].sysTime = atoi(argv2[0])/1000;
@@ -121,7 +121,7 @@ int main(int argc, char *argv[])
 			h++;
 		}
 
-		if ((numtoken1 == 5) && (numtoken2 == 18) && ((strcmp(argv1[3],"SINK") == 0 )))
+		if (SINK_LINE)
 		{
 			recv_array[k].sysTime = atoi(argv2[0])/1000;
 			recv_array[k].nID = atoi(argv2[1]);
@@ -139,7 +139,7 @@ int main(int argc, char *argv[])
 			k++;
 		}
 
-		if ((numtoken1 == 5) && (numtoken2 == 10) && ((strcmp(argv1[3],"DROPPED") == 0 )))
+		if (DROP_LINE)
 		{
 			dropped_array[i].sysTime = getID(argv2[0])/1000;
 			dropped_array[i].nID = getID(argv2[1]);

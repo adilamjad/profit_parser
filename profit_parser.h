@@ -13,6 +13,11 @@
 #define PRINT_ROW 			1
 #define PRINT_OUTPUT        1
 
+#define SENDER_LINE 	(numtoken1 == 5) && (numtoken2 == 10) && ((strcmp(argv1[3],"SENDER") == 0 ))
+#define SINK_LINE 		(numtoken1 == 5) && (numtoken2 == 18) && ((strcmp(argv1[3],"SINK") == 0 ))
+#define DROP_LINE		(numtoken1 == 5) && (numtoken2 == 11) && ((strcmp(argv1[3],"DROPPED") == 0 ))
+
+
 //==================================================================================================//
 // Parsing Functions
 
