@@ -1,3 +1,7 @@
+rm rate*
+rm row*
+cp ~/contiki-ng/examples/PRoFIT4/rate* .
+
 ./profit_parser rate01.log 1 1 13
 ./profit_parser rate02.log 1 1 13
 ./profit_parser rate03.log 1 1 13
