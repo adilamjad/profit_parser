@@ -1,0 +1,1550 @@
+send_array[0].sysTime = 35034	nID = 13	sink = 1	sender = 13	seq_no = 0	priority = 1	line = 504
+send_array[1].sysTime = 44978	nID = 13	sink = 1	sender = 13	seq_no = 1	priority = 2	line = 506
+send_array[2].sysTime = 55334	nID = 13	sink = 1	sender = 13	seq_no = 2	priority = 1	line = 508
+send_array[3].sysTime = 65908	nID = 13	sink = 1	sender = 13	seq_no = 3	priority = 2	line = 509
+send_array[4].sysTime = 76727	nID = 13	sink = 1	sender = 13	seq_no = 4	priority = 1	line = 511
+send_array[5].sysTime = 86265	nID = 13	sink = 1	sender = 13	seq_no = 5	priority = 2	line = 512
+send_array[6].sysTime = 95886	nID = 13	sink = 1	sender = 13	seq_no = 6	priority = 1	line = 513
+send_array[7].sysTime = 105971	nID = 13	sink = 1	sender = 13	seq_no = 7	priority = 2	line = 514
+send_array[8].sysTime = 115114	nID = 13	sink = 1	sender = 13	seq_no = 8	priority = 1	line = 515
+send_array[9].sysTime = 125327	nID = 13	sink = 1	sender = 13	seq_no = 9	priority = 2	line = 516
+send_array[10].sysTime = 134571	nID = 13	sink = 1	sender = 13	seq_no = 10	priority = 1	line = 517
+send_array[11].sysTime = 144044	nID = 13	sink = 1	sender = 13	seq_no = 11	priority = 2	line = 519
+send_array[12].sysTime = 154826	nID = 13	sink = 1	sender = 13	seq_no = 12	priority = 1	line = 520
+send_array[13].sysTime = 164630	nID = 13	sink = 1	sender = 13	seq_no = 13	priority = 2	line = 521
+send_array[14].sysTime = 174746	nID = 13	sink = 1	sender = 13	seq_no = 14	priority = 1	line = 522
+send_array[15].sysTime = 185332	nID = 13	sink = 1	sender = 13	seq_no = 15	priority = 2	line = 523
+send_array[16].sysTime = 195935	nID = 13	sink = 1	sender = 13	seq_no = 16	priority = 1	line = 524
+send_array[17].sysTime = 235340	nID = 13	sink = 1	sender = 13	seq_no = 17	priority = 2	line = 529
+send_array[18].sysTime = 244775	nID = 13	sink = 1	sender = 13	seq_no = 18	priority = 1	line = 530
+send_array[19].sysTime = 254055	nID = 13	sink = 1	sender = 13	seq_no = 19	priority = 2	line = 532
+send_array[20].sysTime = 263607	nID = 13	sink = 1	sender = 13	seq_no = 20	priority = 1	line = 533
+send_array[21].sysTime = 273108	nID = 13	sink = 1	sender = 13	seq_no = 21	priority = 2	line = 534
+send_array[22].sysTime = 283438	nID = 13	sink = 1	sender = 13	seq_no = 22	priority = 1	line = 535
+send_array[23].sysTime = 293125	nID = 13	sink = 1	sender = 13	seq_no = 23	priority = 2	line = 537
+send_array[24].sysTime = 303874	nID = 13	sink = 1	sender = 13	seq_no = 24	priority = 1	line = 538
+send_array[25].sysTime = 314777	nID = 13	sink = 1	sender = 13	seq_no = 25	priority = 2	line = 540
+send_array[26].sysTime = 325342	nID = 13	sink = 1	sender = 13	seq_no = 26	priority = 1	line = 542
+send_array[27].sysTime = 334370	nID = 13	sink = 1	sender = 13	seq_no = 27	priority = 2	line = 544
+send_array[28].sysTime = 344018	nID = 13	sink = 1	sender = 13	seq_no = 28	priority = 1	line = 545
+send_array[29].sysTime = 353455	nID = 13	sink = 1	sender = 13	seq_no = 29	priority = 2	line = 547
+send_array[30].sysTime = 362930	nID = 13	sink = 1	sender = 13	seq_no = 30	priority = 1	line = 548
+send_array[31].sysTime = 372177	nID = 13	sink = 1	sender = 13	seq_no = 31	priority = 2	line = 550
+send_array[32].sysTime = 381292	nID = 13	sink = 1	sender = 13	seq_no = 32	priority = 1	line = 552
+send_array[33].sysTime = 391364	nID = 13	sink = 1	sender = 13	seq_no = 33	priority = 2	line = 553
+send_array[34].sysTime = 402015	nID = 13	sink = 1	sender = 13	seq_no = 34	priority = 1	line = 555
+send_array[35].sysTime = 411851	nID = 13	sink = 1	sender = 13	seq_no = 35	priority = 2	line = 557
+send_array[36].sysTime = 420925	nID = 13	sink = 1	sender = 13	seq_no = 36	priority = 1	line = 559
+send_array[37].sysTime = 431272	nID = 13	sink = 1	sender = 13	seq_no = 37	priority = 2	line = 560
+send_array[38].sysTime = 440354	nID = 13	sink = 1	sender = 13	seq_no = 38	priority = 1	line = 561
+send_array[39].sysTime = 450135	nID = 13	sink = 1	sender = 13	seq_no = 39	priority = 2	line = 563
+send_array[40].sysTime = 459791	nID = 13	sink = 1	sender = 13	seq_no = 40	priority = 1	line = 565
+send_array[41].sysTime = 470211	nID = 13	sink = 1	sender = 13	seq_no = 41	priority = 2	line = 567
+send_array[42].sysTime = 480394	nID = 13	sink = 1	sender = 13	seq_no = 42	priority = 1	line = 569
+send_array[43].sysTime = 490030	nID = 13	sink = 1	sender = 13	seq_no = 43	priority = 2	line = 570
+send_array[44].sysTime = 499568	nID = 13	sink = 1	sender = 13	seq_no = 44	priority = 1	line = 572
+send_array[45].sysTime = 508906	nID = 13	sink = 1	sender = 13	seq_no = 45	priority = 2	line = 574
+send_array[46].sysTime = 518209	nID = 13	sink = 1	sender = 13	seq_no = 46	priority = 1	line = 576
+send_array[47].sysTime = 527692	nID = 13	sink = 1	sender = 13	seq_no = 47	priority = 2	line = 577
+send_array[48].sysTime = 537672	nID = 13	sink = 1	sender = 13	seq_no = 48	priority = 1	line = 579
+send_array[49].sysTime = 546844	nID = 13	sink = 1	sender = 13	seq_no = 49	priority = 2	line = 581
+send_array[50].sysTime = 557161	nID = 13	sink = 1	sender = 13	seq_no = 50	priority = 1	line = 582
+send_array[51].sysTime = 566276	nID = 13	sink = 1	sender = 13	seq_no = 51	priority = 2	line = 584
+send_array[52].sysTime = 576187	nID = 13	sink = 1	sender = 13	seq_no = 52	priority = 1	line = 585
+send_array[53].sysTime = 585350	nID = 13	sink = 1	sender = 13	seq_no = 53	priority = 2	line = 586
+send_array[54].sysTime = 596123	nID = 13	sink = 1	sender = 13	seq_no = 54	priority = 1	line = 588
+send_array[55].sysTime = 606445	nID = 13	sink = 1	sender = 13	seq_no = 55	priority = 2	line = 590
+send_array[56].sysTime = 616737	nID = 13	sink = 1	sender = 13	seq_no = 56	priority = 1	line = 591
+send_array[57].sysTime = 627045	nID = 13	sink = 1	sender = 13	seq_no = 57	priority = 2	line = 593
+send_array[58].sysTime = 636529	nID = 13	sink = 1	sender = 13	seq_no = 58	priority = 1	line = 594
+send_array[59].sysTime = 646688	nID = 13	sink = 1	sender = 13	seq_no = 59	priority = 2	line = 595
+send_array[60].sysTime = 657135	nID = 13	sink = 1	sender = 13	seq_no = 60	priority = 1	line = 597
+send_array[61].sysTime = 667543	nID = 13	sink = 1	sender = 13	seq_no = 61	priority = 2	line = 598
+send_array[62].sysTime = 678058	nID = 13	sink = 1	sender = 13	seq_no = 62	priority = 1	line = 600
+send_array[63].sysTime = 688781	nID = 13	sink = 1	sender = 13	seq_no = 63	priority = 2	line = 602
+send_array[64].sysTime = 697806	nID = 13	sink = 1	sender = 13	seq_no = 64	priority = 1	line = 603
+send_array[65].sysTime = 707665	nID = 13	sink = 1	sender = 13	seq_no = 65	priority = 2	line = 605
+send_array[66].sysTime = 798704	nID = 13	sink = 1	sender = 13	seq_no = 66	priority = 1	line = 619
+send_array[67].sysTime = 808171	nID = 13	sink = 1	sender = 13	seq_no = 67	priority = 2	line = 621
+send_array[68].sysTime = 818013	nID = 13	sink = 1	sender = 13	seq_no = 68	priority = 1	line = 623
+send_array[69].sysTime = 1483762	nID = 13	sink = 1	sender = 13	seq_no = 69	priority = 2	line = 731
+send_array[70].sysTime = 1493930	nID = 13	sink = 1	sender = 13	seq_no = 70	priority = 1	line = 732
+send_array[71].sysTime = 1597751	nID = 13	sink = 1	sender = 13	seq_no = 71	priority = 2	line = 748
+send_array[72].sysTime = 1607164	nID = 13	sink = 1	sender = 13	seq_no = 72	priority = 1	line = 749
+send_array[73].sysTime = 1616455	nID = 13	sink = 1	sender = 13	seq_no = 73	priority = 2	line = 750
+send_array[74].sysTime = 2232119	nID = 13	sink = 1	sender = 13	seq_no = 74	priority = 1	line = 852
+send_array[75].sysTime = 2241395	nID = 13	sink = 1	sender = 13	seq_no = 75	priority = 2	line = 854
+send_array[76].sysTime = 2250918	nID = 13	sink = 1	sender = 13	seq_no = 76	priority = 1	line = 855
+send_array[77].sysTime = 2359968	nID = 13	sink = 1	sender = 13	seq_no = 77	priority = 2	line = 872
+send_array[78].sysTime = 2370518	nID = 13	sink = 1	sender = 13	seq_no = 78	priority = 1	line = 874
+send_array[79].sysTime = 2381272	nID = 13	sink = 1	sender = 13	seq_no = 79	priority = 2	line = 875
+send_array[80].sysTime = 2390905	nID = 13	sink = 1	sender = 13	seq_no = 80	priority = 1	line = 876
+send_array[81].sysTime = 2400579	nID = 13	sink = 1	sender = 13	seq_no = 81	priority = 2	line = 878
+send_array[82].sysTime = 3327916	nID = 13	sink = 1	sender = 13	seq_no = 82	priority = 1	line = 1027
+send_array[83].sysTime = 3338710	nID = 13	sink = 1	sender = 13	seq_no = 83	priority = 2	line = 1028
+send_array[84].sysTime = 3661382	nID = 13	sink = 1	sender = 13	seq_no = 84	priority = 1	line = 1080
+send_array[85].sysTime = 3721823	nID = 13	sink = 1	sender = 13	seq_no = 85	priority = 2	line = 1089
+send_array[86].sysTime = 3902938	nID = 13	sink = 1	sender = 13	seq_no = 86	priority = 1	line = 1119
+send_array[87].sysTime = 4101615	nID = 13	sink = 1	sender = 13	seq_no = 87	priority = 2	line = 1150
+send_array[88].sysTime = 4110950	nID = 13	sink = 1	sender = 13	seq_no = 88	priority = 1	line = 1152
+send_array[89].sysTime = 4160575	nID = 13	sink = 1	sender = 13	seq_no = 89	priority = 2	line = 1159
+send_array[90].sysTime = 4169722	nID = 13	sink = 1	sender = 13	seq_no = 90	priority = 1	line = 1160
+send_array[91].sysTime = 4180451	nID = 13	sink = 1	sender = 13	seq_no = 91	priority = 2	line = 1162
+send_array[92].sysTime = 4191078	nID = 13	sink = 1	sender = 13	seq_no = 92	priority = 1	line = 1163
+send_array[93].sysTime = 4200735	nID = 13	sink = 1	sender = 13	seq_no = 93	priority = 2	line = 1164
+send_array[94].sysTime = 4634767	nID = 13	sink = 1	sender = 13	seq_no = 94	priority = 1	line = 1234
+send_array[95].sysTime = 4643820	nID = 13	sink = 1	sender = 13	seq_no = 95	priority = 2	line = 1236
+send_array[96].sysTime = 5390838	nID = 13	sink = 1	sender = 13	seq_no = 96	priority = 1	line = 1358
+send_array[97].sysTime = 5420789	nID = 13	sink = 1	sender = 13	seq_no = 97	priority = 2	line = 1363
+send_array[98].sysTime = 5430803	nID = 13	sink = 1	sender = 13	seq_no = 98	priority = 1	line = 1365
+send_array[99].sysTime = 5441137	nID = 13	sink = 1	sender = 13	seq_no = 99	priority = 2	line = 1367
+send_array[100].sysTime = 5450226	nID = 13	sink = 1	sender = 13	seq_no = 100	priority = 1	line = 1368
+send_array[101].sysTime = 5460942	nID = 13	sink = 1	sender = 13	seq_no = 101	priority = 2	line = 1370
+send_array[102].sysTime = 5471212	nID = 13	sink = 1	sender = 13	seq_no = 102	priority = 1	line = 1371
+send_array[103].sysTime = 5480266	nID = 13	sink = 1	sender = 13	seq_no = 103	priority = 2	line = 1372
+send_array[104].sysTime = 5490349	nID = 13	sink = 1	sender = 13	seq_no = 104	priority = 1	line = 1374
+send_array[105].sysTime = 5510508	nID = 13	sink = 1	sender = 13	seq_no = 105	priority = 2	line = 1376
+send_array[106].sysTime = 5520452	nID = 13	sink = 1	sender = 13	seq_no = 106	priority = 1	line = 1377
+send_array[107].sysTime = 5530147	nID = 13	sink = 1	sender = 13	seq_no = 107	priority = 2	line = 1378
+send_array[108].sysTime = 5540267	nID = 13	sink = 1	sender = 13	seq_no = 108	priority = 1	line = 1380
+send_array[109].sysTime = 6220370	nID = 13	sink = 1	sender = 13	seq_no = 109	priority = 2	line = 1490
+send_array[110].sysTime = 6230912	nID = 13	sink = 1	sender = 13	seq_no = 110	priority = 1	line = 1492
+send_array[111].sysTime = 6239923	nID = 13	sink = 1	sender = 13	seq_no = 111	priority = 2	line = 1494
+send_array[112].sysTime = 6248942	nID = 13	sink = 1	sender = 13	seq_no = 112	priority = 1	line = 1496
+send_array[113].sysTime = 6259032	nID = 13	sink = 1	sender = 13	seq_no = 113	priority = 2	line = 1498
+send_array[114].sysTime = 6268335	nID = 13	sink = 1	sender = 13	seq_no = 114	priority = 1	line = 1499
+send_array[115].sysTime = 6277722	nID = 13	sink = 1	sender = 13	seq_no = 115	priority = 2	line = 1501
+send_array[116].sysTime = 6288527	nID = 13	sink = 1	sender = 13	seq_no = 116	priority = 1	line = 1502
+send_array[117].sysTime = 6297951	nID = 13	sink = 1	sender = 13	seq_no = 117	priority = 2	line = 1503
+send_array[118].sysTime = 6307023	nID = 13	sink = 1	sender = 13	seq_no = 118	priority = 1	line = 1505
+send_array[119].sysTime = 6316310	nID = 13	sink = 1	sender = 13	seq_no = 119	priority = 2	line = 1506
+send_array[120].sysTime = 6807720	nID = 13	sink = 1	sender = 13	seq_no = 120	priority = 1	line = 1585
+send_array[121].sysTime = 6817161	nID = 13	sink = 1	sender = 13	seq_no = 121	priority = 2	line = 1587
+send_array[122].sysTime = 6826238	nID = 13	sink = 1	sender = 13	seq_no = 122	priority = 1	line = 1589
+send_array[123].sysTime = 6836032	nID = 13	sink = 1	sender = 13	seq_no = 123	priority = 2	line = 1591
+send_array[124].sysTime = 6845108	nID = 13	sink = 1	sender = 13	seq_no = 124	priority = 1	line = 1592
+send_array[125].sysTime = 6855607	nID = 13	sink = 1	sender = 13	seq_no = 125	priority = 2	line = 1593
+send_array[126].sysTime = 6895772	nID = 13	sink = 1	sender = 13	seq_no = 126	priority = 1	line = 1600
+send_array[127].sysTime = 6905772	nID = 13	sink = 1	sender = 13	seq_no = 127	priority = 2	line = 1601
+send_array[128].sysTime = 6915148	nID = 13	sink = 1	sender = 13	seq_no = 128	priority = 1	line = 1603
+send_array[129].sysTime = 6924231	nID = 13	sink = 1	sender = 13	seq_no = 129	priority = 2	line = 1604
+send_array[130].sysTime = 6935164	nID = 13	sink = 1	sender = 13	seq_no = 130	priority = 1	line = 1605
+send_array[131].sysTime = 7181588	nID = 13	sink = 1	sender = 13	seq_no = 131	priority = 2	line = 1646
+send_array[132].sysTime = 7231705	nID = 13	sink = 1	sender = 13	seq_no = 132	priority = 1	line = 1653
+send_array[133].sysTime = 7241571	nID = 13	sink = 1	sender = 13	seq_no = 133	priority = 2	line = 1655
+send_array[134].sysTime = 7251057	nID = 13	sink = 1	sender = 13	seq_no = 134	priority = 1	line = 1657
+send_array[135].sysTime = 7260527	nID = 13	sink = 1	sender = 13	seq_no = 135	priority = 2	line = 1659
+send_array[136].sysTime = 7269643	nID = 13	sink = 1	sender = 13	seq_no = 136	priority = 1	line = 1661
+send_array[137].sysTime = 7279688	nID = 13	sink = 1	sender = 13	seq_no = 137	priority = 2	line = 1662
+send_array[138].sysTime = 7701150	nID = 13	sink = 1	sender = 13	seq_no = 138	priority = 1	line = 1729
+send_array[139].sysTime = 7840495	nID = 13	sink = 1	sender = 13	seq_no = 139	priority = 2	line = 1751
+send_array[140].sysTime = 8382226	nID = 13	sink = 1	sender = 13	seq_no = 140	priority = 1	line = 1838
+send_array[141].sysTime = 8652444	nID = 13	sink = 1	sender = 13	seq_no = 141	priority = 2	line = 1883
+send_array[142].sysTime = 8663252	nID = 13	sink = 1	sender = 13	seq_no = 142	priority = 1	line = 1885
+send_array[143].sysTime = 8672454	nID = 13	sink = 1	sender = 13	seq_no = 143	priority = 2	line = 1886
+send_array[144].sysTime = 8682126	nID = 13	sink = 1	sender = 13	seq_no = 144	priority = 1	line = 1887
+send_array[145].sysTime = 8693000	nID = 13	sink = 1	sender = 13	seq_no = 145	priority = 2	line = 1889
+send_array[146].sysTime = 8703830	nID = 13	sink = 1	sender = 13	seq_no = 146	priority = 1	line = 1890
+send_array[147].sysTime = 8713590	nID = 13	sink = 1	sender = 13	seq_no = 147	priority = 2	line = 1891
+send_array[148].sysTime = 9079518	nID = 13	sink = 1	sender = 13	seq_no = 148	priority = 1	line = 1951
+send_array[149].sysTime = 9089286	nID = 13	sink = 1	sender = 13	seq_no = 149	priority = 2	line = 1953
+send_array[150].sysTime = 9098929	nID = 13	sink = 1	sender = 13	seq_no = 150	priority = 1	line = 1954
+send_array[151].sysTime = 9109614	nID = 13	sink = 1	sender = 13	seq_no = 151	priority = 2	line = 1956
+send_array[152].sysTime = 9119345	nID = 13	sink = 1	sender = 13	seq_no = 152	priority = 1	line = 1957
+send_array[153].sysTime = 9130213	nID = 13	sink = 1	sender = 13	seq_no = 153	priority = 2	line = 1958
+send_array[154].sysTime = 9974918	nID = 13	sink = 1	sender = 13	seq_no = 154	priority = 1	line = 2096
+send_array[155].sysTime = 9983939	nID = 13	sink = 1	sender = 13	seq_no = 155	priority = 2	line = 2098
+send_array[156].sysTime = 9994562	nID = 13	sink = 1	sender = 13	seq_no = 156	priority = 1	line = 2100
+send_array[157].sysTime = 10005321	nID = 13	sink = 1	sender = 13	seq_no = 157	priority = 2	line = 2102
+send_array[158].sysTime = 10015084	nID = 13	sink = 1	sender = 13	seq_no = 158	priority = 1	line = 2104
+send_array[159].sysTime = 10025899	nID = 13	sink = 1	sender = 13	seq_no = 159	priority = 2	line = 2106
+send_array[160].sysTime = 10034982	nID = 13	sink = 1	sender = 13	seq_no = 160	priority = 1	line = 2108
+send_array[161].sysTime = 10045048	nID = 13	sink = 1	sender = 13	seq_no = 161	priority = 2	line = 2110
+send_array[162].sysTime = 10054927	nID = 13	sink = 1	sender = 13	seq_no = 162	priority = 1	line = 2111
+send_array[163].sysTime = 10064099	nID = 13	sink = 1	sender = 13	seq_no = 163	priority = 2	line = 2114
+send_array[164].sysTime = 10074843	nID = 13	sink = 1	sender = 13	seq_no = 164	priority = 1	line = 2115
+send_array[165].sysTime = 10085211	nID = 13	sink = 1	sender = 13	seq_no = 165	priority = 2	line = 2117
+send_array[166].sysTime = 10096026	nID = 13	sink = 1	sender = 13	seq_no = 166	priority = 1	line = 2119
+send_array[167].sysTime = 10105739	nID = 13	sink = 1	sender = 13	seq_no = 167	priority = 2	line = 2120
+send_array[168].sysTime = 10115390	nID = 13	sink = 1	sender = 13	seq_no = 168	priority = 1	line = 2122
+send_array[169].sysTime = 10363304	nID = 13	sink = 1	sender = 13	seq_no = 169	priority = 2	line = 2162
+send_array[170].sysTime = 10372838	nID = 13	sink = 1	sender = 13	seq_no = 170	priority = 1	line = 2164
+send_array[171].sysTime = 10382969	nID = 13	sink = 1	sender = 13	seq_no = 171	priority = 2	line = 2165
+send_array[172].sysTime = 10392131	nID = 13	sink = 1	sender = 13	seq_no = 172	priority = 1	line = 2166
+send_array[173].sysTime = 10402365	nID = 13	sink = 1	sender = 13	seq_no = 173	priority = 2	line = 2168
+send_array[174].sysTime = 10412437	nID = 13	sink = 1	sender = 13	seq_no = 174	priority = 1	line = 2169
+send_array[175].sysTime = 10422729	nID = 13	sink = 1	sender = 13	seq_no = 175	priority = 2	line = 2170
+send_array[176].sysTime = 10432422	nID = 13	sink = 1	sender = 13	seq_no = 176	priority = 1	line = 2172
+send_array[177].sysTime = 10443185	nID = 13	sink = 1	sender = 13	seq_no = 177	priority = 2	line = 2173
+send_array[178].sysTime = 10452428	nID = 13	sink = 1	sender = 13	seq_no = 178	priority = 1	line = 2175
+send_array[179].sysTime = 10463030	nID = 13	sink = 1	sender = 13	seq_no = 179	priority = 2	line = 2177
+send_array[180].sysTime = 10472886	nID = 13	sink = 1	sender = 13	seq_no = 180	priority = 1	line = 2179
+send_array[181].sysTime = 10483468	nID = 13	sink = 1	sender = 13	seq_no = 181	priority = 2	line = 2181
+send_array[182].sysTime = 10493523	nID = 13	sink = 1	sender = 13	seq_no = 182	priority = 1	line = 2182
+send_array[183].sysTime = 10502927	nID = 13	sink = 1	sender = 13	seq_no = 183	priority = 2	line = 2183
+send_array[184].sysTime = 10512558	nID = 13	sink = 1	sender = 13	seq_no = 184	priority = 1	line = 2185
+send_array[185].sysTime = 10522961	nID = 13	sink = 1	sender = 13	seq_no = 185	priority = 2	line = 2187
+send_array[186].sysTime = 10533387	nID = 13	sink = 1	sender = 13	seq_no = 186	priority = 1	line = 2189
+send_array[187].sysTime = 10542893	nID = 13	sink = 1	sender = 13	seq_no = 187	priority = 2	line = 2191
+send_array[188].sysTime = 10551921	nID = 13	sink = 1	sender = 13	seq_no = 188	priority = 1	line = 2192
+send_array[189].sysTime = 10562876	nID = 13	sink = 1	sender = 13	seq_no = 189	priority = 2	line = 2194
+send_array[190].sysTime = 10573244	nID = 13	sink = 1	sender = 13	seq_no = 190	priority = 1	line = 2195
+send_array[191].sysTime = 10583702	nID = 13	sink = 1	sender = 13	seq_no = 191	priority = 2	line = 2196
+send_array[192].sysTime = 10593962	nID = 13	sink = 1	sender = 13	seq_no = 192	priority = 1	line = 2198
+send_array[193].sysTime = 11299586	nID = 13	sink = 1	sender = 13	seq_no = 193	priority = 2	line = 2311
+send_array[194].sysTime = 11309556	nID = 13	sink = 1	sender = 13	seq_no = 194	priority = 1	line = 2313
+send_array[195].sysTime = 11816067	nID = 13	sink = 1	sender = 13	seq_no = 195	priority = 2	line = 2394
+send_array[196].sysTime = 11825275	nID = 13	sink = 1	sender = 13	seq_no = 196	priority = 1	line = 2395
+send_array[197].sysTime = 11834792	nID = 13	sink = 1	sender = 13	seq_no = 197	priority = 2	line = 2397
+send_array[198].sysTime = 11845256	nID = 13	sink = 1	sender = 13	seq_no = 198	priority = 1	line = 2399
+send_array[199].sysTime = 11884618	nID = 13	sink = 1	sender = 13	seq_no = 199	priority = 2	line = 2407
+send_array[200].sysTime = 12203181	nID = 13	sink = 1	sender = 13	seq_no = 200	priority = 1	line = 2460
+send_array[201].sysTime = 12293992	nID = 13	sink = 1	sender = 13	seq_no = 201	priority = 2	line = 2475
+send_array[202].sysTime = 12304148	nID = 13	sink = 1	sender = 13	seq_no = 202	priority = 1	line = 2477
+send_array[203].sysTime = 12314136	nID = 13	sink = 1	sender = 13	seq_no = 203	priority = 2	line = 2478
+send_array[204].sysTime = 12323833	nID = 13	sink = 1	sender = 13	seq_no = 204	priority = 1	line = 2480
+send_array[205].sysTime = 12656593	nID = 13	sink = 1	sender = 13	seq_no = 205	priority = 2	line = 2533
+send_array[206].sysTime = 12667029	nID = 13	sink = 1	sender = 13	seq_no = 206	priority = 1	line = 2535
+send_array[207].sysTime = 12677899	nID = 13	sink = 1	sender = 13	seq_no = 207	priority = 2	line = 2537
+send_array[208].sysTime = 12687087	nID = 13	sink = 1	sender = 13	seq_no = 208	priority = 1	line = 2538
+send_array[209].sysTime = 12697201	nID = 13	sink = 1	sender = 13	seq_no = 209	priority = 2	line = 2540
+send_array[210].sysTime = 12706875	nID = 13	sink = 1	sender = 13	seq_no = 210	priority = 1	line = 2542
+send_array[211].sysTime = 12717570	nID = 13	sink = 1	sender = 13	seq_no = 211	priority = 2	line = 2544
+send_array[212].sysTime = 12728539	nID = 13	sink = 1	sender = 13	seq_no = 212	priority = 1	line = 2545
+send_array[213].sysTime = 12739130	nID = 13	sink = 1	sender = 13	seq_no = 213	priority = 2	line = 2547
+send_array[214].sysTime = 12749409	nID = 13	sink = 1	sender = 13	seq_no = 214	priority = 1	line = 2548
+send_array[215].sysTime = 12758779	nID = 13	sink = 1	sender = 13	seq_no = 215	priority = 2	line = 2549
+send_array[216].sysTime = 12769399	nID = 13	sink = 1	sender = 13	seq_no = 216	priority = 1	line = 2552
+send_array[217].sysTime = 12788638	nID = 13	sink = 1	sender = 13	seq_no = 217	priority = 2	line = 2554
+send_array[218].sysTime = 12799323	nID = 13	sink = 1	sender = 13	seq_no = 218	priority = 1	line = 2555
+send_array[219].sysTime = 12808921	nID = 13	sink = 1	sender = 13	seq_no = 219	priority = 2	line = 2557
+send_array[220].sysTime = 12819570	nID = 13	sink = 1	sender = 13	seq_no = 220	priority = 1	line = 2559
+send_array[221].sysTime = 12830496	nID = 13	sink = 1	sender = 13	seq_no = 221	priority = 2	line = 2560
+send_array[222].sysTime = 12840666	nID = 13	sink = 1	sender = 13	seq_no = 222	priority = 1	line = 2561
+send_array[223].sysTime = 12851269	nID = 13	sink = 1	sender = 13	seq_no = 223	priority = 2	line = 2563
+send_array[224].sysTime = 13142155	nID = 13	sink = 1	sender = 13	seq_no = 224	priority = 1	line = 2611
+send_array[225].sysTime = 13319660	nID = 13	sink = 1	sender = 13	seq_no = 225	priority = 2	line = 2640
+send_array[226].sysTime = 13329748	nID = 13	sink = 1	sender = 13	seq_no = 226	priority = 1	line = 2641
+send_array[227].sysTime = 13339666	nID = 13	sink = 1	sender = 13	seq_no = 227	priority = 2	line = 2642
+send_array[228].sysTime = 13350132	nID = 13	sink = 1	sender = 13	seq_no = 228	priority = 1	line = 2644
+send_array[229].sysTime = 13616882	nID = 13	sink = 1	sender = 13	seq_no = 229	priority = 2	line = 2687
+send_array[230].sysTime = 13627664	nID = 13	sink = 1	sender = 13	seq_no = 230	priority = 1	line = 2689
+send_array[231].sysTime = 13638361	nID = 13	sink = 1	sender = 13	seq_no = 231	priority = 2	line = 2691
+send_array[232].sysTime = 13849603	nID = 13	sink = 1	sender = 13	seq_no = 232	priority = 1	line = 2725
+send_array[233].sysTime = 13860312	nID = 13	sink = 1	sender = 13	seq_no = 233	priority = 2	line = 2726
+send_array[234].sysTime = 13869864	nID = 13	sink = 1	sender = 13	seq_no = 234	priority = 1	line = 2727
+send_array[235].sysTime = 13880513	nID = 13	sink = 1	sender = 13	seq_no = 235	priority = 2	line = 2728
+send_array[236].sysTime = 13890517	nID = 13	sink = 1	sender = 13	seq_no = 236	priority = 1	line = 2730
+send_array[237].sysTime = 14606386	nID = 13	sink = 1	sender = 13	seq_no = 237	priority = 2	line = 2846
+send_array[238].sysTime = 14615434	nID = 13	sink = 1	sender = 13	seq_no = 238	priority = 1	line = 2848
+send_array[239].sysTime = 14625464	nID = 13	sink = 1	sender = 13	seq_no = 239	priority = 2	line = 2850
+send_array[240].sysTime = 14634493	nID = 13	sink = 1	sender = 13	seq_no = 240	priority = 1	line = 2851
+send_array[241].sysTime = 14644751	nID = 13	sink = 1	sender = 13	seq_no = 241	priority = 2	line = 2853
+send_array[242].sysTime = 14655101	nID = 13	sink = 1	sender = 13	seq_no = 242	priority = 1	line = 2854
+send_array[243].sysTime = 14665384	nID = 13	sink = 1	sender = 13	seq_no = 243	priority = 2	line = 2855
+send_array[244].sysTime = 14715500	nID = 13	sink = 1	sender = 13	seq_no = 244	priority = 1	line = 2862
+send_array[245].sysTime = 14725200	nID = 13	sink = 1	sender = 13	seq_no = 245	priority = 2	line = 2864
+send_array[246].sysTime = 14735832	nID = 13	sink = 1	sender = 13	seq_no = 246	priority = 1	line = 2865
+send_array[247].sysTime = 15082491	nID = 13	sink = 1	sender = 13	seq_no = 247	priority = 2	line = 2921
+send_array[248].sysTime = 15093385	nID = 13	sink = 1	sender = 13	seq_no = 248	priority = 1	line = 2923
+send_array[249].sysTime = 15113415	nID = 13	sink = 1	sender = 13	seq_no = 249	priority = 2	line = 2926
+send_array[250].sysTime = 15123360	nID = 13	sink = 1	sender = 13	seq_no = 250	priority = 1	line = 2927
+send_array[251].sysTime = 15133620	nID = 13	sink = 1	sender = 13	seq_no = 251	priority = 2	line = 2928
+send_array[252].sysTime = 15144196	nID = 13	sink = 1	sender = 13	seq_no = 252	priority = 1	line = 2929
+send_array[253].sysTime = 15153290	nID = 13	sink = 1	sender = 13	seq_no = 253	priority = 2	line = 2931
+send_array[254].sysTime = 15652680	nID = 13	sink = 1	sender = 13	seq_no = 254	priority = 1	line = 3011
+send_array[255].sysTime = 15901119	nID = 13	sink = 1	sender = 13	seq_no = 255	priority = 2	line = 3051
+send_array[256].sysTime = 15910205	nID = 13	sink = 1	sender = 13	seq_no = 256	priority = 1	line = 3053
+send_array[257].sysTime = 15920627	nID = 13	sink = 1	sender = 13	seq_no = 257	priority = 2	line = 3054
+send_array[258].sysTime = 15998935	nID = 13	sink = 1	sender = 13	seq_no = 258	priority = 1	line = 3066
+send_array[259].sysTime = 16008547	nID = 13	sink = 1	sender = 13	seq_no = 259	priority = 2	line = 3067
+send_array[260].sysTime = 16017747	nID = 13	sink = 1	sender = 13	seq_no = 260	priority = 1	line = 3069
+send_array[261].sysTime = 16374491	nID = 13	sink = 1	sender = 13	seq_no = 261	priority = 2	line = 3126
+send_array[262].sysTime = 16384819	nID = 13	sink = 1	sender = 13	seq_no = 262	priority = 1	line = 3128
+send_array[263].sysTime = 16394317	nID = 13	sink = 1	sender = 13	seq_no = 263	priority = 2	line = 3130
+send_array[264].sysTime = 16404549	nID = 13	sink = 1	sender = 13	seq_no = 264	priority = 1	line = 3132
+send_array[265].sysTime = 16413676	nID = 13	sink = 1	sender = 13	seq_no = 265	priority = 2	line = 3134
+send_array[266].sysTime = 16455726	nID = 13	sink = 1	sender = 13	seq_no = 266	priority = 1	line = 3141
+send_array[267].sysTime = 16465151	nID = 13	sink = 1	sender = 13	seq_no = 267	priority = 2	line = 3143
+send_array[268].sysTime = 16474880	nID = 13	sink = 1	sender = 13	seq_no = 268	priority = 1	line = 3144
+send_array[269].sysTime = 16484665	nID = 13	sink = 1	sender = 13	seq_no = 269	priority = 2	line = 3146
+send_array[270].sysTime = 16824759	nID = 13	sink = 1	sender = 13	seq_no = 270	priority = 1	line = 3202
+send_array[271].sysTime = 16834826	nID = 13	sink = 1	sender = 13	seq_no = 271	priority = 2	line = 3204
+send_array[272].sysTime = 16844919	nID = 13	sink = 1	sender = 13	seq_no = 272	priority = 1	line = 3206
+send_array[273].sysTime = 16854512	nID = 13	sink = 1	sender = 13	seq_no = 273	priority = 2	line = 3208
+send_array[274].sysTime = 16864494	nID = 13	sink = 1	sender = 13	seq_no = 274	priority = 1	line = 3210
+send_array[275].sysTime = 16875307	nID = 13	sink = 1	sender = 13	seq_no = 275	priority = 2	line = 3211
+send_array[276].sysTime = 16885021	nID = 13	sink = 1	sender = 13	seq_no = 276	priority = 1	line = 3213
+send_array[277].sysTime = 16895866	nID = 13	sink = 1	sender = 13	seq_no = 277	priority = 2	line = 3215
+send_array[278].sysTime = 16906833	nID = 13	sink = 1	sender = 13	seq_no = 278	priority = 1	line = 3217
+send_array[279].sysTime = 16917488	nID = 13	sink = 1	sender = 13	seq_no = 279	priority = 2	line = 3219
+send_array[280].sysTime = 16927913	nID = 13	sink = 1	sender = 13	seq_no = 280	priority = 1	line = 3221
+send_array[281].sysTime = 16937083	nID = 13	sink = 1	sender = 13	seq_no = 281	priority = 2	line = 3222
+send_array[282].sysTime = 16946532	nID = 13	sink = 1	sender = 13	seq_no = 282	priority = 1	line = 3224
+send_array[283].sysTime = 16956006	nID = 13	sink = 1	sender = 13	seq_no = 283	priority = 2	line = 3226
+send_array[284].sysTime = 16965338	nID = 13	sink = 1	sender = 13	seq_no = 284	priority = 1	line = 3228
+send_array[285].sysTime = 16975676	nID = 13	sink = 1	sender = 13	seq_no = 285	priority = 2	line = 3229
+send_array[286].sysTime = 16985891	nID = 13	sink = 1	sender = 13	seq_no = 286	priority = 1	line = 3230
+send_array[287].sysTime = 17328092	nID = 13	sink = 1	sender = 13	seq_no = 287	priority = 2	line = 3286
+send_array[288].sysTime = 17338788	nID = 13	sink = 1	sender = 13	seq_no = 288	priority = 1	line = 3287
+send_array[289].sysTime = 17348326	nID = 13	sink = 1	sender = 13	seq_no = 289	priority = 2	line = 3289
+send_array[290].sysTime = 17358555	nID = 13	sink = 1	sender = 13	seq_no = 290	priority = 1	line = 3290
+send_array[291].sysTime = 17397141	nID = 13	sink = 1	sender = 13	seq_no = 291	priority = 2	line = 3295
+send_array[292].sysTime = 17406230	nID = 13	sink = 1	sender = 13	seq_no = 292	priority = 1	line = 3297
+send_array[293].sysTime = 17416533	nID = 13	sink = 1	sender = 13	seq_no = 293	priority = 2	line = 3298
+send_array[294].sysTime = 17426672	nID = 13	sink = 1	sender = 13	seq_no = 294	priority = 1	line = 3300
+send_array[295].sysTime = 17747777	nID = 13	sink = 1	sender = 13	seq_no = 295	priority = 2	line = 3353
+send_array[296].sysTime = 18037577	nID = 13	sink = 1	sender = 13	seq_no = 296	priority = 1	line = 3399
+send_array[297].sysTime = 18047259	nID = 13	sink = 1	sender = 13	seq_no = 297	priority = 2	line = 3400
+send_array[298].sysTime = 18056423	nID = 13	sink = 1	sender = 13	seq_no = 298	priority = 1	line = 3401
+send_array[299].sysTime = 18066676	nID = 13	sink = 1	sender = 13	seq_no = 299	priority = 2	line = 3403
+send_array[300].sysTime = 18439559	nID = 13	sink = 1	sender = 13	seq_no = 300	priority = 1	line = 3464
+send_array[301].sysTime = 18449631	nID = 13	sink = 1	sender = 13	seq_no = 301	priority = 2	line = 3466
+send_array[302].sysTime = 18459407	nID = 13	sink = 1	sender = 13	seq_no = 302	priority = 1	line = 3468
+send_array[303].sysTime = 18468725	nID = 13	sink = 1	sender = 13	seq_no = 303	priority = 2	line = 3470
+send_array[304].sysTime = 18478069	nID = 13	sink = 1	sender = 13	seq_no = 304	priority = 1	line = 3471
+send_array[305].sysTime = 18488084	nID = 13	sink = 1	sender = 13	seq_no = 305	priority = 2	line = 3473
+send_array[306].sysTime = 18497316	nID = 13	sink = 1	sender = 13	seq_no = 306	priority = 1	line = 3475
+send_array[307].sysTime = 18507866	nID = 13	sink = 1	sender = 13	seq_no = 307	priority = 2	line = 3477
+send_array[308].sysTime = 18518623	nID = 13	sink = 1	sender = 13	seq_no = 308	priority = 1	line = 3479
+send_array[309].sysTime = 18529131	nID = 13	sink = 1	sender = 13	seq_no = 309	priority = 2	line = 3480
+send_array[310].sysTime = 18538478	nID = 13	sink = 1	sender = 13	seq_no = 310	priority = 1	line = 3481
+send_array[311].sysTime = 18989266	nID = 13	sink = 1	sender = 13	seq_no = 311	priority = 2	line = 3555
+send_array[312].sysTime = 19396609	nID = 13	sink = 1	sender = 13	seq_no = 312	priority = 1	line = 3620
+send_array[313].sysTime = 19406729	nID = 13	sink = 1	sender = 13	seq_no = 313	priority = 2	line = 3621
+send_array[314].sysTime = 19744037	nID = 13	sink = 1	sender = 13	seq_no = 314	priority = 1	line = 3677
+send_array[315].sysTime = 19754074	nID = 13	sink = 1	sender = 13	seq_no = 315	priority = 2	line = 3679
+send_array[316].sysTime = 19763615	nID = 13	sink = 1	sender = 13	seq_no = 316	priority = 1	line = 3681
+send_array[317].sysTime = 19774032	nID = 13	sink = 1	sender = 13	seq_no = 317	priority = 2	line = 3682
+send_array[318].sysTime = 19784552	nID = 13	sink = 1	sender = 13	seq_no = 318	priority = 1	line = 3684
+send_array[319].sysTime = 19794227	nID = 13	sink = 1	sender = 13	seq_no = 319	priority = 2	line = 3686
+send_array[320].sysTime = 19803710	nID = 13	sink = 1	sender = 13	seq_no = 320	priority = 1	line = 3687
+send_array[321].sysTime = 19813312	nID = 13	sink = 1	sender = 13	seq_no = 321	priority = 2	line = 3689
+send_array[322].sysTime = 19823719	nID = 13	sink = 1	sender = 13	seq_no = 322	priority = 1	line = 3690
+send_array[323].sysTime = 19834133	nID = 13	sink = 1	sender = 13	seq_no = 323	priority = 2	line = 3691
+send_array[324].sysTime = 19843583	nID = 13	sink = 1	sender = 13	seq_no = 324	priority = 1	line = 3693
+send_array[325].sysTime = 19853545	nID = 13	sink = 1	sender = 13	seq_no = 325	priority = 2	line = 3695
+send_array[326].sysTime = 19862770	nID = 13	sink = 1	sender = 13	seq_no = 326	priority = 1	line = 3697
+send_array[327].sysTime = 19872935	nID = 13	sink = 1	sender = 13	seq_no = 327	priority = 2	line = 3698
+send_array[328].sysTime = 19882011	nID = 13	sink = 1	sender = 13	seq_no = 328	priority = 1	line = 3699
+send_array[329].sysTime = 20200881	nID = 13	sink = 1	sender = 13	seq_no = 329	priority = 2	line = 3751
+send_array[330].sysTime = 20601948	nID = 13	sink = 1	sender = 13	seq_no = 330	priority = 1	line = 3817
+send_array[331].sysTime = 20611713	nID = 13	sink = 1	sender = 13	seq_no = 331	priority = 2	line = 3819
+send_array[332].sysTime = 20621640	nID = 13	sink = 1	sender = 13	seq_no = 332	priority = 1	line = 3821
+send_array[333].sysTime = 20630908	nID = 13	sink = 1	sender = 13	seq_no = 333	priority = 2	line = 3822
+send_array[334].sysTime = 20640697	nID = 13	sink = 1	sender = 13	seq_no = 334	priority = 1	line = 3824
+send_array[335].sysTime = 20650667	nID = 13	sink = 1	sender = 13	seq_no = 335	priority = 2	line = 3825
+send_array[336].sysTime = 20659815	nID = 13	sink = 1	sender = 13	seq_no = 336	priority = 1	line = 3827
+send_array[337].sysTime = 20670279	nID = 13	sink = 1	sender = 13	seq_no = 337	priority = 2	line = 3828
+send_array[338].sysTime = 20820728	nID = 13	sink = 1	sender = 13	seq_no = 338	priority = 1	line = 3853
+send_array[339].sysTime = 20831124	nID = 13	sink = 1	sender = 13	seq_no = 339	priority = 2	line = 3855
+send_array[340].sysTime = 21285061	nID = 13	sink = 1	sender = 13	seq_no = 340	priority = 1	line = 3927
+send_array[341].sysTime = 21395020	nID = 13	sink = 1	sender = 13	seq_no = 341	priority = 2	line = 3944
+send_array[342].sysTime = 21404649	nID = 13	sink = 1	sender = 13	seq_no = 342	priority = 1	line = 3945
+send_array[343].sysTime = 21413743	nID = 13	sink = 1	sender = 13	seq_no = 343	priority = 2	line = 3947
+send_array[344].sysTime = 21423107	nID = 13	sink = 1	sender = 13	seq_no = 344	priority = 1	line = 3948
+send_array[345].sysTime = 21787271	nID = 13	sink = 1	sender = 13	seq_no = 345	priority = 2	line = 4006
+send_array[346].sysTime = 21798018	nID = 13	sink = 1	sender = 13	seq_no = 346	priority = 1	line = 4007
+send_array[347].sysTime = 21808503	nID = 13	sink = 1	sender = 13	seq_no = 347	priority = 2	line = 4008
+send_array[348].sysTime = 21818322	nID = 13	sink = 1	sender = 13	seq_no = 348	priority = 1	line = 4009
+send_array[349].sysTime = 21828000	nID = 13	sink = 1	sender = 13	seq_no = 349	priority = 2	line = 4011
+send_array[350].sysTime = 21837447	nID = 13	sink = 1	sender = 13	seq_no = 350	priority = 1	line = 4012
+send_array[351].sysTime = 21847214	nID = 13	sink = 1	sender = 13	seq_no = 351	priority = 2	line = 4013
+send_array[352].sysTime = 21857330	nID = 13	sink = 1	sender = 13	seq_no = 352	priority = 1	line = 4015
+send_array[353].sysTime = 21867888	nID = 13	sink = 1	sender = 13	seq_no = 353	priority = 2	line = 4016
+send_array[354].sysTime = 21877194	nID = 13	sink = 1	sender = 13	seq_no = 354	priority = 1	line = 4018
+send_array[355].sysTime = 22280489	nID = 13	sink = 1	sender = 13	seq_no = 355	priority = 2	line = 4084
+send_array[356].sysTime = 22289684	nID = 13	sink = 1	sender = 13	seq_no = 356	priority = 1	line = 4086
+send_array[357].sysTime = 22299836	nID = 13	sink = 1	sender = 13	seq_no = 357	priority = 2	line = 4087
+send_array[358].sysTime = 22383558	nID = 13	sink = 1	sender = 13	seq_no = 358	priority = 1	line = 4101
+send_array[359].sysTime = 22672836	nID = 13	sink = 1	sender = 13	seq_no = 359	priority = 2	line = 4149
+send_array[360].sysTime = 22682495	nID = 13	sink = 1	sender = 13	seq_no = 360	priority = 1	line = 4151
+send_array[361].sysTime = 22693230	nID = 13	sink = 1	sender = 13	seq_no = 361	priority = 2	line = 4153
+send_array[362].sysTime = 23023041	nID = 13	sink = 1	sender = 13	seq_no = 362	priority = 1	line = 4206
+send_array[363].sysTime = 23033187	nID = 13	sink = 1	sender = 13	seq_no = 363	priority = 2	line = 4207
+send_array[364].sysTime = 23043117	nID = 13	sink = 1	sender = 13	seq_no = 364	priority = 1	line = 4209
+send_array[365].sysTime = 23053281	nID = 13	sink = 1	sender = 13	seq_no = 365	priority = 2	line = 4210
+send_array[366].sysTime = 23420507	nID = 13	sink = 1	sender = 13	seq_no = 366	priority = 1	line = 4271
+send_array[367].sysTime = 23429522	nID = 13	sink = 1	sender = 13	seq_no = 367	priority = 2	line = 4273
+send_array[368].sysTime = 23439456	nID = 13	sink = 1	sender = 13	seq_no = 368	priority = 1	line = 4274
+send_array[369].sysTime = 23450248	nID = 13	sink = 1	sender = 13	seq_no = 369	priority = 2	line = 4275
+send_array[370].sysTime = 23459724	nID = 13	sink = 1	sender = 13	seq_no = 370	priority = 1	line = 4277
+send_array[371].sysTime = 23819449	nID = 13	sink = 1	sender = 13	seq_no = 371	priority = 2	line = 4335
+send_array[372].sysTime = 23829696	nID = 13	sink = 1	sender = 13	seq_no = 372	priority = 1	line = 4336
+send_array[373].sysTime = 23839145	nID = 13	sink = 1	sender = 13	seq_no = 373	priority = 2	line = 4337
+send_array[374].sysTime = 23849121	nID = 13	sink = 1	sender = 13	seq_no = 374	priority = 1	line = 4338
+send_array[375].sysTime = 23858951	nID = 13	sink = 1	sender = 13	seq_no = 375	priority = 2	line = 4340
+send_array[376].sysTime = 23869100	nID = 13	sink = 1	sender = 13	seq_no = 376	priority = 1	line = 4342
+send_array[377].sysTime = 23878901	nID = 13	sink = 1	sender = 13	seq_no = 377	priority = 2	line = 4344
+send_array[378].sysTime = 23888423	nID = 13	sink = 1	sender = 13	seq_no = 378	priority = 1	line = 4345
+send_array[379].sysTime = 23899267	nID = 13	sink = 1	sender = 13	seq_no = 379	priority = 2	line = 4346
+send_array[380].sysTime = 23908427	nID = 13	sink = 1	sender = 13	seq_no = 380	priority = 1	line = 4348
+send_array[381].sysTime = 23919395	nID = 13	sink = 1	sender = 13	seq_no = 381	priority = 2	line = 4349
+send_array[382].sysTime = 23928527	nID = 13	sink = 1	sender = 13	seq_no = 382	priority = 1	line = 4350
+send_array[383].sysTime = 24336205	nID = 13	sink = 1	sender = 13	seq_no = 383	priority = 2	line = 4417
+send_array[384].sysTime = 24346185	nID = 13	sink = 1	sender = 13	seq_no = 384	priority = 1	line = 4418
+send_array[385].sysTime = 24355646	nID = 13	sink = 1	sender = 13	seq_no = 385	priority = 2	line = 4420
+send_array[386].sysTime = 24365970	nID = 13	sink = 1	sender = 13	seq_no = 386	priority = 1	line = 4421
+send_array[387].sysTime = 24376306	nID = 13	sink = 1	sender = 13	seq_no = 387	priority = 2	line = 4423
+send_array[388].sysTime = 24386612	nID = 13	sink = 1	sender = 13	seq_no = 388	priority = 1	line = 4425
+send_array[389].sysTime = 24396701	nID = 13	sink = 1	sender = 13	seq_no = 389	priority = 2	line = 4426
+send_array[390].sysTime = 24407493	nID = 13	sink = 1	sender = 13	seq_no = 390	priority = 1	line = 4427
+send_array[391].sysTime = 24417341	nID = 13	sink = 1	sender = 13	seq_no = 391	priority = 2	line = 4429
+send_array[392].sysTime = 24428060	nID = 13	sink = 1	sender = 13	seq_no = 392	priority = 1	line = 4431
+send_array[393].sysTime = 24438421	nID = 13	sink = 1	sender = 13	seq_no = 393	priority = 2	line = 4433
+send_array[394].sysTime = 24875267	nID = 13	sink = 1	sender = 13	seq_no = 394	priority = 1	line = 4504
+send_array[395].sysTime = 24885242	nID = 13	sink = 1	sender = 13	seq_no = 395	priority = 2	line = 4506
+send_array[396].sysTime = 24894351	nID = 13	sink = 1	sender = 13	seq_no = 396	priority = 1	line = 4507
+send_array[397].sysTime = 24904304	nID = 13	sink = 1	sender = 13	seq_no = 397	priority = 2	line = 4508
+send_array[398].sysTime = 24914789	nID = 13	sink = 1	sender = 13	seq_no = 398	priority = 1	line = 4510
+send_array[399].sysTime = 24925719	nID = 13	sink = 1	sender = 13	seq_no = 399	priority = 2	line = 4511
+send_array[400].sysTime = 24935419	nID = 13	sink = 1	sender = 13	seq_no = 400	priority = 1	line = 4512
+send_array[401].sysTime = 24945892	nID = 13	sink = 1	sender = 13	seq_no = 401	priority = 2	line = 4514
+send_array[402].sysTime = 25556424	nID = 13	sink = 1	sender = 13	seq_no = 402	priority = 1	line = 4612
+send_array[403].sysTime = 25565633	nID = 13	sink = 1	sender = 13	seq_no = 403	priority = 2	line = 4614
+send_array[404].sysTime = 25574926	nID = 13	sink = 1	sender = 13	seq_no = 404	priority = 1	line = 4616
+send_array[405].sysTime = 25585505	nID = 13	sink = 1	sender = 13	seq_no = 405	priority = 2	line = 4618
+send_array[406].sysTime = 25595746	nID = 13	sink = 1	sender = 13	seq_no = 406	priority = 1	line = 4619
+send_array[407].sysTime = 25935872	nID = 13	sink = 1	sender = 13	seq_no = 407	priority = 2	line = 4675
+send_array[408].sysTime = 25946837	nID = 13	sink = 1	sender = 13	seq_no = 408	priority = 1	line = 4677
+send_array[409].sysTime = 25957165	nID = 13	sink = 1	sender = 13	seq_no = 409	priority = 2	line = 4679
+send_array[410].sysTime = 25967951	nID = 13	sink = 1	sender = 13	seq_no = 410	priority = 1	line = 4681
+send_array[411].sysTime = 25977153	nID = 13	sink = 1	sender = 13	seq_no = 411	priority = 2	line = 4683
+send_array[412].sysTime = 25987471	nID = 13	sink = 1	sender = 13	seq_no = 412	priority = 1	line = 4685
+send_array[413].sysTime = 25997727	nID = 13	sink = 1	sender = 13	seq_no = 413	priority = 2	line = 4686
+send_array[414].sysTime = 26008707	nID = 13	sink = 1	sender = 13	seq_no = 414	priority = 1	line = 4687
+send_array[415].sysTime = 26019214	nID = 13	sink = 1	sender = 13	seq_no = 415	priority = 2	line = 4689
+send_array[416].sysTime = 26029141	nID = 13	sink = 1	sender = 13	seq_no = 416	priority = 1	line = 4690
+send_array[417].sysTime = 26038416	nID = 13	sink = 1	sender = 13	seq_no = 417	priority = 2	line = 4692
+send_array[418].sysTime = 26048326	nID = 13	sink = 1	sender = 13	seq_no = 418	priority = 1	line = 4694
+send_array[419].sysTime = 26058315	nID = 13	sink = 1	sender = 13	seq_no = 419	priority = 2	line = 4695
+send_array[420].sysTime = 26068200	nID = 13	sink = 1	sender = 13	seq_no = 420	priority = 1	line = 4697
+send_array[421].sysTime = 26077834	nID = 13	sink = 1	sender = 13	seq_no = 421	priority = 2	line = 4698
+send_array[422].sysTime = 26088058	nID = 13	sink = 1	sender = 13	seq_no = 422	priority = 1	line = 4700
+send_array[423].sysTime = 26098374	nID = 13	sink = 1	sender = 13	seq_no = 423	priority = 2	line = 4702
+send_array[424].sysTime = 26108064	nID = 13	sink = 1	sender = 13	seq_no = 424	priority = 1	line = 4703
+send_array[425].sysTime = 26118710	nID = 13	sink = 1	sender = 13	seq_no = 425	priority = 2	line = 4705
+send_array[426].sysTime = 26128703	nID = 13	sink = 1	sender = 13	seq_no = 426	priority = 1	line = 4706
+send_array[427].sysTime = 26139061	nID = 13	sink = 1	sender = 13	seq_no = 427	priority = 2	line = 4707
+send_array[428].sysTime = 26531098	nID = 13	sink = 1	sender = 13	seq_no = 428	priority = 1	line = 4771
+send_array[429].sysTime = 26541600	nID = 13	sink = 1	sender = 13	seq_no = 429	priority = 2	line = 4772
+send_array[430].sysTime = 26550913	nID = 13	sink = 1	sender = 13	seq_no = 430	priority = 1	line = 4774
+send_array[431].sysTime = 26560630	nID = 13	sink = 1	sender = 13	seq_no = 431	priority = 2	line = 4775
+send_array[432].sysTime = 26570239	nID = 13	sink = 1	sender = 13	seq_no = 432	priority = 1	line = 4776
+send_array[433].sysTime = 26579545	nID = 13	sink = 1	sender = 13	seq_no = 433	priority = 2	line = 4778
+send_array[434].sysTime = 26589220	nID = 13	sink = 1	sender = 13	seq_no = 434	priority = 1	line = 4780
+send_array[435].sysTime = 26958882	nID = 13	sink = 1	sender = 13	seq_no = 435	priority = 2	line = 4839
+send_array[436].sysTime = 26968842	nID = 13	sink = 1	sender = 13	seq_no = 436	priority = 1	line = 4841
+send_array[437].sysTime = 26978656	nID = 13	sink = 1	sender = 13	seq_no = 437	priority = 2	line = 4843
+send_array[438].sysTime = 26988180	nID = 13	sink = 1	sender = 13	seq_no = 438	priority = 1	line = 4845
+send_array[439].sysTime = 26998913	nID = 13	sink = 1	sender = 13	seq_no = 439	priority = 2	line = 4847
+send_array[440].sysTime = 27371378	nID = 13	sink = 1	sender = 13	seq_no = 440	priority = 1	line = 4907
+send_array[441].sysTime = 27380643	nID = 13	sink = 1	sender = 13	seq_no = 441	priority = 2	line = 4908
+send_array[442].sysTime = 27390647	nID = 13	sink = 1	sender = 13	seq_no = 442	priority = 1	line = 4910
+send_array[443].sysTime = 27401527	nID = 13	sink = 1	sender = 13	seq_no = 443	priority = 2	line = 4911
+send_array[444].sysTime = 27411376	nID = 13	sink = 1	sender = 13	seq_no = 444	priority = 1	line = 4913
+send_array[445].sysTime = 27421367	nID = 13	sink = 1	sender = 13	seq_no = 445	priority = 2	line = 4915
+send_array[446].sysTime = 27431655	nID = 13	sink = 1	sender = 13	seq_no = 446	priority = 1	line = 4916
+send_array[447].sysTime = 27440989	nID = 13	sink = 1	sender = 13	seq_no = 447	priority = 2	line = 4918
+send_array[448].sysTime = 27451286	nID = 13	sink = 1	sender = 13	seq_no = 448	priority = 1	line = 4919
+send_array[449].sysTime = 27462162	nID = 13	sink = 1	sender = 13	seq_no = 449	priority = 2	line = 4921
+send_array[450].sysTime = 27472789	nID = 13	sink = 1	sender = 13	seq_no = 450	priority = 1	line = 4923
+send_array[451].sysTime = 27483705	nID = 13	sink = 1	sender = 13	seq_no = 451	priority = 2	line = 4924
+send_array[452].sysTime = 27493956	nID = 13	sink = 1	sender = 13	seq_no = 452	priority = 1	line = 4926
+send_array[453].sysTime = 27503056	nID = 13	sink = 1	sender = 13	seq_no = 453	priority = 2	line = 4927
+send_array[454].sysTime = 27513677	nID = 13	sink = 1	sender = 13	seq_no = 454	priority = 1	line = 4929
+send_array[455].sysTime = 27523841	nID = 13	sink = 1	sender = 13	seq_no = 455	priority = 2	line = 4931
+send_array[456].sysTime = 27534198	nID = 13	sink = 1	sender = 13	seq_no = 456	priority = 1	line = 4932
+send_array[457].sysTime = 27543636	nID = 13	sink = 1	sender = 13	seq_no = 457	priority = 2	line = 4933
+send_array[458].sysTime = 27554394	nID = 13	sink = 1	sender = 13	seq_no = 458	priority = 1	line = 4935
+send_array[459].sysTime = 27902027	nID = 13	sink = 1	sender = 13	seq_no = 459	priority = 2	line = 4991
+send_array[460].sysTime = 27911897	nID = 13	sink = 1	sender = 13	seq_no = 460	priority = 1	line = 4993
+send_array[461].sysTime = 27921805	nID = 13	sink = 1	sender = 13	seq_no = 461	priority = 2	line = 4995
+send_array[462].sysTime = 27931526	nID = 13	sink = 1	sender = 13	seq_no = 462	priority = 1	line = 4997
+send_array[463].sysTime = 27941749	nID = 13	sink = 1	sender = 13	seq_no = 463	priority = 2	line = 4999
+send_array[464].sysTime = 27952484	nID = 13	sink = 1	sender = 13	seq_no = 464	priority = 1	line = 5001
+send_array[465].sysTime = 27963343	nID = 13	sink = 1	sender = 13	seq_no = 465	priority = 2	line = 5003
+send_array[466].sysTime = 27972575	nID = 13	sink = 1	sender = 13	seq_no = 466	priority = 1	line = 5005
+send_array[467].sysTime = 27982019	nID = 13	sink = 1	sender = 13	seq_no = 467	priority = 2	line = 5006
+send_array[468].sysTime = 27992997	nID = 13	sink = 1	sender = 13	seq_no = 468	priority = 1	line = 5008
+send_array[469].sysTime = 28003921	nID = 13	sink = 1	sender = 13	seq_no = 469	priority = 2	line = 5010
+send_array[470].sysTime = 28337489	nID = 13	sink = 1	sender = 13	seq_no = 470	priority = 1	line = 5064
+send_array[471].sysTime = 28348124	nID = 13	sink = 1	sender = 13	seq_no = 471	priority = 2	line = 5065
+send_array[472].sysTime = 28581901	nID = 13	sink = 1	sender = 13	seq_no = 472	priority = 1	line = 5103
+send_array[473].sysTime = 28591271	nID = 13	sink = 1	sender = 13	seq_no = 473	priority = 2	line = 5105
+send_array[474].sysTime = 28775237	nID = 13	sink = 1	sender = 13	seq_no = 474	priority = 1	line = 5134
+send_array[475].sysTime = 28784975	nID = 13	sink = 1	sender = 13	seq_no = 475	priority = 2	line = 5136
+send_array[476].sysTime = 28976518	nID = 13	sink = 1	sender = 13	seq_no = 476	priority = 1	line = 5168
+send_array[477].sysTime = 29136567	nID = 13	sink = 1	sender = 13	seq_no = 477	priority = 2	line = 5195
+send_array[478].sysTime = 29173415	nID = 13	sink = 1	sender = 13	seq_no = 478	priority = 1	line = 5200
+send_array[479].sysTime = 29183837	nID = 13	sink = 1	sender = 13	seq_no = 479	priority = 2	line = 5202
+send_array[480].sysTime = 29193074	nID = 13	sink = 1	sender = 13	seq_no = 480	priority = 1	line = 5203
+send_array[481].sysTime = 29204023	nID = 13	sink = 1	sender = 13	seq_no = 481	priority = 2	line = 5205
+send_array[482].sysTime = 29647215	nID = 13	sink = 1	sender = 13	seq_no = 482	priority = 1	line = 5276
+send_array[483].sysTime = 29656470	nID = 13	sink = 1	sender = 13	seq_no = 483	priority = 2	line = 5277
+send_array[484].sysTime = 29666800	nID = 13	sink = 1	sender = 13	seq_no = 484	priority = 1	line = 5279
+send_array[485].sysTime = 29765730	nID = 13	sink = 1	sender = 13	seq_no = 485	priority = 2	line = 5296
+send_array[486].sysTime = 29775989	nID = 13	sink = 1	sender = 13	seq_no = 486	priority = 1	line = 5297
+send_array[487].sysTime = 29785786	nID = 13	sink = 1	sender = 13	seq_no = 487	priority = 2	line = 5298
+send_array[488].sysTime = 30551332	nID = 13	sink = 1	sender = 13	seq_no = 488	priority = 1	line = 5420
+send_array[489].sysTime = 30561261	nID = 13	sink = 1	sender = 13	seq_no = 489	priority = 2	line = 5421
+send_array[490].sysTime = 30572180	nID = 13	sink = 1	sender = 13	seq_no = 490	priority = 1	line = 5422
+send_array[491].sysTime = 30582432	nID = 13	sink = 1	sender = 13	seq_no = 491	priority = 2	line = 5423
+send_array[492].sysTime = 30592973	nID = 13	sink = 1	sender = 13	seq_no = 492	priority = 1	line = 5424
+send_array[493].sysTime = 30602156	nID = 13	sink = 1	sender = 13	seq_no = 493	priority = 2	line = 5426
+send_array[494].sysTime = 30612570	nID = 13	sink = 1	sender = 13	seq_no = 494	priority = 1	line = 5428
+send_array[495].sysTime = 30622486	nID = 13	sink = 1	sender = 13	seq_no = 495	priority = 2	line = 5430
+send_array[496].sysTime = 30631598	nID = 13	sink = 1	sender = 13	seq_no = 496	priority = 1	line = 5431
+send_array[497].sysTime = 30641640	nID = 13	sink = 1	sender = 13	seq_no = 497	priority = 2	line = 5433
+send_array[498].sysTime = 30651397	nID = 13	sink = 1	sender = 13	seq_no = 498	priority = 1	line = 5434
+send_array[499].sysTime = 30660894	nID = 13	sink = 1	sender = 13	seq_no = 499	priority = 2	line = 5436
+send_array[500].sysTime = 30670323	nID = 13	sink = 1	sender = 13	seq_no = 500	priority = 1	line = 5438
+send_array[501].sysTime = 30680437	nID = 13	sink = 1	sender = 13	seq_no = 501	priority = 2	line = 5439
+send_array[502].sysTime = 30691432	nID = 13	sink = 1	sender = 13	seq_no = 502	priority = 1	line = 5441
+send_array[503].sysTime = 30701987	nID = 13	sink = 1	sender = 13	seq_no = 503	priority = 2	line = 5442
+send_array[504].sysTime = 31087669	nID = 13	sink = 1	sender = 13	seq_no = 504	priority = 1	line = 5504
+send_array[505].sysTime = 31097521	nID = 13	sink = 1	sender = 13	seq_no = 505	priority = 2	line = 5505
+send_array[506].sysTime = 31106703	nID = 13	sink = 1	sender = 13	seq_no = 506	priority = 1	line = 5507
+send_array[507].sysTime = 31115803	nID = 13	sink = 1	sender = 13	seq_no = 507	priority = 2	line = 5508
+send_array[508].sysTime = 31125785	nID = 13	sink = 1	sender = 13	seq_no = 508	priority = 1	line = 5510
+send_array[509].sysTime = 31173807	nID = 13	sink = 1	sender = 13	seq_no = 509	priority = 2	line = 5517
+send_array[510].sysTime = 31183444	nID = 13	sink = 1	sender = 13	seq_no = 510	priority = 1	line = 5519
+send_array[511].sysTime = 31192773	nID = 13	sink = 1	sender = 13	seq_no = 511	priority = 2	line = 5521
+send_array[512].sysTime = 31202398	nID = 13	sink = 1	sender = 13	seq_no = 512	priority = 1	line = 5523
+send_array[513].sysTime = 31213020	nID = 13	sink = 1	sender = 13	seq_no = 513	priority = 2	line = 5524
+send_array[514].sysTime = 31223458	nID = 13	sink = 1	sender = 13	seq_no = 514	priority = 1	line = 5525
+send_array[515].sysTime = 31233795	nID = 13	sink = 1	sender = 13	seq_no = 515	priority = 2	line = 5528
+send_array[516].sysTime = 31243379	nID = 13	sink = 1	sender = 13	seq_no = 516	priority = 1	line = 5529
+send_array[517].sysTime = 31253390	nID = 13	sink = 1	sender = 13	seq_no = 517	priority = 2	line = 5531
+send_array[518].sysTime = 31263846	nID = 13	sink = 1	sender = 13	seq_no = 518	priority = 1	line = 5532
+send_array[519].sysTime = 31273183	nID = 13	sink = 1	sender = 13	seq_no = 519	priority = 2	line = 5533
+send_array[520].sysTime = 31576353	nID = 13	sink = 1	sender = 13	seq_no = 520	priority = 1	line = 5583
+send_array[521].sysTime = 31586482	nID = 13	sink = 1	sender = 13	seq_no = 521	priority = 2	line = 5585
+send_array[522].sysTime = 31595870	nID = 13	sink = 1	sender = 13	seq_no = 522	priority = 1	line = 5587
+send_array[523].sysTime = 31605032	nID = 13	sink = 1	sender = 13	seq_no = 523	priority = 2	line = 5589
+send_array[524].sysTime = 31615746	nID = 13	sink = 1	sender = 13	seq_no = 524	priority = 1	line = 5590
+send_array[525].sysTime = 31626333	nID = 13	sink = 1	sender = 13	seq_no = 525	priority = 2	line = 5592
+send_array[526].sysTime = 31636294	nID = 13	sink = 1	sender = 13	seq_no = 526	priority = 1	line = 5594
+send_array[527].sysTime = 31645694	nID = 13	sink = 1	sender = 13	seq_no = 527	priority = 2	line = 5596
+send_array[528].sysTime = 31656253	nID = 13	sink = 1	sender = 13	seq_no = 528	priority = 1	line = 5597
+send_array[529].sysTime = 31667038	nID = 13	sink = 1	sender = 13	seq_no = 529	priority = 2	line = 5599
+send_array[530].sysTime = 31676078	nID = 13	sink = 1	sender = 13	seq_no = 530	priority = 1	line = 5600
+send_array[531].sysTime = 31685233	nID = 13	sink = 1	sender = 13	seq_no = 531	priority = 2	line = 5602
+send_array[532].sysTime = 31695512	nID = 13	sink = 1	sender = 13	seq_no = 532	priority = 1	line = 5604
+send_array[533].sysTime = 31704606	nID = 13	sink = 1	sender = 13	seq_no = 533	priority = 2	line = 5605
+send_array[534].sysTime = 31755800	nID = 13	sink = 1	sender = 13	seq_no = 534	priority = 1	line = 5614
+send_array[535].sysTime = 31765232	nID = 13	sink = 1	sender = 13	seq_no = 535	priority = 2	line = 5616
+send_array[536].sysTime = 31776172	nID = 13	sink = 1	sender = 13	seq_no = 536	priority = 1	line = 5617
+send_array[537].sysTime = 31785919	nID = 13	sink = 1	sender = 13	seq_no = 537	priority = 2	line = 5618
+send_array[538].sysTime = 31795799	nID = 13	sink = 1	sender = 13	seq_no = 538	priority = 1	line = 5620
+send_array[539].sysTime = 31805370	nID = 13	sink = 1	sender = 13	seq_no = 539	priority = 2	line = 5621
+send_array[540].sysTime = 32279921	nID = 13	sink = 1	sender = 13	seq_no = 540	priority = 1	line = 5698
+send_array[541].sysTime = 32290760	nID = 13	sink = 1	sender = 13	seq_no = 541	priority = 2	line = 5700
+send_array[542].sysTime = 32300769	nID = 13	sink = 1	sender = 13	seq_no = 542	priority = 1	line = 5701
+send_array[543].sysTime = 32310175	nID = 13	sink = 1	sender = 13	seq_no = 543	priority = 2	line = 5703
+send_array[544].sysTime = 32358377	nID = 13	sink = 1	sender = 13	seq_no = 544	priority = 1	line = 5709
+send_array[545].sysTime = 32367485	nID = 13	sink = 1	sender = 13	seq_no = 545	priority = 2	line = 5710
+send_array[546].sysTime = 32376883	nID = 13	sink = 1	sender = 13	seq_no = 546	priority = 1	line = 5711
+send_array[547].sysTime = 32386738	nID = 13	sink = 1	sender = 13	seq_no = 547	priority = 2	line = 5712
+send_array[548].sysTime = 32723166	nID = 13	sink = 1	sender = 13	seq_no = 548	priority = 1	line = 5765
+send_array[549].sysTime = 32733315	nID = 13	sink = 1	sender = 13	seq_no = 549	priority = 2	line = 5767
+send_array[550].sysTime = 32742603	nID = 13	sink = 1	sender = 13	seq_no = 550	priority = 1	line = 5769
+send_array[551].sysTime = 32891754	nID = 13	sink = 1	sender = 13	seq_no = 551	priority = 2	line = 5795
+send_array[552].sysTime = 33081631	nID = 13	sink = 1	sender = 13	seq_no = 552	priority = 1	line = 5826
+send_array[553].sysTime = 33090922	nID = 13	sink = 1	sender = 13	seq_no = 553	priority = 2	line = 5828
+send_array[554].sysTime = 33101324	nID = 13	sink = 1	sender = 13	seq_no = 554	priority = 1	line = 5829
+send_array[555].sysTime = 33110928	nID = 13	sink = 1	sender = 13	seq_no = 555	priority = 2	line = 5831
+send_array[556].sysTime = 33142934	nID = 13	sink = 1	sender = 13	seq_no = 556	priority = 1	line = 5835
+send_array[557].sysTime = 33620811	nID = 13	sink = 1	sender = 13	seq_no = 557	priority = 2	line = 5912
+send_array[558].sysTime = 33639701	nID = 13	sink = 1	sender = 13	seq_no = 558	priority = 1	line = 5915
+send_array[559].sysTime = 33649555	nID = 13	sink = 1	sender = 13	seq_no = 559	priority = 2	line = 5916
+send_array[560].sysTime = 33659909	nID = 13	sink = 1	sender = 13	seq_no = 560	priority = 1	line = 5917
+send_array[561].sysTime = 33680845	nID = 13	sink = 1	sender = 13	seq_no = 561	priority = 2	line = 5921
+send_array[562].sysTime = 33690430	nID = 13	sink = 1	sender = 13	seq_no = 562	priority = 1	line = 5923
+send_array[563].sysTime = 33699565	nID = 13	sink = 1	sender = 13	seq_no = 563	priority = 2	line = 5925
+send_array[564].sysTime = 33708684	nID = 13	sink = 1	sender = 13	seq_no = 564	priority = 1	line = 5926
+send_array[565].sysTime = 34201887	nID = 13	sink = 1	sender = 13	seq_no = 565	priority = 2	line = 6006
+send_array[566].sysTime = 34232040	nID = 13	sink = 1	sender = 13	seq_no = 566	priority = 1	line = 6011
+send_array[567].sysTime = 34241698	nID = 13	sink = 1	sender = 13	seq_no = 567	priority = 2	line = 6013
+send_array[568].sysTime = 34741021	nID = 13	sink = 1	sender = 13	seq_no = 568	priority = 1	line = 6093
+send_array[569].sysTime = 34751635	nID = 13	sink = 1	sender = 13	seq_no = 569	priority = 2	line = 6095
+send_array[570].sysTime = 34760681	nID = 13	sink = 1	sender = 13	seq_no = 570	priority = 1	line = 6096
+send_array[571].sysTime = 34770329	nID = 13	sink = 1	sender = 13	seq_no = 571	priority = 2	line = 6098
+send_array[572].sysTime = 35227214	nID = 13	sink = 1	sender = 13	seq_no = 572	priority = 1	line = 6171
+send_array[573].sysTime = 35574394	nID = 13	sink = 1	sender = 13	seq_no = 573	priority = 2	line = 6227
+send_array[574].sysTime = 35585015	nID = 13	sink = 1	sender = 13	seq_no = 574	priority = 1	line = 6229
+send_array[575].sysTime = 35594179	nID = 13	sink = 1	sender = 13	seq_no = 575	priority = 2	line = 6230
+send_array[576].sysTime = 35604762	nID = 13	sink = 1	sender = 13	seq_no = 576	priority = 1	line = 6232
+send_array[577].sysTime = 35614459	nID = 13	sink = 1	sender = 13	seq_no = 577	priority = 2	line = 6233
+send_array[578].sysTime = 35623560	nID = 13	sink = 1	sender = 13	seq_no = 578	priority = 1	line = 6234
+send_array[579].sysTime = 37202172	nID = 13	sink = 1	sender = 13	seq_no = 579	priority = 2	line = 6492
+send_array[580].sysTime = 37211172	nID = 13	sink = 1	sender = 13	seq_no = 580	priority = 1	line = 6493
+send_array[581].sysTime = 37465044	nID = 13	sink = 1	sender = 13	seq_no = 581	priority = 2	line = 6534
+send_array[582].sysTime = 37506075	nID = 13	sink = 1	sender = 13	seq_no = 582	priority = 1	line = 6541
+send_array[583].sysTime = 37585186	nID = 13	sink = 1	sender = 13	seq_no = 583	priority = 2	line = 6553
+send_array[584].sysTime = 37594540	nID = 13	sink = 1	sender = 13	seq_no = 584	priority = 1	line = 6554
+send_array[585].sysTime = 37605388	nID = 13	sink = 1	sender = 13	seq_no = 585	priority = 2	line = 6556
+send_array[586].sysTime = 37616038	nID = 13	sink = 1	sender = 13	seq_no = 586	priority = 1	line = 6557
+send_array[587].sysTime = 37625256	nID = 13	sink = 1	sender = 13	seq_no = 587	priority = 2	line = 6558
+send_array[588].sysTime = 37826817	nID = 13	sink = 1	sender = 13	seq_no = 588	priority = 1	line = 6591
+send_array[589].sysTime = 37836899	nID = 13	sink = 1	sender = 13	seq_no = 589	priority = 2	line = 6593
+send_array[590].sysTime = 37847554	nID = 13	sink = 1	sender = 13	seq_no = 590	priority = 1	line = 6595
+send_array[591].sysTime = 37858293	nID = 13	sink = 1	sender = 13	seq_no = 591	priority = 2	line = 6597
+send_array[592].sysTime = 38056008	nID = 13	sink = 1	sender = 13	seq_no = 592	priority = 1	line = 6629
+send_array[593].sysTime = 38065415	nID = 13	sink = 1	sender = 13	seq_no = 593	priority = 2	line = 6630
+send_array[594].sysTime = 38076105	nID = 13	sink = 1	sender = 13	seq_no = 594	priority = 1	line = 6631
+send_array[595].sysTime = 38085577	nID = 13	sink = 1	sender = 13	seq_no = 595	priority = 2	line = 6633
+send_array[596].sysTime = 38094778	nID = 13	sink = 1	sender = 13	seq_no = 596	priority = 1	line = 6634
+send_array[597].sysTime = 38641425	nID = 13	sink = 1	sender = 13	seq_no = 597	priority = 2	line = 6723
+send_array[598].sysTime = 38652191	nID = 13	sink = 1	sender = 13	seq_no = 598	priority = 1	line = 6724
+send_array[599].sysTime = 38661817	nID = 13	sink = 1	sender = 13	seq_no = 599	priority = 2	line = 6726
+send_array[600].sysTime = 38671907	nID = 13	sink = 1	sender = 13	seq_no = 600	priority = 1	line = 6727
+send_array[601].sysTime = 38975802	nID = 13	sink = 1	sender = 13	seq_no = 601	priority = 2	line = 6777
+send_array[602].sysTime = 38985601	nID = 13	sink = 1	sender = 13	seq_no = 602	priority = 1	line = 6778
+send_array[603].sysTime = 38995155	nID = 13	sink = 1	sender = 13	seq_no = 603	priority = 2	line = 6780
+send_array[604].sysTime = 39004828	nID = 13	sink = 1	sender = 13	seq_no = 604	priority = 1	line = 6781
+send_array[605].sysTime = 39046010	nID = 13	sink = 1	sender = 13	seq_no = 605	priority = 2	line = 6788
+send_array[606].sysTime = 39056771	nID = 13	sink = 1	sender = 13	seq_no = 606	priority = 1	line = 6789
+send_array[607].sysTime = 39469471	nID = 13	sink = 1	sender = 13	seq_no = 607	priority = 2	line = 6854
+send_array[608].sysTime = 39479765	nID = 13	sink = 1	sender = 13	seq_no = 608	priority = 1	line = 6855
+send_array[609].sysTime = 39488925	nID = 13	sink = 1	sender = 13	seq_no = 609	priority = 2	line = 6856
+send_array[610].sysTime = 39761187	nID = 13	sink = 1	sender = 13	seq_no = 610	priority = 1	line = 6901
+send_array[611].sysTime = 40090544	nID = 13	sink = 1	sender = 13	seq_no = 611	priority = 2	line = 6953
+send_array[612].sysTime = 40101353	nID = 13	sink = 1	sender = 13	seq_no = 612	priority = 1	line = 6954
+send_array[613].sysTime = 40111897	nID = 13	sink = 1	sender = 13	seq_no = 613	priority = 2	line = 6956
+send_array[614].sysTime = 40121872	nID = 13	sink = 1	sender = 13	seq_no = 614	priority = 1	line = 6957
+send_array[615].sysTime = 40132290	nID = 13	sink = 1	sender = 13	seq_no = 615	priority = 2	line = 6959
+send_array[616].sysTime = 40142903	nID = 13	sink = 1	sender = 13	seq_no = 616	priority = 1	line = 6961
+send_array[617].sysTime = 40152687	nID = 13	sink = 1	sender = 13	seq_no = 617	priority = 2	line = 6963
+send_array[618].sysTime = 40161808	nID = 13	sink = 1	sender = 13	seq_no = 618	priority = 1	line = 6965
+send_array[619].sysTime = 40171462	nID = 13	sink = 1	sender = 13	seq_no = 619	priority = 2	line = 6966
+send_array[620].sysTime = 40181261	nID = 13	sink = 1	sender = 13	seq_no = 620	priority = 1	line = 6968
+send_array[621].sysTime = 40191292	nID = 13	sink = 1	sender = 13	seq_no = 621	priority = 2	line = 6969
+send_array[622].sysTime = 40201765	nID = 13	sink = 1	sender = 13	seq_no = 622	priority = 1	line = 6970
+send_array[623].sysTime = 40212374	nID = 13	sink = 1	sender = 13	seq_no = 623	priority = 2	line = 6972
+send_array[624].sysTime = 40221812	nID = 13	sink = 1	sender = 13	seq_no = 624	priority = 1	line = 6973
+send_array[625].sysTime = 40232055	nID = 13	sink = 1	sender = 13	seq_no = 625	priority = 2	line = 6974
+send_array[626].sysTime = 40963852	nID = 13	sink = 1	sender = 13	seq_no = 626	priority = 1	line = 7092
+send_array[627].sysTime = 40973939	nID = 13	sink = 1	sender = 13	seq_no = 627	priority = 2	line = 7093
+send_array[628].sysTime = 40983379	nID = 13	sink = 1	sender = 13	seq_no = 628	priority = 1	line = 7094
+send_array[629].sysTime = 41328084	nID = 13	sink = 1	sender = 13	seq_no = 629	priority = 2	line = 7151
+send_array[630].sysTime = 41338410	nID = 13	sink = 1	sender = 13	seq_no = 630	priority = 1	line = 7153
+send_array[631].sysTime = 41348007	nID = 13	sink = 1	sender = 13	seq_no = 631	priority = 2	line = 7155
+send_array[632].sysTime = 41358234	nID = 13	sink = 1	sender = 13	seq_no = 632	priority = 1	line = 7156
+send_array[633].sysTime = 41368865	nID = 13	sink = 1	sender = 13	seq_no = 633	priority = 2	line = 7158
+send_array[634].sysTime = 41379571	nID = 13	sink = 1	sender = 13	seq_no = 634	priority = 1	line = 7160
+send_array[635].sysTime = 41390530	nID = 13	sink = 1	sender = 13	seq_no = 635	priority = 2	line = 7161
+send_array[636].sysTime = 41724510	nID = 13	sink = 1	sender = 13	seq_no = 636	priority = 1	line = 7216
+send_array[637].sysTime = 41734109	nID = 13	sink = 1	sender = 13	seq_no = 637	priority = 2	line = 7218
+send_array[638].sysTime = 41743152	nID = 13	sink = 1	sender = 13	seq_no = 638	priority = 1	line = 7220
+send_array[639].sysTime = 41752719	nID = 13	sink = 1	sender = 13	seq_no = 639	priority = 2	line = 7221
+send_array[640].sysTime = 42110745	nID = 13	sink = 1	sender = 13	seq_no = 640	priority = 1	line = 7280
+send_array[641].sysTime = 42121643	nID = 13	sink = 1	sender = 13	seq_no = 641	priority = 2	line = 7282
+send_array[642].sysTime = 42131543	nID = 13	sink = 1	sender = 13	seq_no = 642	priority = 1	line = 7284
+send_array[643].sysTime = 42141890	nID = 13	sink = 1	sender = 13	seq_no = 643	priority = 2	line = 7285
+send_array[644].sysTime = 42151756	nID = 13	sink = 1	sender = 13	seq_no = 644	priority = 1	line = 7287
+send_array[645].sysTime = 42161973	nID = 13	sink = 1	sender = 13	seq_no = 645	priority = 2	line = 7289
+send_array[646].sysTime = 42171066	nID = 13	sink = 1	sender = 13	seq_no = 646	priority = 1	line = 7290
+send_array[647].sysTime = 42181701	nID = 13	sink = 1	sender = 13	seq_no = 647	priority = 2	line = 7292
+send_array[648].sysTime = 42192408	nID = 13	sink = 1	sender = 13	seq_no = 648	priority = 1	line = 7293
+send_array[649].sysTime = 42930724	nID = 13	sink = 1	sender = 13	seq_no = 649	priority = 2	line = 7414
+send_array[650].sysTime = 42940636	nID = 13	sink = 1	sender = 13	seq_no = 650	priority = 1	line = 7415
+send_array[651].sysTime = 42951032	nID = 13	sink = 1	sender = 13	seq_no = 651	priority = 2	line = 7417
+send_array[652].sysTime = 42960339	nID = 13	sink = 1	sender = 13	seq_no = 652	priority = 1	line = 7419
+send_array[653].sysTime = 42971063	nID = 13	sink = 1	sender = 13	seq_no = 653	priority = 2	line = 7421
+send_array[654].sysTime = 42981321	nID = 13	sink = 1	sender = 13	seq_no = 654	priority = 1	line = 7423
+send_array[655].sysTime = 42991588	nID = 13	sink = 1	sender = 13	seq_no = 655	priority = 2	line = 7424
+send_array[656].sysTime = 43001447	nID = 13	sink = 1	sender = 13	seq_no = 656	priority = 1	line = 7425
+send_array[657].sysTime = 43012273	nID = 13	sink = 1	sender = 13	seq_no = 657	priority = 2	line = 7427
+send_array[658].sysTime = 43022000	nID = 13	sink = 1	sender = 13	seq_no = 658	priority = 1	line = 7428
+send_array[659].sysTime = 43491615	nID = 13	sink = 1	sender = 13	seq_no = 659	priority = 2	line = 7505
+send_array[660].sysTime = 44542149	nID = 13	sink = 1	sender = 13	seq_no = 660	priority = 1	line = 7674
+send_array[661].sysTime = 44551669	nID = 13	sink = 1	sender = 13	seq_no = 661	priority = 2	line = 7676
+send_array[662].sysTime = 44560678	nID = 13	sink = 1	sender = 13	seq_no = 662	priority = 1	line = 7677
+send_array[663].sysTime = 44570121	nID = 13	sink = 1	sender = 13	seq_no = 663	priority = 2	line = 7678
+send_array[664].sysTime = 44580840	nID = 13	sink = 1	sender = 13	seq_no = 664	priority = 1	line = 7680
+send_array[665].sysTime = 45263498	nID = 13	sink = 1	sender = 13	seq_no = 665	priority = 2	line = 7790
+send_array[666].sysTime = 45274222	nID = 13	sink = 1	sender = 13	seq_no = 666	priority = 1	line = 7792
+send_array[667].sysTime = 45284204	nID = 13	sink = 1	sender = 13	seq_no = 667	priority = 2	line = 7794
+send_array[668].sysTime = 45293362	nID = 13	sink = 1	sender = 13	seq_no = 668	priority = 1	line = 7795
+send_array[669].sysTime = 45342335	nID = 13	sink = 1	sender = 13	seq_no = 669	priority = 2	line = 7801
+send_array[670].sysTime = 45351766	nID = 13	sink = 1	sender = 13	seq_no = 670	priority = 1	line = 7802
+send_array[671].sysTime = 45362095	nID = 13	sink = 1	sender = 13	seq_no = 671	priority = 2	line = 7803
+send_array[672].sysTime = 45372451	nID = 13	sink = 1	sender = 13	seq_no = 672	priority = 1	line = 7805
+send_array[673].sysTime = 45383332	nID = 13	sink = 1	sender = 13	seq_no = 673	priority = 2	line = 7806
+send_array[674].sysTime = 45393238	nID = 13	sink = 1	sender = 13	seq_no = 674	priority = 1	line = 7808
+send_array[675].sysTime = 45403667	nID = 13	sink = 1	sender = 13	seq_no = 675	priority = 2	line = 7809
+send_array[676].sysTime = 45413814	nID = 13	sink = 1	sender = 13	seq_no = 676	priority = 1	line = 7811
+send_array[677].sysTime = 45423951	nID = 13	sink = 1	sender = 13	seq_no = 677	priority = 2	line = 7813
+send_array[678].sysTime = 45818972	nID = 13	sink = 1	sender = 13	seq_no = 678	priority = 1	line = 7877
+send_array[679].sysTime = 45828758	nID = 13	sink = 1	sender = 13	seq_no = 679	priority = 2	line = 7879
+send_array[680].sysTime = 46171177	nID = 13	sink = 1	sender = 13	seq_no = 680	priority = 1	line = 7934
+send_array[681].sysTime = 46203401	nID = 13	sink = 1	sender = 13	seq_no = 681	priority = 2	line = 7939
+send_array[682].sysTime = 46214362	nID = 13	sink = 1	sender = 13	seq_no = 682	priority = 1	line = 7940
+send_array[683].sysTime = 46223493	nID = 13	sink = 1	sender = 13	seq_no = 683	priority = 2	line = 7941
+send_array[684].sysTime = 46232828	nID = 13	sink = 1	sender = 13	seq_no = 684	priority = 1	line = 7942
+send_array[685].sysTime = 46243223	nID = 13	sink = 1	sender = 13	seq_no = 685	priority = 2	line = 7944
+send_array[686].sysTime = 46253470	nID = 13	sink = 1	sender = 13	seq_no = 686	priority = 1	line = 7945
+send_array[687].sysTime = 46263738	nID = 13	sink = 1	sender = 13	seq_no = 687	priority = 2	line = 7947
+send_array[688].sysTime = 46273962	nID = 13	sink = 1	sender = 13	seq_no = 688	priority = 1	line = 7949
+send_array[689].sysTime = 46283452	nID = 13	sink = 1	sender = 13	seq_no = 689	priority = 2	line = 7951
+send_array[690].sysTime = 46293711	nID = 13	sink = 1	sender = 13	seq_no = 690	priority = 1	line = 7953
+send_array[691].sysTime = 46373900	nID = 13	sink = 1	sender = 13	seq_no = 691	priority = 2	line = 7965
+send_array[692].sysTime = 47159083	nID = 13	sink = 1	sender = 13	seq_no = 692	priority = 1	line = 8091
+send_array[693].sysTime = 47169470	nID = 13	sink = 1	sender = 13	seq_no = 693	priority = 2	line = 8093
+send_array[694].sysTime = 47179397	nID = 13	sink = 1	sender = 13	seq_no = 694	priority = 1	line = 8094
+send_array[695].sysTime = 47190063	nID = 13	sink = 1	sender = 13	seq_no = 695	priority = 2	line = 8095
+send_array[696].sysTime = 47200043	nID = 13	sink = 1	sender = 13	seq_no = 696	priority = 1	line = 8096
+send_array[697].sysTime = 47220559	nID = 13	sink = 1	sender = 13	seq_no = 697	priority = 2	line = 8100
+send_array[698].sysTime = 47230100	nID = 13	sink = 1	sender = 13	seq_no = 698	priority = 1	line = 8101
+send_array[699].sysTime = 47239879	nID = 13	sink = 1	sender = 13	seq_no = 699	priority = 2	line = 8102
+send_array[700].sysTime = 47526230	nID = 13	sink = 1	sender = 13	seq_no = 700	priority = 1	line = 8149
+send_array[701].sysTime = 47535405	nID = 13	sink = 1	sender = 13	seq_no = 701	priority = 2	line = 8150
+send_array[702].sysTime = 47564751	nID = 13	sink = 1	sender = 13	seq_no = 702	priority = 1	line = 8155
+send_array[703].sysTime = 47575143	nID = 13	sink = 1	sender = 13	seq_no = 703	priority = 2	line = 8157
+send_array[704].sysTime = 47869941	nID = 13	sink = 1	sender = 13	seq_no = 704	priority = 1	line = 8204
+send_array[705].sysTime = 47880665	nID = 13	sink = 1	sender = 13	seq_no = 705	priority = 2	line = 8205
+send_array[706].sysTime = 47890225	nID = 13	sink = 1	sender = 13	seq_no = 706	priority = 1	line = 8206
+send_array[707].sysTime = 47899302	nID = 13	sink = 1	sender = 13	seq_no = 707	priority = 2	line = 8208
+send_array[708].sysTime = 47910250	nID = 13	sink = 1	sender = 13	seq_no = 708	priority = 1	line = 8210
+send_array[709].sysTime = 47920122	nID = 13	sink = 1	sender = 13	seq_no = 709	priority = 2	line = 8211
+send_array[710].sysTime = 47929740	nID = 13	sink = 1	sender = 13	seq_no = 710	priority = 1	line = 8213
+send_array[711].sysTime = 47939975	nID = 13	sink = 1	sender = 13	seq_no = 711	priority = 2	line = 8215
+send_array[712].sysTime = 47949638	nID = 13	sink = 1	sender = 13	seq_no = 712	priority = 1	line = 8216
+send_array[713].sysTime = 47958864	nID = 13	sink = 1	sender = 13	seq_no = 713	priority = 2	line = 8218
+send_array[714].sysTime = 47968271	nID = 13	sink = 1	sender = 13	seq_no = 714	priority = 1	line = 8219
+send_array[715].sysTime = 48057600	nID = 13	sink = 1	sender = 13	seq_no = 715	priority = 2	line = 8234
+send_array[716].sysTime = 48067638	nID = 13	sink = 1	sender = 13	seq_no = 716	priority = 1	line = 8236
+send_array[717].sysTime = 48448956	nID = 13	sink = 1	sender = 13	seq_no = 717	priority = 2	line = 8297
+send_array[718].sysTime = 48458450	nID = 13	sink = 1	sender = 13	seq_no = 718	priority = 1	line = 8298
+send_array[719].sysTime = 48467654	nID = 13	sink = 1	sender = 13	seq_no = 719	priority = 2	line = 8300
+send_array[720].sysTime = 48478530	nID = 13	sink = 1	sender = 13	seq_no = 720	priority = 1	line = 8301
+send_array[721].sysTime = 48488075	nID = 13	sink = 1	sender = 13	seq_no = 721	priority = 2	line = 8302
+send_array[722].sysTime = 48545901	nID = 13	sink = 1	sender = 13	seq_no = 722	priority = 1	line = 8312
+send_array[723].sysTime = 48556589	nID = 13	sink = 1	sender = 13	seq_no = 723	priority = 2	line = 8314
+send_array[724].sysTime = 48567501	nID = 13	sink = 1	sender = 13	seq_no = 724	priority = 1	line = 8315
+send_array[725].sysTime = 48926827	nID = 13	sink = 1	sender = 13	seq_no = 725	priority = 2	line = 8374
+send_array[726].sysTime = 48936164	nID = 13	sink = 1	sender = 13	seq_no = 726	priority = 1	line = 8375
+send_array[727].sysTime = 48946421	nID = 13	sink = 1	sender = 13	seq_no = 727	priority = 2	line = 8377
+send_array[728].sysTime = 48956070	nID = 13	sink = 1	sender = 13	seq_no = 728	priority = 1	line = 8378
+send_array[729].sysTime = 48965216	nID = 13	sink = 1	sender = 13	seq_no = 729	priority = 2	line = 8380
+send_array[730].sysTime = 48974449	nID = 13	sink = 1	sender = 13	seq_no = 730	priority = 1	line = 8381
+send_array[731].sysTime = 48985103	nID = 13	sink = 1	sender = 13	seq_no = 731	priority = 2	line = 8382
+send_array[732].sysTime = 48995068	nID = 13	sink = 1	sender = 13	seq_no = 732	priority = 1	line = 8384
+send_array[733].sysTime = 49460061	nID = 13	sink = 1	sender = 13	seq_no = 733	priority = 2	line = 8458
+send_array[734].sysTime = 49469985	nID = 13	sink = 1	sender = 13	seq_no = 734	priority = 1	line = 8459
+send_array[735].sysTime = 49712703	nID = 13	sink = 1	sender = 13	seq_no = 735	priority = 2	line = 8500
+send_array[736].sysTime = 49721802	nID = 13	sink = 1	sender = 13	seq_no = 736	priority = 1	line = 8502
+send_array[737].sysTime = 49732000	nID = 13	sink = 1	sender = 13	seq_no = 737	priority = 2	line = 8504
+send_array[738].sysTime = 49741596	nID = 13	sink = 1	sender = 13	seq_no = 738	priority = 1	line = 8505
+send_array[739].sysTime = 49751981	nID = 13	sink = 1	sender = 13	seq_no = 739	priority = 2	line = 8506
+send_array[740].sysTime = 49761569	nID = 13	sink = 1	sender = 13	seq_no = 740	priority = 1	line = 8508
+send_array[741].sysTime = 49772433	nID = 13	sink = 1	sender = 13	seq_no = 741	priority = 2	line = 8509
+send_array[742].sysTime = 50153672	nID = 13	sink = 1	sender = 13	seq_no = 742	priority = 1	line = 8570
+send_array[743].sysTime = 50163310	nID = 13	sink = 1	sender = 13	seq_no = 743	priority = 2	line = 8572
+send_array[744].sysTime = 50519167	nID = 13	sink = 1	sender = 13	seq_no = 744	priority = 1	line = 8631
+send_array[745].sysTime = 50529794	nID = 13	sink = 1	sender = 13	seq_no = 745	priority = 2	line = 8632
+send_array[746].sysTime = 50539186	nID = 13	sink = 1	sender = 13	seq_no = 746	priority = 1	line = 8634
+send_array[747].sysTime = 50548415	nID = 13	sink = 1	sender = 13	seq_no = 747	priority = 2	line = 8636
+send_array[748].sysTime = 50558603	nID = 13	sink = 1	sender = 13	seq_no = 748	priority = 1	line = 8637
+send_array[749].sysTime = 50569390	nID = 13	sink = 1	sender = 13	seq_no = 749	priority = 2	line = 8639
+send_array[750].sysTime = 50579786	nID = 13	sink = 1	sender = 13	seq_no = 750	priority = 1	line = 8641
+send_array[751].sysTime = 50588831	nID = 13	sink = 1	sender = 13	seq_no = 751	priority = 2	line = 8642
+send_array[752].sysTime = 50599780	nID = 13	sink = 1	sender = 13	seq_no = 752	priority = 1	line = 8643
+send_array[753].sysTime = 50609397	nID = 13	sink = 1	sender = 13	seq_no = 753	priority = 2	line = 8645
+send_array[754].sysTime = 50619505	nID = 13	sink = 1	sender = 13	seq_no = 754	priority = 1	line = 8646
+send_array[755].sysTime = 50976606	nID = 13	sink = 1	sender = 13	seq_no = 755	priority = 2	line = 8703
+send_array[756].sysTime = 50986667	nID = 13	sink = 1	sender = 13	seq_no = 756	priority = 1	line = 8705
+send_array[757].sysTime = 50997047	nID = 13	sink = 1	sender = 13	seq_no = 757	priority = 2	line = 8707
+send_array[758].sysTime = 51006602	nID = 13	sink = 1	sender = 13	seq_no = 758	priority = 1	line = 8709
+send_array[759].sysTime = 51016444	nID = 13	sink = 1	sender = 13	seq_no = 759	priority = 2	line = 8711
+send_array[760].sysTime = 51026982	nID = 13	sink = 1	sender = 13	seq_no = 760	priority = 1	line = 8713
+send_array[761].sysTime = 51037512	nID = 13	sink = 1	sender = 13	seq_no = 761	priority = 2	line = 8715
+send_array[762].sysTime = 51048375	nID = 13	sink = 1	sender = 13	seq_no = 762	priority = 1	line = 8716
+send_array[763].sysTime = 51057731	nID = 13	sink = 1	sender = 13	seq_no = 763	priority = 2	line = 8718
+send_array[764].sysTime = 51067621	nID = 13	sink = 1	sender = 13	seq_no = 764	priority = 1	line = 8720
+send_array[765].sysTime = 51078046	nID = 13	sink = 1	sender = 13	seq_no = 765	priority = 2	line = 8722
+send_array[766].sysTime = 51088787	nID = 13	sink = 1	sender = 13	seq_no = 766	priority = 1	line = 8723
+send_array[767].sysTime = 51150020	nID = 13	sink = 1	sender = 13	seq_no = 767	priority = 2	line = 8734
+send_array[768].sysTime = 51160495	nID = 13	sink = 1	sender = 13	seq_no = 768	priority = 1	line = 8735
+send_array[769].sysTime = 51170806	nID = 13	sink = 1	sender = 13	seq_no = 769	priority = 2	line = 8737
+send_array[770].sysTime = 51180473	nID = 13	sink = 1	sender = 13	seq_no = 770	priority = 1	line = 8738
+send_array[771].sysTime = 51190868	nID = 13	sink = 1	sender = 13	seq_no = 771	priority = 2	line = 8740
+send_array[772].sysTime = 51547762	nID = 13	sink = 1	sender = 13	seq_no = 772	priority = 1	line = 8798
+send_array[773].sysTime = 51558275	nID = 13	sink = 1	sender = 13	seq_no = 773	priority = 2	line = 8799
+send_array[774].sysTime = 51568945	nID = 13	sink = 1	sender = 13	seq_no = 774	priority = 1	line = 8800
+send_array[775].sysTime = 51578801	nID = 13	sink = 1	sender = 13	seq_no = 775	priority = 2	line = 8801
+send_array[776].sysTime = 51589406	nID = 13	sink = 1	sender = 13	seq_no = 776	priority = 1	line = 8803
+send_array[777].sysTime = 51598840	nID = 13	sink = 1	sender = 13	seq_no = 777	priority = 2	line = 8804
+send_array[778].sysTime = 51608815	nID = 13	sink = 1	sender = 13	seq_no = 778	priority = 1	line = 8806
+send_array[779].sysTime = 52084588	nID = 13	sink = 1	sender = 13	seq_no = 779	priority = 2	line = 8884
+send_array[780].sysTime = 52094781	nID = 13	sink = 1	sender = 13	seq_no = 780	priority = 1	line = 8885
+send_array[781].sysTime = 52104224	nID = 13	sink = 1	sender = 13	seq_no = 781	priority = 2	line = 8887
+send_array[782].sysTime = 52114352	nID = 13	sink = 1	sender = 13	seq_no = 782	priority = 1	line = 8889
+send_array[783].sysTime = 52124147	nID = 13	sink = 1	sender = 13	seq_no = 783	priority = 2	line = 8890
+send_array[784].sysTime = 52133877	nID = 13	sink = 1	sender = 13	seq_no = 784	priority = 1	line = 8892
+send_array[785].sysTime = 52500756	nID = 13	sink = 1	sender = 13	seq_no = 785	priority = 2	line = 8951
+send_array[786].sysTime = 52511527	nID = 13	sink = 1	sender = 13	seq_no = 786	priority = 1	line = 8953
+send_array[787].sysTime = 52522302	nID = 13	sink = 1	sender = 13	seq_no = 787	priority = 2	line = 8955
+send_array[788].sysTime = 52532914	nID = 13	sink = 1	sender = 13	seq_no = 788	priority = 1	line = 8957
+send_array[789].sysTime = 52542654	nID = 13	sink = 1	sender = 13	seq_no = 789	priority = 2	line = 8959
+send_array[790].sysTime = 52553273	nID = 13	sink = 1	sender = 13	seq_no = 790	priority = 1	line = 8960
+send_array[791].sysTime = 53009336	nID = 13	sink = 1	sender = 13	seq_no = 791	priority = 2	line = 9034
+send_array[792].sysTime = 53019785	nID = 13	sink = 1	sender = 13	seq_no = 792	priority = 1	line = 9035
+send_array[793].sysTime = 53030491	nID = 13	sink = 1	sender = 13	seq_no = 793	priority = 2	line = 9037
+send_array[794].sysTime = 53040658	nID = 13	sink = 1	sender = 13	seq_no = 794	priority = 1	line = 9038
+send_array[795].sysTime = 53050816	nID = 13	sink = 1	sender = 13	seq_no = 795	priority = 2	line = 9039
+send_array[796].sysTime = 53061321	nID = 13	sink = 1	sender = 13	seq_no = 796	priority = 1	line = 9041
+send_array[797].sysTime = 53071256	nID = 13	sink = 1	sender = 13	seq_no = 797	priority = 2	line = 9042
+send_array[798].sysTime = 53081479	nID = 13	sink = 1	sender = 13	seq_no = 798	priority = 1	line = 9043
+send_array[799].sysTime = 53090514	nID = 13	sink = 1	sender = 13	seq_no = 799	priority = 2	line = 9045
+send_array[800].sysTime = 53131914	nID = 13	sink = 1	sender = 13	seq_no = 800	priority = 1	line = 9051
+send_array[801].sysTime = 53142869	nID = 13	sink = 1	sender = 13	seq_no = 801	priority = 2	line = 9053
+send_array[802].sysTime = 53153398	nID = 13	sink = 1	sender = 13	seq_no = 802	priority = 1	line = 9055
+send_array[803].sysTime = 53163409	nID = 13	sink = 1	sender = 13	seq_no = 803	priority = 2	line = 9056
+send_array[804].sysTime = 53173767	nID = 13	sink = 1	sender = 13	seq_no = 804	priority = 1	line = 9058
+send_array[805].sysTime = 53524909	nID = 13	sink = 1	sender = 13	seq_no = 805	priority = 2	line = 9114
+send_array[806].sysTime = 53534232	nID = 13	sink = 1	sender = 13	seq_no = 806	priority = 1	line = 9116
+send_array[807].sysTime = 53543657	nID = 13	sink = 1	sender = 13	seq_no = 807	priority = 2	line = 9118
+send_array[808].sysTime = 53552716	nID = 13	sink = 1	sender = 13	seq_no = 808	priority = 1	line = 9120
+send_array[809].sysTime = 53562703	nID = 13	sink = 1	sender = 13	seq_no = 809	priority = 2	line = 9121
+send_array[810].sysTime = 53573027	nID = 13	sink = 1	sender = 13	seq_no = 810	priority = 1	line = 9123
+send_array[811].sysTime = 53582810	nID = 13	sink = 1	sender = 13	seq_no = 811	priority = 2	line = 9125
+send_array[812].sysTime = 53593085	nID = 13	sink = 1	sender = 13	seq_no = 812	priority = 1	line = 9126
+send_array[813].sysTime = 53602414	nID = 13	sink = 1	sender = 13	seq_no = 813	priority = 2	line = 9128
+send_array[814].sysTime = 53613044	nID = 13	sink = 1	sender = 13	seq_no = 814	priority = 1	line = 9129
+send_array[815].sysTime = 54020964	nID = 13	sink = 1	sender = 13	seq_no = 815	priority = 2	line = 9195
+send_array[816].sysTime = 54030300	nID = 13	sink = 1	sender = 13	seq_no = 816	priority = 1	line = 9197
+send_array[817].sysTime = 54040198	nID = 13	sink = 1	sender = 13	seq_no = 817	priority = 2	line = 9198
+send_array[818].sysTime = 54050912	nID = 13	sink = 1	sender = 13	seq_no = 818	priority = 1	line = 9200
+send_array[819].sysTime = 54061086	nID = 13	sink = 1	sender = 13	seq_no = 819	priority = 2	line = 9201
+send_array[820].sysTime = 54070088	nID = 13	sink = 1	sender = 13	seq_no = 820	priority = 1	line = 9203
+send_array[821].sysTime = 54420011	nID = 13	sink = 1	sender = 13	seq_no = 821	priority = 2	line = 9261
+send_array[822].sysTime = 54440707	nID = 13	sink = 1	sender = 13	seq_no = 822	priority = 1	line = 9263
+send_array[823].sysTime = 54904587	nID = 13	sink = 1	sender = 13	seq_no = 823	priority = 2	line = 9338
+send_array[824].sysTime = 54914140	nID = 13	sink = 1	sender = 13	seq_no = 824	priority = 1	line = 9339
+send_array[825].sysTime = 54924652	nID = 13	sink = 1	sender = 13	seq_no = 825	priority = 2	line = 9340
+send_array[826].sysTime = 54933853	nID = 13	sink = 1	sender = 13	seq_no = 826	priority = 1	line = 9342
+send_array[827].sysTime = 55404822	nID = 13	sink = 1	sender = 13	seq_no = 827	priority = 2	line = 9418
+send_array[828].sysTime = 55413938	nID = 13	sink = 1	sender = 13	seq_no = 828	priority = 1	line = 9420
+send_array[829].sysTime = 55424494	nID = 13	sink = 1	sender = 13	seq_no = 829	priority = 2	line = 9421
+send_array[830].sysTime = 55433998	nID = 13	sink = 1	sender = 13	seq_no = 830	priority = 1	line = 9422
+send_array[831].sysTime = 55788514	nID = 13	sink = 1	sender = 13	seq_no = 831	priority = 2	line = 9480
+send_array[832].sysTime = 55799066	nID = 13	sink = 1	sender = 13	seq_no = 832	priority = 1	line = 9482
+send_array[833].sysTime = 55809134	nID = 13	sink = 1	sender = 13	seq_no = 833	priority = 2	line = 9483
+send_array[834].sysTime = 55819336	nID = 13	sink = 1	sender = 13	seq_no = 834	priority = 1	line = 9485
+send_array[835].sysTime = 55829293	nID = 13	sink = 1	sender = 13	seq_no = 835	priority = 2	line = 9487
+send_array[836].sysTime = 55838785	nID = 13	sink = 1	sender = 13	seq_no = 836	priority = 1	line = 9488
+send_array[837].sysTime = 55848680	nID = 13	sink = 1	sender = 13	seq_no = 837	priority = 2	line = 9489
+send_array[838].sysTime = 55857893	nID = 13	sink = 1	sender = 13	seq_no = 838	priority = 1	line = 9491
+send_array[839].sysTime = 55867681	nID = 13	sink = 1	sender = 13	seq_no = 839	priority = 2	line = 9492
+send_array[840].sysTime = 55878405	nID = 13	sink = 1	sender = 13	seq_no = 840	priority = 1	line = 9494
+send_array[841].sysTime = 55888283	nID = 13	sink = 1	sender = 13	seq_no = 841	priority = 2	line = 9496
+send_array[842].sysTime = 55899073	nID = 13	sink = 1	sender = 13	seq_no = 842	priority = 1	line = 9498
+send_array[843].sysTime = 55908170	nID = 13	sink = 1	sender = 13	seq_no = 843	priority = 2	line = 9500
+send_array[844].sysTime = 55918077	nID = 13	sink = 1	sender = 13	seq_no = 844	priority = 1	line = 9502
+send_array[845].sysTime = 55928135	nID = 13	sink = 1	sender = 13	seq_no = 845	priority = 2	line = 9504
+send_array[846].sysTime = 55938902	nID = 13	sink = 1	sender = 13	seq_no = 846	priority = 1	line = 9506
+send_array[847].sysTime = 55948538	nID = 13	sink = 1	sender = 13	seq_no = 847	priority = 2	line = 9507
+send_array[848].sysTime = 55957543	nID = 13	sink = 1	sender = 13	seq_no = 848	priority = 1	line = 9509
+send_array[849].sysTime = 55968394	nID = 13	sink = 1	sender = 13	seq_no = 849	priority = 2	line = 9510
+send_array[850].sysTime = 55978426	nID = 13	sink = 1	sender = 13	seq_no = 850	priority = 1	line = 9512
+send_array[851].sysTime = 55987835	nID = 13	sink = 1	sender = 13	seq_no = 851	priority = 2	line = 9514
+send_array[852].sysTime = 56027599	nID = 13	sink = 1	sender = 13	seq_no = 852	priority = 1	line = 9520
+send_array[853].sysTime = 56037664	nID = 13	sink = 1	sender = 13	seq_no = 853	priority = 2	line = 9522
+send_array[854].sysTime = 56047800	nID = 13	sink = 1	sender = 13	seq_no = 854	priority = 1	line = 9523
+send_array[855].sysTime = 56057600	nID = 13	sink = 1	sender = 13	seq_no = 855	priority = 2	line = 9524
+send_array[856].sysTime = 56066681	nID = 13	sink = 1	sender = 13	seq_no = 856	priority = 1	line = 9526
+send_array[857].sysTime = 56246312	nID = 13	sink = 1	sender = 13	seq_no = 857	priority = 2	line = 9554
+send_array[858].sysTime = 56375165	nID = 13	sink = 1	sender = 13	seq_no = 858	priority = 1	line = 9574
+send_array[859].sysTime = 56788337	nID = 13	sink = 1	sender = 13	seq_no = 859	priority = 2	line = 9641
+send_array[860].sysTime = 57136918	nID = 13	sink = 1	sender = 13	seq_no = 860	priority = 1	line = 9697
+send_array[861].sysTime = 57146189	nID = 13	sink = 1	sender = 13	seq_no = 861	priority = 2	line = 9698
+send_array[862].sysTime = 57156413	nID = 13	sink = 1	sender = 13	seq_no = 862	priority = 1	line = 9700
+send_array[863].sysTime = 57430010	nID = 13	sink = 1	sender = 13	seq_no = 863	priority = 2	line = 9743
+send_array[864].sysTime = 57439252	nID = 13	sink = 1	sender = 13	seq_no = 864	priority = 1	line = 9744
+send_array[865].sysTime = 57449815	nID = 13	sink = 1	sender = 13	seq_no = 865	priority = 2	line = 9746
+send_array[866].sysTime = 57460664	nID = 13	sink = 1	sender = 13	seq_no = 866	priority = 1	line = 9748
+send_array[867].sysTime = 57789986	nID = 13	sink = 1	sender = 13	seq_no = 867	priority = 2	line = 9801
+send_array[868].sysTime = 57799231	nID = 13	sink = 1	sender = 13	seq_no = 868	priority = 1	line = 9803
+send_array[869].sysTime = 57808240	nID = 13	sink = 1	sender = 13	seq_no = 869	priority = 2	line = 9804
+send_array[870].sysTime = 57926593	nID = 13	sink = 1	sender = 13	seq_no = 870	priority = 1	line = 9822
+send_array[871].sysTime = 57936279	nID = 13	sink = 1	sender = 13	seq_no = 871	priority = 2	line = 9824
+send_array[872].sysTime = 57946260	nID = 13	sink = 1	sender = 13	seq_no = 872	priority = 1	line = 9825
+send_array[873].sysTime = 58007254	nID = 13	sink = 1	sender = 13	seq_no = 873	priority = 2	line = 9835
+send_array[874].sysTime = 58017772	nID = 13	sink = 1	sender = 13	seq_no = 874	priority = 1	line = 9836
+send_array[875].sysTime = 58028078	nID = 13	sink = 1	sender = 13	seq_no = 875	priority = 2	line = 9837
+send_array[876].sysTime = 58037220	nID = 13	sink = 1	sender = 13	seq_no = 876	priority = 1	line = 9839
+send_array[877].sysTime = 58046858	nID = 13	sink = 1	sender = 13	seq_no = 877	priority = 2	line = 9840
+send_array[878].sysTime = 58057640	nID = 13	sink = 1	sender = 13	seq_no = 878	priority = 1	line = 9841
+send_array[879].sysTime = 58086937	nID = 13	sink = 1	sender = 13	seq_no = 879	priority = 2	line = 9846
+send_array[880].sysTime = 58095945	nID = 13	sink = 1	sender = 13	seq_no = 880	priority = 1	line = 9848
+send_array[881].sysTime = 58337047	nID = 13	sink = 1	sender = 13	seq_no = 881	priority = 2	line = 9888
+send_array[882].sysTime = 58346342	nID = 13	sink = 1	sender = 13	seq_no = 882	priority = 1	line = 9890
+send_array[883].sysTime = 58356179	nID = 13	sink = 1	sender = 13	seq_no = 883	priority = 2	line = 9892
+send_array[884].sysTime = 58367096	nID = 13	sink = 1	sender = 13	seq_no = 884	priority = 1	line = 9894
+send_array[885].sysTime = 58377311	nID = 13	sink = 1	sender = 13	seq_no = 885	priority = 2	line = 9895
+send_array[886].sysTime = 59092440	nID = 13	sink = 1	sender = 13	seq_no = 886	priority = 1	line = 10011
+send_array[887].sysTime = 59101712	nID = 13	sink = 1	sender = 13	seq_no = 887	priority = 2	line = 10012
+send_array[888].sysTime = 59111063	nID = 13	sink = 1	sender = 13	seq_no = 888	priority = 1	line = 10014
+send_array[889].sysTime = 59121338	nID = 13	sink = 1	sender = 13	seq_no = 889	priority = 2	line = 10015
+send_array[890].sysTime = 59141502	nID = 13	sink = 1	sender = 13	seq_no = 890	priority = 1	line = 10019
+send_array[891].sysTime = 59152292	nID = 13	sink = 1	sender = 13	seq_no = 891	priority = 2	line = 10020
+send_array[892].sysTime = 59162736	nID = 13	sink = 1	sender = 13	seq_no = 892	priority = 1	line = 10021
+send_array[893].sysTime = 59173007	nID = 13	sink = 1	sender = 13	seq_no = 893	priority = 2	line = 10023
+send_array[894].sysTime = 59520799	nID = 13	sink = 1	sender = 13	seq_no = 894	priority = 1	line = 10081
+send_array[895].sysTime = 59530272	nID = 13	sink = 1	sender = 13	seq_no = 895	priority = 2	line = 10083
+send_array[896].sysTime = 59540709	nID = 13	sink = 1	sender = 13	seq_no = 896	priority = 1	line = 10085
+send_array[897].sysTime = 59631946	nID = 13	sink = 1	sender = 13	seq_no = 897	priority = 2	line = 10099
+send_array[898].sysTime = 60374286	nID = 13	sink = 1	sender = 13	seq_no = 898	priority = 1	line = 10218
+send_array[899].sysTime = 60383424	nID = 13	sink = 1	sender = 13	seq_no = 899	priority = 2	line = 10219
+send_array[900].sysTime = 60394387	nID = 13	sink = 1	sender = 13	seq_no = 900	priority = 1	line = 10220
+send_array[901].sysTime = 60404521	nID = 13	sink = 1	sender = 13	seq_no = 901	priority = 2	line = 10222
+send_array[902].sysTime = 60818401	nID = 13	sink = 1	sender = 13	seq_no = 902	priority = 1	line = 10288
+send_array[903].sysTime = 60828659	nID = 13	sink = 1	sender = 13	seq_no = 903	priority = 2	line = 10289
+send_array[904].sysTime = 60839064	nID = 13	sink = 1	sender = 13	seq_no = 904	priority = 1	line = 10291
+send_array[905].sysTime = 60849452	nID = 13	sink = 1	sender = 13	seq_no = 905	priority = 2	line = 10292
+send_array[906].sysTime = 61233294	nID = 13	sink = 1	sender = 13	seq_no = 906	priority = 1	line = 10355
+send_array[907].sysTime = 61243551	nID = 13	sink = 1	sender = 13	seq_no = 907	priority = 2	line = 10357
+send_array[908].sysTime = 61252634	nID = 13	sink = 1	sender = 13	seq_no = 908	priority = 1	line = 10359
+send_array[909].sysTime = 61884936	nID = 13	sink = 1	sender = 13	seq_no = 909	priority = 2	line = 10461
+send_array[910].sysTime = 61894108	nID = 13	sink = 1	sender = 13	seq_no = 910	priority = 1	line = 10462
+send_array[911].sysTime = 61903501	nID = 13	sink = 1	sender = 13	seq_no = 911	priority = 2	line = 10463
+send_array[912].sysTime = 62283512	nID = 13	sink = 1	sender = 13	seq_no = 912	priority = 1	line = 10524
+send_array[913].sysTime = 62294052	nID = 13	sink = 1	sender = 13	seq_no = 913	priority = 2	line = 10525
+send_array[914].sysTime = 62304195	nID = 13	sink = 1	sender = 13	seq_no = 914	priority = 1	line = 10527
+send_array[915].sysTime = 62313950	nID = 13	sink = 1	sender = 13	seq_no = 915	priority = 2	line = 10529
+send_array[916].sysTime = 62324348	nID = 13	sink = 1	sender = 13	seq_no = 916	priority = 1	line = 10530
+send_array[917].sysTime = 62334085	nID = 13	sink = 1	sender = 13	seq_no = 917	priority = 2	line = 10531
+send_array[918].sysTime = 62344649	nID = 13	sink = 1	sender = 13	seq_no = 918	priority = 1	line = 10532
+send_array[919].sysTime = 62355256	nID = 13	sink = 1	sender = 13	seq_no = 919	priority = 2	line = 10534
+send_array[920].sysTime = 62365772	nID = 13	sink = 1	sender = 13	seq_no = 920	priority = 1	line = 10535
+send_array[921].sysTime = 62376246	nID = 13	sink = 1	sender = 13	seq_no = 921	priority = 2	line = 10537
+send_array[922].sysTime = 62387036	nID = 13	sink = 1	sender = 13	seq_no = 922	priority = 1	line = 10539
+send_array[923].sysTime = 62396889	nID = 13	sink = 1	sender = 13	seq_no = 923	priority = 2	line = 10541
+send_array[924].sysTime = 62407002	nID = 13	sink = 1	sender = 13	seq_no = 924	priority = 1	line = 10543
+send_array[925].sysTime = 62416444	nID = 13	sink = 1	sender = 13	seq_no = 925	priority = 2	line = 10544
+send_array[926].sysTime = 62426159	nID = 13	sink = 1	sender = 13	seq_no = 926	priority = 1	line = 10545
+send_array[927].sysTime = 62437037	nID = 13	sink = 1	sender = 13	seq_no = 927	priority = 2	line = 10547
+send_array[928].sysTime = 62818163	nID = 13	sink = 1	sender = 13	seq_no = 928	priority = 1	line = 10608
+send_array[929].sysTime = 62829116	nID = 13	sink = 1	sender = 13	seq_no = 929	priority = 2	line = 10609
+send_array[930].sysTime = 62840022	nID = 13	sink = 1	sender = 13	seq_no = 930	priority = 1	line = 10610
+send_array[931].sysTime = 62849727	nID = 13	sink = 1	sender = 13	seq_no = 931	priority = 2	line = 10612
+send_array[932].sysTime = 62859965	nID = 13	sink = 1	sender = 13	seq_no = 932	priority = 1	line = 10613
+send_array[933].sysTime = 62870592	nID = 13	sink = 1	sender = 13	seq_no = 933	priority = 2	line = 10615
+send_array[934].sysTime = 62900141	nID = 13	sink = 1	sender = 13	seq_no = 934	priority = 1	line = 10619
+send_array[935].sysTime = 62909159	nID = 13	sink = 1	sender = 13	seq_no = 935	priority = 2	line = 10620
+send_array[936].sysTime = 62919062	nID = 13	sink = 1	sender = 13	seq_no = 936	priority = 1	line = 10622
+send_array[937].sysTime = 62929580	nID = 13	sink = 1	sender = 13	seq_no = 937	priority = 2	line = 10623
+send_array[938].sysTime = 63268871	nID = 13	sink = 1	sender = 13	seq_no = 938	priority = 1	line = 10677
+send_array[939].sysTime = 63299145	nID = 13	sink = 1	sender = 13	seq_no = 939	priority = 2	line = 10682
+send_array[940].sysTime = 63909801	nID = 13	sink = 1	sender = 13	seq_no = 940	priority = 1	line = 10780
+send_array[941].sysTime = 63920173	nID = 13	sink = 1	sender = 13	seq_no = 941	priority = 2	line = 10782
+send_array[942].sysTime = 63930268	nID = 13	sink = 1	sender = 13	seq_no = 942	priority = 1	line = 10783
+send_array[943].sysTime = 63940779	nID = 13	sink = 1	sender = 13	seq_no = 943	priority = 2	line = 10785
+send_array[944].sysTime = 63950505	nID = 13	sink = 1	sender = 13	seq_no = 944	priority = 1	line = 10787
+send_array[945].sysTime = 63961379	nID = 13	sink = 1	sender = 13	seq_no = 945	priority = 2	line = 10788
+send_array[946].sysTime = 63971673	nID = 13	sink = 1	sender = 13	seq_no = 946	priority = 1	line = 10790
+send_array[947].sysTime = 63981815	nID = 13	sink = 1	sender = 13	seq_no = 947	priority = 2	line = 10792
+send_array[948].sysTime = 63991231	nID = 13	sink = 1	sender = 13	seq_no = 948	priority = 1	line = 10794
+send_array[949].sysTime = 64001495	nID = 13	sink = 1	sender = 13	seq_no = 949	priority = 2	line = 10796
+send_array[950].sysTime = 64010511	nID = 13	sink = 1	sender = 13	seq_no = 950	priority = 1	line = 10797
+send_array[951].sysTime = 64019715	nID = 13	sink = 1	sender = 13	seq_no = 951	priority = 2	line = 10799
+send_array[952].sysTime = 64068950	nID = 13	sink = 1	sender = 13	seq_no = 952	priority = 1	line = 10808
+send_array[953].sysTime = 64079223	nID = 13	sink = 1	sender = 13	seq_no = 953	priority = 2	line = 10809
+send_array[954].sysTime = 64089943	nID = 13	sink = 1	sender = 13	seq_no = 954	priority = 1	line = 10811
+send_array[955].sysTime = 64100230	nID = 13	sink = 1	sender = 13	seq_no = 955	priority = 2	line = 10813
+send_array[956].sysTime = 64110239	nID = 13	sink = 1	sender = 13	seq_no = 956	priority = 1	line = 10815
+send_array[957].sysTime = 64120750	nID = 13	sink = 1	sender = 13	seq_no = 957	priority = 2	line = 10817
+send_array[958].sysTime = 64130947	nID = 13	sink = 1	sender = 13	seq_no = 958	priority = 1	line = 10819
+send_array[959].sysTime = 64140197	nID = 13	sink = 1	sender = 13	seq_no = 959	priority = 2	line = 10820
+send_array[960].sysTime = 64604882	nID = 13	sink = 1	sender = 13	seq_no = 960	priority = 1	line = 10894
+send_array[961].sysTime = 64614157	nID = 13	sink = 1	sender = 13	seq_no = 961	priority = 2	line = 10896
+send_array[962].sysTime = 64623910	nID = 13	sink = 1	sender = 13	seq_no = 962	priority = 1	line = 10897
+send_array[963].sysTime = 64633068	nID = 13	sink = 1	sender = 13	seq_no = 963	priority = 2	line = 10898
+send_array[964].sysTime = 64892351	nID = 13	sink = 1	sender = 13	seq_no = 964	priority = 1	line = 10941
+send_array[965].sysTime = 64901933	nID = 13	sink = 1	sender = 13	seq_no = 965	priority = 2	line = 10943
+send_array[966].sysTime = 64912385	nID = 13	sink = 1	sender = 13	seq_no = 966	priority = 1	line = 10945
+send_array[967].sysTime = 64923270	nID = 13	sink = 1	sender = 13	seq_no = 967	priority = 2	line = 10947
+send_array[968].sysTime = 64933396	nID = 13	sink = 1	sender = 13	seq_no = 968	priority = 1	line = 10949
+send_array[969].sysTime = 64942998	nID = 13	sink = 1	sender = 13	seq_no = 969	priority = 2	line = 10950
+send_array[970].sysTime = 64952894	nID = 13	sink = 1	sender = 13	seq_no = 970	priority = 1	line = 10952
+send_array[971].sysTime = 64962403	nID = 13	sink = 1	sender = 13	seq_no = 971	priority = 2	line = 10954
+send_array[972].sysTime = 64972396	nID = 13	sink = 1	sender = 13	seq_no = 972	priority = 1	line = 10956
+send_array[973].sysTime = 64981450	nID = 13	sink = 1	sender = 13	seq_no = 973	priority = 2	line = 10958
+send_array[974].sysTime = 64991796	nID = 13	sink = 1	sender = 13	seq_no = 974	priority = 1	line = 10959
+send_array[975].sysTime = 65000855	nID = 13	sink = 1	sender = 13	seq_no = 975	priority = 2	line = 10960
+send_array[976].sysTime = 65010104	nID = 13	sink = 1	sender = 13	seq_no = 976	priority = 1	line = 10962
+send_array[977].sysTime = 65471093	nID = 13	sink = 1	sender = 13	seq_no = 977	priority = 2	line = 11036
+send_array[978].sysTime = 65582406	nID = 13	sink = 1	sender = 13	seq_no = 978	priority = 1	line = 11053
+send_array[979].sysTime = 65593254	nID = 13	sink = 1	sender = 13	seq_no = 979	priority = 2	line = 11055
+send_array[980].sysTime = 65603506	nID = 13	sink = 1	sender = 13	seq_no = 980	priority = 1	line = 11057
+send_array[981].sysTime = 65612886	nID = 13	sink = 1	sender = 13	seq_no = 981	priority = 2	line = 11059
+send_array[982].sysTime = 65623421	nID = 13	sink = 1	sender = 13	seq_no = 982	priority = 1	line = 11061
+send_array[983].sysTime = 65632724	nID = 13	sink = 1	sender = 13	seq_no = 983	priority = 2	line = 11062
+send_array[984].sysTime = 65643544	nID = 13	sink = 1	sender = 13	seq_no = 984	priority = 1	line = 11063
+send_array[985].sysTime = 65653507	nID = 13	sink = 1	sender = 13	seq_no = 985	priority = 2	line = 11065
+send_array[986].sysTime = 65663620	nID = 13	sink = 1	sender = 13	seq_no = 986	priority = 1	line = 11066
+send_array[987].sysTime = 65673670	nID = 13	sink = 1	sender = 13	seq_no = 987	priority = 2	line = 11067
+send_array[988].sysTime = 66366582	nID = 13	sink = 1	sender = 13	seq_no = 988	priority = 1	line = 11180
+send_array[989].sysTime = 66376963	nID = 13	sink = 1	sender = 13	seq_no = 989	priority = 2	line = 11182
+send_array[990].sysTime = 66387758	nID = 13	sink = 1	sender = 13	seq_no = 990	priority = 1	line = 11184
+send_array[991].sysTime = 66397325	nID = 13	sink = 1	sender = 13	seq_no = 991	priority = 2	line = 11185
+send_array[992].sysTime = 66406534	nID = 13	sink = 1	sender = 13	seq_no = 992	priority = 1	line = 11187
+send_array[993].sysTime = 66416730	nID = 13	sink = 1	sender = 13	seq_no = 993	priority = 2	line = 11188
+send_array[994].sysTime = 66426947	nID = 13	sink = 1	sender = 13	seq_no = 994	priority = 1	line = 11189
+send_array[995].sysTime = 66436298	nID = 13	sink = 1	sender = 13	seq_no = 995	priority = 2	line = 11191
+send_array[996].sysTime = 66787430	nID = 13	sink = 1	sender = 13	seq_no = 996	priority = 1	line = 11249
+send_array[997].sysTime = 66807545	nID = 13	sink = 1	sender = 13	seq_no = 997	priority = 2	line = 11253
+send_array[998].sysTime = 66816959	nID = 13	sink = 1	sender = 13	seq_no = 998	priority = 1	line = 11254
+send_array[999].sysTime = 66827151	nID = 13	sink = 1	sender = 13	seq_no = 999	priority = 2	line = 11255
+recv_array[0].sysTime = 38506	nID = 1	total_packets = 1	sender = 13	seq_no = 0	pr = 1	line = 505
+recv_array[1].sysTime = 54491	nID = 1	total_packets = 2	sender = 13	seq_no = 1	pr = 2	line = 507
+recv_array[2].sysTime = 70528	nID = 1	total_packets = 3	sender = 13	seq_no = 2	pr = 1	line = 510
+recv_array[3].sysTime = 134602	nID = 1	total_packets = 4	sender = 13	seq_no = 6	pr = 1	line = 518
+recv_array[4].sysTime = 246571	nID = 1	total_packets = 5	sender = 13	seq_no = 12	pr = 1	line = 531
+recv_array[5].sysTime = 310677	nID = 1	total_packets = 6	sender = 13	seq_no = 16	pr = 1	line = 539
+recv_array[6].sysTime = 326678	nID = 1	total_packets = 7	sender = 13	seq_no = 17	pr = 2	line = 543
+recv_array[7].sysTime = 374696	nID = 1	total_packets = 8	sender = 13	seq_no = 20	pr = 1	line = 551
+recv_array[8].sysTime = 406680	nID = 1	total_packets = 9	sender = 13	seq_no = 22	pr = 1	line = 556
+recv_array[9].sysTime = 454838	nID = 1	total_packets = 10	sender = 13	seq_no = 27	pr = 2	line = 564
+recv_array[10].sysTime = 470809	nID = 1	total_packets = 11	sender = 13	seq_no = 28	pr = 1	line = 568
+recv_array[11].sysTime = 502640	nID = 1	total_packets = 12	sender = 13	seq_no = 32	pr = 1	line = 573
+recv_array[12].sysTime = 534612	nID = 1	total_packets = 13	sender = 13	seq_no = 35	pr = 2	line = 578
+recv_array[13].sysTime = 598787	nID = 1	total_packets = 14	sender = 13	seq_no = 42	pr = 1	line = 589
+recv_array[14].sysTime = 678818	nID = 1	total_packets = 15	sender = 13	seq_no = 50	pr = 1	line = 601
+recv_array[15].sysTime = 806707	nID = 1	total_packets = 16	sender = 13	seq_no = 55	pr = 2	line = 620
+recv_array[16].sysTime = 1478902	nID = 1	total_packets = 17	sender = 13	seq_no = 58	pr = 1	line = 730
+recv_array[17].sysTime = 1590676	nID = 1	total_packets = 18	sender = 13	seq_no = 61	pr = 2	line = 747
+recv_array[18].sysTime = 4102655	nID = 1	total_packets = 19	sender = 13	seq_no = 77	pr = 2	line = 1151
+recv_array[19].sysTime = 4630705	nID = 1	total_packets = 20	sender = 13	seq_no = 84	pr = 1	line = 1233
+recv_array[20].sysTime = 5414646	nID = 1	total_packets = 21	sender = 13	seq_no = 87	pr = 2	line = 1362
+recv_array[21].sysTime = 5430676	nID = 1	total_packets = 22	sender = 13	seq_no = 88	pr = 1	line = 1364
+recv_array[22].sysTime = 6230749	nID = 1	total_packets = 23	sender = 13	seq_no = 98	pr = 1	line = 1491
+recv_array[23].sysTime = 6247089	nID = 1	total_packets = 24	sender = 13	seq_no = 100	pr = 1	line = 1495
+recv_array[24].sysTime = 6806774	nID = 1	total_packets = 25	sender = 13	seq_no = 107	pr = 2	line = 1584
+recv_array[25].sysTime = 6822719	nID = 1	total_packets = 26	sender = 13	seq_no = 109	pr = 2	line = 1588
+recv_array[26].sysTime = 7238701	nID = 1	total_packets = 27	sender = 13	seq_no = 120	pr = 1	line = 1654
+recv_array[27].sysTime = 7254736	nID = 1	total_packets = 28	sender = 13	seq_no = 122	pr = 1	line = 1658
+recv_array[28].sysTime = 8374711	nID = 1	total_packets = 29	sender = 13	seq_no = 130	pr = 1	line = 1837
+recv_array[29].sysTime = 8647477	nID = 1	total_packets = 30	sender = 13	seq_no = 132	pr = 1	line = 1882
+recv_array[30].sysTime = 8662756	nID = 1	total_packets = 31	sender = 13	seq_no = 133	pr = 2	line = 1884
+recv_array[31].sysTime = 9078809	nID = 1	total_packets = 32	sender = 13	seq_no = 139	pr = 2	line = 1950
+recv_array[32].sysTime = 9974769	nID = 1	total_packets = 33	sender = 13	seq_no = 143	pr = 2	line = 2095
+recv_array[33].sysTime = 9990884	nID = 1	total_packets = 34	sender = 13	seq_no = 144	pr = 1	line = 2099
+recv_array[34].sysTime = 10006852	nID = 1	total_packets = 35	sender = 13	seq_no = 146	pr = 1	line = 2103
+recv_array[35].sysTime = 10023074	nID = 1	total_packets = 36	sender = 13	seq_no = 147	pr = 2	line = 2105
+recv_array[36].sysTime = 10038827	nID = 1	total_packets = 37	sender = 13	seq_no = 148	pr = 1	line = 2109
+recv_array[37].sysTime = 10055082	nID = 1	total_packets = 38	sender = 13	seq_no = 150	pr = 1	line = 2112
+recv_array[38].sysTime = 10086796	nID = 1	total_packets = 39	sender = 13	seq_no = 153	pr = 2	line = 2118
+recv_array[39].sysTime = 10454813	nID = 1	total_packets = 40	sender = 13	seq_no = 166	pr = 1	line = 2176
+recv_array[40].sysTime = 10470816	nID = 1	total_packets = 41	sender = 13	seq_no = 167	pr = 2	line = 2178
+recv_array[41].sysTime = 10518898	nID = 1	total_packets = 42	sender = 13	seq_no = 172	pr = 1	line = 2186
+recv_array[42].sysTime = 10534991	nID = 1	total_packets = 43	sender = 13	seq_no = 174	pr = 1	line = 2190
+recv_array[43].sysTime = 11302833	nID = 1	total_packets = 44	sender = 13	seq_no = 182	pr = 1	line = 2312
+recv_array[44].sysTime = 11814763	nID = 1	total_packets = 45	sender = 13	seq_no = 185	pr = 2	line = 2393
+recv_array[45].sysTime = 11830854	nID = 1	total_packets = 46	sender = 13	seq_no = 187	pr = 2	line = 2396
+recv_array[46].sysTime = 12294983	nID = 1	total_packets = 47	sender = 13	seq_no = 188	pr = 1	line = 2476
+recv_array[47].sysTime = 12662859	nID = 1	total_packets = 48	sender = 13	seq_no = 193	pr = 2	line = 2534
+recv_array[48].sysTime = 12694975	nID = 1	total_packets = 49	sender = 13	seq_no = 195	pr = 2	line = 2539
+recv_array[49].sysTime = 12710842	nID = 1	total_packets = 50	sender = 13	seq_no = 196	pr = 1	line = 2543
+recv_array[50].sysTime = 12759997	nID = 1	total_packets = 51	sender = 13	seq_no = 203	pr = 2	line = 2550
+recv_array[51].sysTime = 12807135	nID = 1	total_packets = 52	sender = 13	seq_no = 208	pr = 1	line = 2556
+recv_array[52].sysTime = 13318937	nID = 1	total_packets = 53	sender = 13	seq_no = 214	pr = 1	line = 2639
+recv_array[53].sysTime = 13622997	nID = 1	total_packets = 54	sender = 13	seq_no = 218	pr = 1	line = 2688
+recv_array[54].sysTime = 13847179	nID = 1	total_packets = 55	sender = 13	seq_no = 221	pr = 2	line = 2724
+recv_array[55].sysTime = 14614792	nID = 1	total_packets = 56	sender = 13	seq_no = 227	pr = 2	line = 2847
+recv_array[56].sysTime = 15078870	nID = 1	total_packets = 57	sender = 13	seq_no = 235	pr = 2	line = 2920
+recv_array[57].sysTime = 15111088	nID = 1	total_packets = 58	sender = 13	seq_no = 238	pr = 1	line = 2925
+recv_array[58].sysTime = 16374977	nID = 1	total_packets = 59	sender = 13	seq_no = 251	pr = 2	line = 3127
+recv_array[59].sysTime = 16390983	nID = 1	total_packets = 60	sender = 13	seq_no = 252	pr = 1	line = 3129
+recv_array[60].sysTime = 16406943	nID = 1	total_packets = 61	sender = 13	seq_no = 254	pr = 1	line = 3133
+recv_array[61].sysTime = 16455006	nID = 1	total_packets = 62	sender = 13	seq_no = 255	pr = 2	line = 3140
+recv_array[62].sysTime = 16822928	nID = 1	total_packets = 63	sender = 13	seq_no = 258	pr = 1	line = 3201
+recv_array[63].sysTime = 16838882	nID = 1	total_packets = 64	sender = 13	seq_no = 259	pr = 2	line = 3205
+recv_array[64].sysTime = 16854894	nID = 1	total_packets = 65	sender = 13	seq_no = 261	pr = 2	line = 3209
+recv_array[65].sysTime = 16887057	nID = 1	total_packets = 66	sender = 13	seq_no = 263	pr = 2	line = 3214
+recv_array[66].sysTime = 16902924	nID = 1	total_packets = 67	sender = 13	seq_no = 265	pr = 2	line = 3216
+recv_array[67].sysTime = 16918983	nID = 1	total_packets = 68	sender = 13	seq_no = 266	pr = 1	line = 3220
+recv_array[68].sysTime = 16950999	nID = 1	total_packets = 69	sender = 13	seq_no = 270	pr = 1	line = 3225
+recv_array[69].sysTime = 17398947	nID = 1	total_packets = 70	sender = 13	seq_no = 280	pr = 1	line = 3296
+recv_array[70].sysTime = 18438999	nID = 1	total_packets = 71	sender = 13	seq_no = 288	pr = 1	line = 3463
+recv_array[71].sysTime = 18454933	nID = 1	total_packets = 72	sender = 13	seq_no = 290	pr = 1	line = 3467
+recv_array[72].sysTime = 18486978	nID = 1	total_packets = 73	sender = 13	seq_no = 292	pr = 1	line = 3472
+recv_array[73].sysTime = 18502937	nID = 1	total_packets = 74	sender = 13	seq_no = 293	pr = 2	line = 3476
+recv_array[74].sysTime = 19751094	nID = 1	total_packets = 75	sender = 13	seq_no = 302	pr = 1	line = 3678
+recv_array[75].sysTime = 19783019	nID = 1	total_packets = 76	sender = 13	seq_no = 305	pr = 2	line = 3683
+recv_array[76].sysTime = 19847414	nID = 1	total_packets = 77	sender = 13	seq_no = 312	pr = 1	line = 3694
+recv_array[77].sysTime = 20615000	nID = 1	total_packets = 78	sender = 13	seq_no = 317	pr = 2	line = 3820
+recv_array[78].sysTime = 20822943	nID = 1	total_packets = 79	sender = 13	seq_no = 323	pr = 2	line = 3854
+recv_array[79].sysTime = 21782976	nID = 1	total_packets = 80	sender = 13	seq_no = 335	pr = 2	line = 4005
+recv_array[80].sysTime = 22679102	nID = 1	total_packets = 81	sender = 13	seq_no = 346	pr = 1	line = 4150
+recv_array[81].sysTime = 23815094	nID = 1	total_packets = 82	sender = 13	seq_no = 357	pr = 2	line = 4334
+recv_array[82].sysTime = 23863161	nID = 1	total_packets = 83	sender = 13	seq_no = 363	pr = 2	line = 4341
+recv_array[83].sysTime = 24375066	nID = 1	total_packets = 84	sender = 13	seq_no = 374	pr = 1	line = 4422
+recv_array[84].sysTime = 24423202	nID = 1	total_packets = 85	sender = 13	seq_no = 379	pr = 2	line = 4430
+recv_array[85].sysTime = 25559461	nID = 1	total_packets = 86	sender = 13	seq_no = 390	pr = 1	line = 4613
+recv_array[86].sysTime = 25575163	nID = 1	total_packets = 87	sender = 13	seq_no = 392	pr = 1	line = 4617
+recv_array[87].sysTime = 25943088	nID = 1	total_packets = 88	sender = 13	seq_no = 396	pr = 1	line = 4676
+recv_array[88].sysTime = 25959083	nID = 1	total_packets = 89	sender = 13	seq_no = 397	pr = 2	line = 4680
+recv_array[89].sysTime = 25975132	nID = 1	total_packets = 90	sender = 13	seq_no = 399	pr = 2	line = 4682
+recv_array[90].sysTime = 26039151	nID = 1	total_packets = 91	sender = 13	seq_no = 405	pr = 2	line = 4693
+recv_array[91].sysTime = 26087132	nID = 1	total_packets = 92	sender = 13	seq_no = 410	pr = 1	line = 4699
+recv_array[92].sysTime = 26583200	nID = 1	total_packets = 93	sender = 13	seq_no = 421	pr = 2	line = 4779
+recv_array[93].sysTime = 26967135	nID = 1	total_packets = 94	sender = 13	seq_no = 424	pr = 1	line = 4840
+recv_array[94].sysTime = 26983317	nID = 1	total_packets = 95	sender = 13	seq_no = 426	pr = 1	line = 4844
+recv_array[95].sysTime = 27367114	nID = 1	total_packets = 96	sender = 13	seq_no = 429	pr = 2	line = 4906
+recv_array[96].sysTime = 27383147	nID = 1	total_packets = 97	sender = 13	seq_no = 431	pr = 2	line = 4909
+recv_array[97].sysTime = 27415129	nID = 1	total_packets = 98	sender = 13	seq_no = 434	pr = 1	line = 4914
+recv_array[98].sysTime = 27463248	nID = 1	total_packets = 99	sender = 13	seq_no = 438	pr = 1	line = 4922
+recv_array[99].sysTime = 27511205	nID = 1	total_packets = 100	sender = 13	seq_no = 442	pr = 1	line = 4928
+recv_array[100].sysTime = 27911151	nID = 1	total_packets = 101	sender = 13	seq_no = 448	pr = 1	line = 4992
+recv_array[101].sysTime = 27927120	nID = 1	total_packets = 102	sender = 13	seq_no = 450	pr = 1	line = 4996
+recv_array[102].sysTime = 27943157	nID = 1	total_packets = 103	sender = 13	seq_no = 451	pr = 2	line = 5000
+recv_array[103].sysTime = 27959195	nID = 1	total_packets = 104	sender = 13	seq_no = 453	pr = 2	line = 5002
+recv_array[104].sysTime = 27991386	nID = 1	total_packets = 105	sender = 13	seq_no = 456	pr = 1	line = 5007
+recv_array[105].sysTime = 28583247	nID = 1	total_packets = 106	sender = 13	seq_no = 460	pr = 1	line = 5104
+recv_array[106].sysTime = 29175208	nID = 1	total_packets = 107	sender = 13	seq_no = 465	pr = 2	line = 5201
+recv_array[107].sysTime = 30551197	nID = 1	total_packets = 108	sender = 13	seq_no = 479	pr = 2	line = 5419
+recv_array[108].sysTime = 30599213	nID = 1	total_packets = 109	sender = 13	seq_no = 483	pr = 2	line = 5425
+recv_array[109].sysTime = 30615220	nID = 1	total_packets = 110	sender = 13	seq_no = 486	pr = 1	line = 5429
+recv_array[110].sysTime = 30663362	nID = 1	total_packets = 111	sender = 13	seq_no = 489	pr = 2	line = 5437
+recv_array[111].sysTime = 31175259	nID = 1	total_packets = 112	sender = 13	seq_no = 498	pr = 1	line = 5518
+recv_array[112].sysTime = 31191244	nID = 1	total_packets = 113	sender = 13	seq_no = 500	pr = 1	line = 5520
+recv_array[113].sysTime = 31223623	nID = 1	total_packets = 114	sender = 13	seq_no = 503	pr = 2	line = 5526
+recv_array[114].sysTime = 31575136	nID = 1	total_packets = 115	sender = 13	seq_no = 509	pr = 2	line = 5582
+recv_array[115].sysTime = 31591170	nID = 1	total_packets = 116	sender = 13	seq_no = 510	pr = 1	line = 5586
+recv_array[116].sysTime = 31623305	nID = 1	total_packets = 117	sender = 13	seq_no = 513	pr = 2	line = 5591
+recv_array[117].sysTime = 31639268	nID = 1	total_packets = 118	sender = 13	seq_no = 514	pr = 1	line = 5595
+recv_array[118].sysTime = 31687686	nID = 1	total_packets = 119	sender = 13	seq_no = 519	pr = 2	line = 5603
+recv_array[119].sysTime = 32727363	nID = 1	total_packets = 120	sender = 13	seq_no = 539	pr = 2	line = 5766
+recv_array[120].sysTime = 33079253	nID = 1	total_packets = 121	sender = 13	seq_no = 540	pr = 1	line = 5825
+recv_array[121].sysTime = 33639399	nID = 1	total_packets = 122	sender = 13	seq_no = 547	pr = 2	line = 5914
+recv_array[122].sysTime = 33687760	nID = 1	total_packets = 123	sender = 13	seq_no = 549	pr = 2	line = 5922
+recv_array[123].sysTime = 34231513	nID = 1	total_packets = 124	sender = 13	seq_no = 556	pr = 1	line = 6010
+recv_array[124].sysTime = 34743276	nID = 1	total_packets = 125	sender = 13	seq_no = 558	pr = 1	line = 6094
+recv_array[125].sysTime = 35575325	nID = 1	total_packets = 126	sender = 13	seq_no = 564	pr = 1	line = 6228
+recv_array[126].sysTime = 37463406	nID = 1	total_packets = 127	sender = 13	seq_no = 570	pr = 1	line = 6533
+recv_array[127].sysTime = 37831331	nID = 1	total_packets = 128	sender = 13	seq_no = 577	pr = 2	line = 6592
+recv_array[128].sysTime = 37847325	nID = 1	total_packets = 129	sender = 13	seq_no = 578	pr = 1	line = 6594
+recv_array[129].sysTime = 38055373	nID = 1	total_packets = 130	sender = 13	seq_no = 581	pr = 2	line = 6628
+recv_array[130].sysTime = 40103352	nID = 1	total_packets = 131	sender = 13	seq_no = 602	pr = 1	line = 6955
+recv_array[131].sysTime = 40135504	nID = 1	total_packets = 132	sender = 13	seq_no = 606	pr = 1	line = 6960
+recv_array[132].sysTime = 40151346	nID = 1	total_packets = 133	sender = 13	seq_no = 607	pr = 2	line = 6962
+recv_array[133].sysTime = 40359365	nID = 1	total_packets = 134	sender = 13	seq_no = 614	pr = 1	line = 6994
+recv_array[134].sysTime = 41335400	nID = 1	total_packets = 135	sender = 13	seq_no = 619	pr = 2	line = 7152
+recv_array[135].sysTime = 41367371	nID = 1	total_packets = 136	sender = 13	seq_no = 622	pr = 1	line = 7157
+recv_array[136].sysTime = 41735329	nID = 1	total_packets = 137	sender = 13	seq_no = 625	pr = 2	line = 7219
+recv_array[137].sysTime = 42119687	nID = 1	total_packets = 138	sender = 13	seq_no = 627	pr = 2	line = 7281
+recv_array[138].sysTime = 42151438	nID = 1	total_packets = 139	sender = 13	seq_no = 630	pr = 1	line = 7286
+recv_array[139].sysTime = 42951390	nID = 1	total_packets = 140	sender = 13	seq_no = 638	pr = 1	line = 7418
+recv_array[140].sysTime = 42967411	nID = 1	total_packets = 141	sender = 13	seq_no = 639	pr = 2	line = 7420
+recv_array[141].sysTime = 44551397	nID = 1	total_packets = 142	sender = 13	seq_no = 650	pr = 1	line = 7675
+recv_array[142].sysTime = 45271531	nID = 1	total_packets = 143	sender = 13	seq_no = 655	pr = 2	line = 7791
+recv_array[143].sysTime = 45367444	nID = 1	total_packets = 144	sender = 13	seq_no = 662	pr = 1	line = 7804
+recv_array[144].sysTime = 45415608	nID = 1	total_packets = 145	sender = 13	seq_no = 666	pr = 1	line = 7812
+recv_array[145].sysTime = 46167480	nID = 1	total_packets = 146	sender = 13	seq_no = 670	pr = 1	line = 7933
+recv_array[146].sysTime = 46199587	nID = 1	total_packets = 147	sender = 13	seq_no = 671	pr = 2	line = 7938
+recv_array[147].sysTime = 46263417	nID = 1	total_packets = 148	sender = 13	seq_no = 677	pr = 2	line = 7946
+recv_array[148].sysTime = 46279506	nID = 1	total_packets = 149	sender = 13	seq_no = 678	pr = 1	line = 7950
+recv_array[149].sysTime = 47159493	nID = 1	total_packets = 150	sender = 13	seq_no = 683	pr = 2	line = 8092
+recv_array[150].sysTime = 47559597	nID = 1	total_packets = 151	sender = 13	seq_no = 692	pr = 1	line = 8154
+recv_array[151].sysTime = 47863485	nID = 1	total_packets = 152	sender = 13	seq_no = 694	pr = 1	line = 8203
+recv_array[152].sysTime = 47895689	nID = 1	total_packets = 153	sender = 13	seq_no = 696	pr = 1	line = 8207
+recv_array[153].sysTime = 47927456	nID = 1	total_packets = 154	sender = 13	seq_no = 699	pr = 2	line = 8212
+recv_array[154].sysTime = 48055628	nID = 1	total_packets = 155	sender = 13	seq_no = 704	pr = 1	line = 8233
+recv_array[155].sysTime = 48551575	nID = 1	total_packets = 156	sender = 13	seq_no = 710	pr = 1	line = 8313
+recv_array[156].sysTime = 49719494	nID = 1	total_packets = 157	sender = 13	seq_no = 723	pr = 2	line = 8501
+recv_array[157].sysTime = 50535575	nID = 1	total_packets = 158	sender = 13	seq_no = 733	pr = 2	line = 8633
+recv_array[158].sysTime = 50568097	nID = 1	total_packets = 159	sender = 13	seq_no = 736	pr = 1	line = 8638
+recv_array[159].sysTime = 50983665	nID = 1	total_packets = 160	sender = 13	seq_no = 745	pr = 2	line = 8704
+recv_array[160].sysTime = 50999533	nID = 1	total_packets = 161	sender = 13	seq_no = 746	pr = 1	line = 8708
+recv_array[161].sysTime = 51016216	nID = 1	total_packets = 162	sender = 13	seq_no = 748	pr = 1	line = 8710
+recv_array[162].sysTime = 51032766	nID = 1	total_packets = 163	sender = 13	seq_no = 749	pr = 2	line = 8714
+recv_array[163].sysTime = 51064908	nID = 1	total_packets = 164	sender = 13	seq_no = 752	pr = 1	line = 8719
+recv_array[164].sysTime = 51543667	nID = 1	total_packets = 165	sender = 13	seq_no = 759	pr = 2	line = 8797
+recv_array[165].sysTime = 51607515	nID = 1	total_packets = 166	sender = 13	seq_no = 766	pr = 1	line = 8805
+recv_array[166].sysTime = 52103656	nID = 1	total_packets = 167	sender = 13	seq_no = 770	pr = 1	line = 8886
+recv_array[167].sysTime = 52503553	nID = 1	total_packets = 168	sender = 13	seq_no = 774	pr = 1	line = 8952
+recv_array[168].sysTime = 52519772	nID = 1	total_packets = 169	sender = 13	seq_no = 775	pr = 2	line = 8954
+recv_array[169].sysTime = 52535877	nID = 1	total_packets = 170	sender = 13	seq_no = 777	pr = 2	line = 8958
+recv_array[170].sysTime = 53143688	nID = 1	total_packets = 171	sender = 13	seq_no = 789	pr = 2	line = 9054
+recv_array[171].sysTime = 53527579	nID = 1	total_packets = 172	sender = 13	seq_no = 794	pr = 1	line = 9115
+recv_array[172].sysTime = 53543596	nID = 1	total_packets = 173	sender = 13	seq_no = 795	pr = 2	line = 9117
+recv_array[173].sysTime = 53575779	nID = 1	total_packets = 174	sender = 13	seq_no = 798	pr = 1	line = 9124
+recv_array[174].sysTime = 54023601	nID = 1	total_packets = 175	sender = 13	seq_no = 803	pr = 2	line = 9196
+recv_array[175].sysTime = 54903700	nID = 1	total_packets = 176	sender = 13	seq_no = 811	pr = 2	line = 9337
+recv_array[176].sysTime = 55815660	nID = 1	total_packets = 177	sender = 13	seq_no = 822	pr = 1	line = 9484
+recv_array[177].sysTime = 55879860	nID = 1	total_packets = 178	sender = 13	seq_no = 827	pr = 2	line = 9495
+recv_array[178].sysTime = 55895632	nID = 1	total_packets = 179	sender = 13	seq_no = 829	pr = 2	line = 9497
+recv_array[179].sysTime = 55911595	nID = 1	total_packets = 180	sender = 13	seq_no = 830	pr = 1	line = 9501
+recv_array[180].sysTime = 55927603	nID = 1	total_packets = 181	sender = 13	seq_no = 833	pr = 2	line = 9503
+recv_array[181].sysTime = 55975717	nID = 1	total_packets = 182	sender = 13	seq_no = 837	pr = 2	line = 9511
+recv_array[182].sysTime = 57447696	nID = 1	total_packets = 183	sender = 13	seq_no = 855	pr = 2	line = 9745
+recv_array[183].sysTime = 57927659	nID = 1	total_packets = 184	sender = 13	seq_no = 860	pr = 1	line = 9823
+recv_array[184].sysTime = 58087881	nID = 1	total_packets = 185	sender = 13	seq_no = 869	pr = 2	line = 9847
+recv_array[185].sysTime = 58343840	nID = 1	total_packets = 186	sender = 13	seq_no = 870	pr = 1	line = 9889
+recv_array[186].sysTime = 58359697	nID = 1	total_packets = 187	sender = 13	seq_no = 871	pr = 2	line = 9893
+recv_array[187].sysTime = 59527751	nID = 1	total_packets = 188	sender = 13	seq_no = 880	pr = 1	line = 10082
+recv_array[188].sysTime = 61240991	nID = 1	total_packets = 189	sender = 13	seq_no = 895	pr = 2	line = 10356
+recv_array[189].sysTime = 61879769	nID = 1	total_packets = 190	sender = 13	seq_no = 899	pr = 2	line = 10460
+recv_array[190].sysTime = 62279680	nID = 1	total_packets = 191	sender = 13	seq_no = 903	pr = 2	line = 10523
+recv_array[191].sysTime = 62295784	nID = 1	total_packets = 192	sender = 13	seq_no = 905	pr = 2	line = 10526
+recv_array[192].sysTime = 62311725	nID = 1	total_packets = 193	sender = 13	seq_no = 907	pr = 2	line = 10528
+recv_array[193].sysTime = 62375751	nID = 1	total_packets = 194	sender = 13	seq_no = 912	pr = 1	line = 10536
+recv_array[194].sysTime = 62391904	nID = 1	total_packets = 195	sender = 13	seq_no = 913	pr = 2	line = 10540
+recv_array[195].sysTime = 63271893	nID = 1	total_packets = 196	sender = 13	seq_no = 928	pr = 1	line = 10678
+recv_array[196].sysTime = 63911795	nID = 1	total_packets = 197	sender = 13	seq_no = 930	pr = 1	line = 10781
+recv_array[197].sysTime = 63943781	nID = 1	total_packets = 198	sender = 13	seq_no = 934	pr = 1	line = 10786
+recv_array[198].sysTime = 63976020	nID = 1	total_packets = 199	sender = 13	seq_no = 937	pr = 2	line = 10791
+recv_array[199].sysTime = 63991862	nID = 1	total_packets = 200	sender = 13	seq_no = 938	pr = 1	line = 10795
+recv_array[200].sysTime = 64087902	nID = 1	total_packets = 201	sender = 13	seq_no = 941	pr = 2	line = 10810
+recv_array[201].sysTime = 64103943	nID = 1	total_packets = 202	sender = 13	seq_no = 942	pr = 1	line = 10814
+recv_array[202].sysTime = 64119829	nID = 1	total_packets = 203	sender = 13	seq_no = 944	pr = 1	line = 10816
+recv_array[203].sysTime = 64903849	nID = 1	total_packets = 204	sender = 13	seq_no = 953	pr = 2	line = 10944
+recv_array[204].sysTime = 64919803	nID = 1	total_packets = 205	sender = 13	seq_no = 954	pr = 1	line = 10946
+recv_array[205].sysTime = 64951923	nID = 1	total_packets = 206	sender = 13	seq_no = 957	pr = 2	line = 10951
+recv_array[206].sysTime = 64967808	nID = 1	total_packets = 207	sender = 13	seq_no = 959	pr = 2	line = 10955
+recv_array[207].sysTime = 65592151	nID = 1	total_packets = 208	sender = 13	seq_no = 967	pr = 2	line = 11054
+recv_array[208].sysTime = 65608017	nID = 1	total_packets = 209	sender = 13	seq_no = 969	pr = 2	line = 11058
+recv_array[209].sysTime = 66375888	nID = 1	total_packets = 210	sender = 13	seq_no = 977	pr = 2	line = 11181
+recv_array[210].sysTime = 67671865	nID = 1	total_packets = 211	sender = 13	seq_no = 989	pr = 2	line = 11308
+recv_array[211].sysTime = 67720052	nID = 1	total_packets = 212	sender = 13	seq_no = 994	pr = 1	line = 11309
+dropped_array[0].sysTime = 293125	nID = 13	total = 24	hi = 0	lo = 1	seq = 23	pr = 2	line = 536
+dropped_array[1].sysTime = 325342	nID = 13	total = 26	hi = 1	lo = 1	seq = 26	pr = 1	line = 541
+dropped_array[2].sysTime = 353455	nID = 13	total = 28	hi = 1	lo = 2	seq = 29	pr = 2	line = 546
+dropped_array[3].sysTime = 372177	nID = 13	total = 29	hi = 1	lo = 3	seq = 31	pr = 2	line = 549
+dropped_array[4].sysTime = 402015	nID = 13	total = 31	hi = 2	lo = 3	seq = 34	pr = 1	line = 554
+dropped_array[5].sysTime = 420925	nID = 13	total = 32	hi = 3	lo = 3	seq = 36	pr = 1	line = 558
+dropped_array[6].sysTime = 450135	nID = 13	total = 34	hi = 3	lo = 4	seq = 39	pr = 2	line = 562
+dropped_array[7].sysTime = 470211	nID = 13	total = 35	hi = 3	lo = 5	seq = 41	pr = 2	line = 566
+dropped_array[8].sysTime = 499568	nID = 13	total = 37	hi = 4	lo = 5	seq = 44	pr = 1	line = 571
+dropped_array[9].sysTime = 518209	nID = 13	total = 38	hi = 5	lo = 5	seq = 46	pr = 1	line = 575
+dropped_array[10].sysTime = 546844	nID = 13	total = 40	hi = 5	lo = 6	seq = 49	pr = 2	line = 580
+dropped_array[11].sysTime = 566276	nID = 13	total = 41	hi = 5	lo = 7	seq = 51	pr = 2	line = 583
+dropped_array[12].sysTime = 596123	nID = 13	total = 43	hi = 6	lo = 7	seq = 54	pr = 1	line = 587
+dropped_array[13].sysTime = 627045	nID = 13	total = 45	hi = 6	lo = 8	seq = 57	pr = 2	line = 592
+dropped_array[14].sysTime = 657135	nID = 13	total = 47	hi = 7	lo = 8	seq = 60	pr = 1	line = 596
+dropped_array[15].sysTime = 678058	nID = 13	total = 48	hi = 8	lo = 8	seq = 62	pr = 1	line = 599
+dropped_array[16].sysTime = 707665	nID = 13	total = 50	hi = 8	lo = 9	seq = 65	pr = 2	line = 604
+dropped_array[17].sysTime = 818013	nID = 13	total = 52	hi = 9	lo = 9	seq = 68	pr = 1	line = 622
+dropped_array[18].sysTime = 2232119	nID = 13	total = 57	hi = 10	lo = 9	seq = 74	pr = 1	line = 851
+dropped_array[19].sysTime = 2241395	nID = 13	total = 57	hi = 10	lo = 10	seq = 75	pr = 2	line = 853
+dropped_array[20].sysTime = 2370518	nID = 13	total = 59	hi = 11	lo = 10	seq = 78	pr = 1	line = 873
+dropped_array[21].sysTime = 2400579	nID = 13	total = 61	hi = 11	lo = 11	seq = 81	pr = 2	line = 877
+dropped_array[22].sysTime = 3902938	nID = 13	total = 65	hi = 12	lo = 11	seq = 86	pr = 1	line = 1118
+dropped_array[23].sysTime = 4180451	nID = 13	total = 69	hi = 12	lo = 12	seq = 91	pr = 2	line = 1161
+dropped_array[24].sysTime = 4643820	nID = 13	total = 72	hi = 12	lo = 13	seq = 95	pr = 2	line = 1235
+dropped_array[25].sysTime = 5441137	nID = 13	total = 75	hi = 12	lo = 14	seq = 99	pr = 2	line = 1366
+dropped_array[26].sysTime = 5460942	nID = 13	total = 76	hi = 12	lo = 15	seq = 101	pr = 2	line = 1369
+dropped_array[27].sysTime = 5490349	nID = 13	total = 78	hi = 13	lo = 15	seq = 104	pr = 1	line = 1373
+dropped_array[28].sysTime = 5540267	nID = 13	total = 81	hi = 14	lo = 15	seq = 108	pr = 1	line = 1379
+dropped_array[29].sysTime = 6239923	nID = 13	total = 83	hi = 14	lo = 16	seq = 111	pr = 2	line = 1493
+dropped_array[30].sysTime = 6259032	nID = 13	total = 84	hi = 14	lo = 17	seq = 113	pr = 2	line = 1497
+dropped_array[31].sysTime = 6277722	nID = 13	total = 85	hi = 14	lo = 18	seq = 115	pr = 2	line = 1500
+dropped_array[32].sysTime = 6307023	nID = 13	total = 87	hi = 15	lo = 18	seq = 118	pr = 1	line = 1504
+dropped_array[33].sysTime = 6817161	nID = 13	total = 89	hi = 15	lo = 19	seq = 121	pr = 2	line = 1586
+dropped_array[34].sysTime = 6836032	nID = 13	total = 90	hi = 15	lo = 20	seq = 123	pr = 2	line = 1590
+dropped_array[35].sysTime = 6895772	nID = 13	total = 92	hi = 16	lo = 20	seq = 126	pr = 1	line = 1599
+dropped_array[36].sysTime = 6915148	nID = 13	total = 93	hi = 17	lo = 20	seq = 128	pr = 1	line = 1602
+dropped_array[37].sysTime = 7181588	nID = 13	total = 95	hi = 17	lo = 21	seq = 131	pr = 2	line = 1645
+dropped_array[38].sysTime = 7251057	nID = 13	total = 97	hi = 18	lo = 21	seq = 134	pr = 1	line = 1656
+dropped_array[39].sysTime = 7269643	nID = 13	total = 98	hi = 19	lo = 21	seq = 136	pr = 1	line = 1660
+dropped_array[40].sysTime = 8693000	nID = 13	total = 106	hi = 19	lo = 22	seq = 145	pr = 2	line = 1888
+dropped_array[41].sysTime = 9089286	nID = 13	total = 109	hi = 19	lo = 23	seq = 149	pr = 2	line = 1952
+dropped_array[42].sysTime = 9109614	nID = 13	total = 110	hi = 19	lo = 24	seq = 151	pr = 2	line = 1955
+dropped_array[43].sysTime = 9983939	nID = 13	total = 113	hi = 19	lo = 25	seq = 155	pr = 2	line = 2097
+dropped_array[44].sysTime = 10005321	nID = 13	total = 114	hi = 19	lo = 26	seq = 157	pr = 2	line = 2101
+dropped_array[45].sysTime = 10034982	nID = 13	total = 116	hi = 20	lo = 26	seq = 160	pr = 1	line = 2107
+dropped_array[46].sysTime = 10064099	nID = 13	total = 118	hi = 20	lo = 27	seq = 163	pr = 2	line = 2113
+dropped_array[47].sysTime = 10085211	nID = 13	total = 119	hi = 20	lo = 28	seq = 165	pr = 2	line = 2116
+dropped_array[48].sysTime = 10115390	nID = 13	total = 121	hi = 21	lo = 28	seq = 168	pr = 1	line = 2121
+dropped_array[49].sysTime = 10372838	nID = 13	total = 122	hi = 22	lo = 28	seq = 170	pr = 1	line = 2163
+dropped_array[50].sysTime = 10402365	nID = 13	total = 124	hi = 22	lo = 29	seq = 173	pr = 2	line = 2167
+dropped_array[51].sysTime = 10432422	nID = 13	total = 126	hi = 23	lo = 29	seq = 176	pr = 1	line = 2171
+dropped_array[52].sysTime = 10452428	nID = 13	total = 127	hi = 24	lo = 29	seq = 178	pr = 1	line = 2174
+dropped_array[53].sysTime = 10483468	nID = 13	total = 129	hi = 24	lo = 30	seq = 181	pr = 2	line = 2180
+dropped_array[54].sysTime = 10512558	nID = 13	total = 131	hi = 25	lo = 30	seq = 184	pr = 1	line = 2184
+dropped_array[55].sysTime = 10533387	nID = 13	total = 132	hi = 26	lo = 30	seq = 186	pr = 1	line = 2188
+dropped_array[56].sysTime = 10562876	nID = 13	total = 134	hi = 26	lo = 31	seq = 189	pr = 2	line = 2193
+dropped_array[57].sysTime = 10593962	nID = 13	total = 136	hi = 27	lo = 31	seq = 192	pr = 1	line = 2197
+dropped_array[58].sysTime = 11845256	nID = 13	total = 141	hi = 28	lo = 31	seq = 198	pr = 1	line = 2398
+dropped_array[59].sysTime = 11884618	nID = 13	total = 141	hi = 28	lo = 32	seq = 199	pr = 2	line = 2406
+dropped_array[60].sysTime = 12203181	nID = 13	total = 141	hi = 29	lo = 32	seq = 200	pr = 1	line = 2459
+dropped_array[61].sysTime = 12293992	nID = 13	total = 141	hi = 29	lo = 33	seq = 201	pr = 2	line = 2474
+dropped_array[62].sysTime = 12323833	nID = 13	total = 143	hi = 30	lo = 33	seq = 204	pr = 1	line = 2479
+dropped_array[63].sysTime = 12677899	nID = 13	total = 145	hi = 30	lo = 34	seq = 207	pr = 2	line = 2536
+dropped_array[64].sysTime = 12706875	nID = 13	total = 147	hi = 31	lo = 34	seq = 210	pr = 1	line = 2541
+dropped_array[65].sysTime = 12739130	nID = 13	total = 149	hi = 31	lo = 35	seq = 213	pr = 2	line = 2546
+dropped_array[66].sysTime = 12769399	nID = 13	total = 151	hi = 32	lo = 35	seq = 216	pr = 1	line = 2551
+dropped_array[67].sysTime = 12819570	nID = 13	total = 154	hi = 33	lo = 35	seq = 220	pr = 1	line = 2558
+dropped_array[68].sysTime = 12851269	nID = 13	total = 156	hi = 33	lo = 36	seq = 223	pr = 2	line = 2562
+dropped_array[69].sysTime = 13142155	nID = 13	total = 156	hi = 34	lo = 36	seq = 224	pr = 1	line = 2610
+dropped_array[70].sysTime = 13350132	nID = 13	total = 159	hi = 35	lo = 36	seq = 228	pr = 1	line = 2643
+dropped_array[71].sysTime = 13638361	nID = 13	total = 161	hi = 35	lo = 37	seq = 231	pr = 2	line = 2690
+dropped_array[72].sysTime = 13890517	nID = 13	total = 165	hi = 36	lo = 37	seq = 236	pr = 1	line = 2729
+dropped_array[73].sysTime = 14625464	nID = 13	total = 167	hi = 36	lo = 38	seq = 239	pr = 2	line = 2849
+dropped_array[74].sysTime = 14644751	nID = 13	total = 168	hi = 36	lo = 39	seq = 241	pr = 2	line = 2852
+dropped_array[75].sysTime = 14725200	nID = 13	total = 171	hi = 36	lo = 40	seq = 245	pr = 2	line = 2863
+dropped_array[76].sysTime = 15093385	nID = 13	total = 173	hi = 37	lo = 40	seq = 248	pr = 1	line = 2922
+dropped_array[77].sysTime = 15153290	nID = 13	total = 177	hi = 37	lo = 41	seq = 253	pr = 2	line = 2930
+dropped_array[78].sysTime = 15910205	nID = 13	total = 179	hi = 38	lo = 41	seq = 256	pr = 1	line = 3052
+dropped_array[79].sysTime = 16017747	nID = 13	total = 182	hi = 39	lo = 41	seq = 260	pr = 1	line = 3068
+dropped_array[80].sysTime = 16404549	nID = 13	total = 185	hi = 40	lo = 41	seq = 264	pr = 1	line = 3131
+dropped_array[81].sysTime = 16465151	nID = 13	total = 187	hi = 40	lo = 42	seq = 267	pr = 2	line = 3142
+dropped_array[82].sysTime = 16484665	nID = 13	total = 188	hi = 40	lo = 43	seq = 269	pr = 2	line = 3145
+dropped_array[83].sysTime = 16834826	nID = 13	total = 189	hi = 40	lo = 44	seq = 271	pr = 2	line = 3203
+dropped_array[84].sysTime = 16854512	nID = 13	total = 190	hi = 40	lo = 45	seq = 273	pr = 2	line = 3207
+dropped_array[85].sysTime = 16885021	nID = 13	total = 192	hi = 41	lo = 45	seq = 276	pr = 1	line = 3212
+dropped_array[86].sysTime = 16917488	nID = 13	total = 194	hi = 41	lo = 46	seq = 279	pr = 2	line = 3218
+dropped_array[87].sysTime = 16946532	nID = 13	total = 196	hi = 42	lo = 46	seq = 282	pr = 1	line = 3223
+dropped_array[88].sysTime = 16965338	nID = 13	total = 197	hi = 43	lo = 46	seq = 284	pr = 1	line = 3227
+dropped_array[89].sysTime = 17328092	nID = 13	total = 199	hi = 43	lo = 47	seq = 287	pr = 2	line = 3285
+dropped_array[90].sysTime = 17348326	nID = 13	total = 200	hi = 43	lo = 48	seq = 289	pr = 2	line = 3288
+dropped_array[91].sysTime = 17426672	nID = 13	total = 204	hi = 44	lo = 48	seq = 294	pr = 1	line = 3299
+dropped_array[92].sysTime = 17747777	nID = 13	total = 204	hi = 44	lo = 49	seq = 295	pr = 2	line = 3352
+dropped_array[93].sysTime = 18066676	nID = 13	total = 207	hi = 44	lo = 50	seq = 299	pr = 2	line = 3402
+dropped_array[94].sysTime = 18449631	nID = 13	total = 208	hi = 44	lo = 51	seq = 301	pr = 2	line = 3465
+dropped_array[95].sysTime = 18468725	nID = 13	total = 209	hi = 44	lo = 52	seq = 303	pr = 2	line = 3469
+dropped_array[96].sysTime = 18497316	nID = 13	total = 211	hi = 45	lo = 52	seq = 306	pr = 1	line = 3474
+dropped_array[97].sysTime = 18518623	nID = 13	total = 212	hi = 46	lo = 52	seq = 308	pr = 1	line = 3478
+dropped_array[98].sysTime = 18989266	nID = 13	total = 214	hi = 46	lo = 53	seq = 311	pr = 2	line = 3554
+dropped_array[99].sysTime = 19744037	nID = 13	total = 216	hi = 47	lo = 53	seq = 314	pr = 1	line = 3676
+dropped_array[100].sysTime = 19763615	nID = 13	total = 217	hi = 48	lo = 53	seq = 316	pr = 1	line = 3680
+dropped_array[101].sysTime = 19794227	nID = 13	total = 219	hi = 48	lo = 54	seq = 319	pr = 2	line = 3685
+dropped_array[102].sysTime = 19813312	nID = 13	total = 220	hi = 48	lo = 55	seq = 321	pr = 2	line = 3688
+dropped_array[103].sysTime = 19843583	nID = 13	total = 222	hi = 49	lo = 55	seq = 324	pr = 1	line = 3692
+dropped_array[104].sysTime = 19862770	nID = 13	total = 223	hi = 50	lo = 55	seq = 326	pr = 1	line = 3696
+dropped_array[105].sysTime = 20200881	nID = 13	total = 225	hi = 50	lo = 56	seq = 329	pr = 2	line = 3750
+dropped_array[106].sysTime = 20601948	nID = 13	total = 225	hi = 51	lo = 56	seq = 330	pr = 1	line = 3816
+dropped_array[107].sysTime = 20611713	nID = 13	total = 225	hi = 51	lo = 57	seq = 331	pr = 2	line = 3818
+dropped_array[108].sysTime = 20640697	nID = 13	total = 227	hi = 52	lo = 57	seq = 334	pr = 1	line = 3823
+dropped_array[109].sysTime = 20659815	nID = 13	total = 228	hi = 53	lo = 57	seq = 336	pr = 1	line = 3826
+dropped_array[110].sysTime = 20820728	nID = 13	total = 229	hi = 54	lo = 57	seq = 338	pr = 1	line = 3852
+dropped_array[111].sysTime = 21413743	nID = 13	total = 233	hi = 54	lo = 58	seq = 343	pr = 2	line = 3946
+dropped_array[112].sysTime = 21828000	nID = 13	total = 238	hi = 54	lo = 59	seq = 349	pr = 2	line = 4010
+dropped_array[113].sysTime = 21857330	nID = 13	total = 240	hi = 55	lo = 59	seq = 352	pr = 1	line = 4014
+dropped_array[114].sysTime = 21877194	nID = 13	total = 241	hi = 56	lo = 59	seq = 354	pr = 1	line = 4017
+dropped_array[115].sysTime = 22289684	nID = 13	total = 242	hi = 57	lo = 59	seq = 356	pr = 1	line = 4085
+dropped_array[116].sysTime = 22383558	nID = 13	total = 243	hi = 58	lo = 59	seq = 358	pr = 1	line = 4100
+dropped_array[117].sysTime = 22672836	nID = 13	total = 243	hi = 58	lo = 60	seq = 359	pr = 2	line = 4148
+dropped_array[118].sysTime = 22693230	nID = 13	total = 244	hi = 58	lo = 61	seq = 361	pr = 2	line = 4152
+dropped_array[119].sysTime = 23043117	nID = 13	total = 246	hi = 59	lo = 61	seq = 364	pr = 1	line = 4208
+dropped_array[120].sysTime = 23420507	nID = 13	total = 247	hi = 60	lo = 61	seq = 366	pr = 1	line = 4270
+dropped_array[121].sysTime = 23429522	nID = 13	total = 247	hi = 60	lo = 62	seq = 367	pr = 2	line = 4272
+dropped_array[122].sysTime = 23459724	nID = 13	total = 249	hi = 61	lo = 62	seq = 370	pr = 1	line = 4276
+dropped_array[123].sysTime = 23858951	nID = 13	total = 253	hi = 61	lo = 63	seq = 375	pr = 2	line = 4339
+dropped_array[124].sysTime = 23878901	nID = 13	total = 254	hi = 61	lo = 64	seq = 377	pr = 2	line = 4343
+dropped_array[125].sysTime = 23908427	nID = 13	total = 256	hi = 62	lo = 64	seq = 380	pr = 1	line = 4347
+dropped_array[126].sysTime = 24336205	nID = 13	total = 258	hi = 62	lo = 65	seq = 383	pr = 2	line = 4416
+dropped_array[127].sysTime = 24355646	nID = 13	total = 259	hi = 62	lo = 66	seq = 385	pr = 2	line = 4419
+dropped_array[128].sysTime = 24386612	nID = 13	total = 261	hi = 63	lo = 66	seq = 388	pr = 1	line = 4424
+dropped_array[129].sysTime = 24417341	nID = 13	total = 263	hi = 63	lo = 67	seq = 391	pr = 2	line = 4428
+dropped_array[130].sysTime = 24438421	nID = 13	total = 264	hi = 63	lo = 68	seq = 393	pr = 2	line = 4432
+dropped_array[131].sysTime = 24885242	nID = 13	total = 265	hi = 63	lo = 69	seq = 395	pr = 2	line = 4505
+dropped_array[132].sysTime = 24914789	nID = 13	total = 267	hi = 64	lo = 69	seq = 398	pr = 1	line = 4509
+dropped_array[133].sysTime = 24945892	nID = 13	total = 269	hi = 64	lo = 70	seq = 401	pr = 2	line = 4513
+dropped_array[134].sysTime = 25574926	nID = 13	total = 271	hi = 65	lo = 70	seq = 404	pr = 1	line = 4615
+dropped_array[135].sysTime = 25935872	nID = 13	total = 273	hi = 65	lo = 71	seq = 407	pr = 2	line = 4674
+dropped_array[136].sysTime = 25957165	nID = 13	total = 274	hi = 65	lo = 72	seq = 409	pr = 2	line = 4678
+dropped_array[137].sysTime = 25987471	nID = 13	total = 276	hi = 66	lo = 72	seq = 412	pr = 1	line = 4684
+dropped_array[138].sysTime = 26019214	nID = 13	total = 278	hi = 66	lo = 73	seq = 415	pr = 2	line = 4688
+dropped_array[139].sysTime = 26038416	nID = 13	total = 279	hi = 66	lo = 74	seq = 417	pr = 2	line = 4691
+dropped_array[140].sysTime = 26068200	nID = 13	total = 281	hi = 67	lo = 74	seq = 420	pr = 1	line = 4696
+dropped_array[141].sysTime = 26098374	nID = 13	total = 283	hi = 67	lo = 75	seq = 423	pr = 2	line = 4701
+dropped_array[142].sysTime = 26118710	nID = 13	total = 284	hi = 67	lo = 76	seq = 425	pr = 2	line = 4704
+dropped_array[143].sysTime = 26531098	nID = 13	total = 286	hi = 68	lo = 76	seq = 428	pr = 1	line = 4770
+dropped_array[144].sysTime = 26550913	nID = 13	total = 287	hi = 69	lo = 76	seq = 430	pr = 1	line = 4773
+dropped_array[145].sysTime = 26579545	nID = 13	total = 289	hi = 69	lo = 77	seq = 433	pr = 2	line = 4777
+dropped_array[146].sysTime = 26978656	nID = 13	total = 292	hi = 69	lo = 78	seq = 437	pr = 2	line = 4842
+dropped_array[147].sysTime = 26998913	nID = 13	total = 293	hi = 69	lo = 79	seq = 439	pr = 2	line = 4846
+dropped_array[148].sysTime = 27411376	nID = 13	total = 297	hi = 70	lo = 79	seq = 444	pr = 1	line = 4912
+dropped_array[149].sysTime = 27440989	nID = 13	total = 299	hi = 70	lo = 80	seq = 447	pr = 2	line = 4917
+dropped_array[150].sysTime = 27462162	nID = 13	total = 300	hi = 70	lo = 81	seq = 449	pr = 2	line = 4920
+dropped_array[151].sysTime = 27493956	nID = 13	total = 302	hi = 71	lo = 81	seq = 452	pr = 1	line = 4925
+dropped_array[152].sysTime = 27523841	nID = 13	total = 304	hi = 71	lo = 82	seq = 455	pr = 2	line = 4930
+dropped_array[153].sysTime = 27554394	nID = 13	total = 306	hi = 72	lo = 82	seq = 458	pr = 1	line = 4934
+dropped_array[154].sysTime = 27921805	nID = 13	total = 308	hi = 72	lo = 83	seq = 461	pr = 2	line = 4994
+dropped_array[155].sysTime = 27941749	nID = 13	total = 309	hi = 72	lo = 84	seq = 463	pr = 2	line = 4998
+dropped_array[156].sysTime = 27972575	nID = 13	total = 311	hi = 73	lo = 84	seq = 466	pr = 1	line = 5004
+dropped_array[157].sysTime = 28003921	nID = 13	total = 313	hi = 73	lo = 85	seq = 469	pr = 2	line = 5009
+dropped_array[158].sysTime = 28581901	nID = 13	total = 315	hi = 74	lo = 85	seq = 472	pr = 1	line = 5102
+dropped_array[159].sysTime = 28784975	nID = 13	total = 317	hi = 74	lo = 86	seq = 475	pr = 2	line = 5135
+dropped_array[160].sysTime = 28976518	nID = 13	total = 317	hi = 75	lo = 86	seq = 476	pr = 1	line = 5167
+dropped_array[161].sysTime = 29136567	nID = 13	total = 317	hi = 75	lo = 87	seq = 477	pr = 2	line = 5194
+dropped_array[162].sysTime = 29204023	nID = 13	total = 320	hi = 75	lo = 88	seq = 481	pr = 2	line = 5204
+dropped_array[163].sysTime = 29666800	nID = 13	total = 322	hi = 76	lo = 88	seq = 484	pr = 1	line = 5278
+dropped_array[164].sysTime = 29765730	nID = 13	total = 322	hi = 76	lo = 89	seq = 485	pr = 2	line = 5295
+dropped_array[165].sysTime = 30612570	nID = 13	total = 330	hi = 77	lo = 89	seq = 494	pr = 1	line = 5427
+dropped_array[166].sysTime = 30641640	nID = 13	total = 332	hi = 77	lo = 90	seq = 497	pr = 2	line = 5432
+dropped_array[167].sysTime = 30660894	nID = 13	total = 333	hi = 77	lo = 91	seq = 499	pr = 2	line = 5435
+dropped_array[168].sysTime = 30691432	nID = 13	total = 335	hi = 78	lo = 91	seq = 502	pr = 1	line = 5440
+dropped_array[169].sysTime = 31106703	nID = 13	total = 338	hi = 79	lo = 91	seq = 506	pr = 1	line = 5506
+dropped_array[170].sysTime = 31125785	nID = 13	total = 339	hi = 80	lo = 91	seq = 508	pr = 1	line = 5509
+dropped_array[171].sysTime = 31202398	nID = 13	total = 342	hi = 81	lo = 91	seq = 512	pr = 1	line = 5522
+dropped_array[172].sysTime = 31233795	nID = 13	total = 344	hi = 81	lo = 92	seq = 515	pr = 2	line = 5527
+dropped_array[173].sysTime = 31253390	nID = 13	total = 345	hi = 81	lo = 93	seq = 517	pr = 2	line = 5530
+dropped_array[174].sysTime = 31586482	nID = 13	total = 348	hi = 81	lo = 94	seq = 521	pr = 2	line = 5584
+dropped_array[175].sysTime = 31605032	nID = 13	total = 349	hi = 81	lo = 95	seq = 523	pr = 2	line = 5588
+dropped_array[176].sysTime = 31636294	nID = 13	total = 351	hi = 82	lo = 95	seq = 526	pr = 1	line = 5593
+dropped_array[177].sysTime = 31667038	nID = 13	total = 353	hi = 82	lo = 96	seq = 529	pr = 2	line = 5598
+dropped_array[178].sysTime = 31685233	nID = 13	total = 354	hi = 82	lo = 97	seq = 531	pr = 2	line = 5601
+dropped_array[179].sysTime = 31755800	nID = 13	total = 356	hi = 83	lo = 97	seq = 534	pr = 1	line = 5613
+dropped_array[180].sysTime = 31765232	nID = 13	total = 356	hi = 83	lo = 98	seq = 535	pr = 2	line = 5615
+dropped_array[181].sysTime = 31795799	nID = 13	total = 358	hi = 84	lo = 98	seq = 538	pr = 1	line = 5619
+dropped_array[182].sysTime = 32290760	nID = 13	total = 360	hi = 84	lo = 99	seq = 541	pr = 2	line = 5699
+dropped_array[183].sysTime = 32310175	nID = 13	total = 361	hi = 84	lo = 100	seq = 543	pr = 2	line = 5702
+dropped_array[184].sysTime = 32742603	nID = 13	total = 367	hi = 85	lo = 100	seq = 550	pr = 1	line = 5768
+dropped_array[185].sysTime = 32891754	nID = 13	total = 367	hi = 85	lo = 101	seq = 551	pr = 2	line = 5794
+dropped_array[186].sysTime = 33090922	nID = 13	total = 368	hi = 85	lo = 102	seq = 553	pr = 2	line = 5827
+dropped_array[187].sysTime = 33110928	nID = 13	total = 369	hi = 85	lo = 103	seq = 555	pr = 2	line = 5830
+dropped_array[188].sysTime = 33680845	nID = 13	total = 374	hi = 85	lo = 104	seq = 561	pr = 2	line = 5920
+dropped_array[189].sysTime = 33699565	nID = 13	total = 375	hi = 85	lo = 105	seq = 563	pr = 2	line = 5924
+dropped_array[190].sysTime = 34241698	nID = 13	total = 378	hi = 85	lo = 106	seq = 567	pr = 2	line = 6012
+dropped_array[191].sysTime = 34770329	nID = 13	total = 381	hi = 85	lo = 107	seq = 571	pr = 2	line = 6097
+dropped_array[192].sysTime = 35604762	nID = 13	total = 385	hi = 86	lo = 107	seq = 576	pr = 1	line = 6231
+dropped_array[193].sysTime = 37202172	nID = 13	total = 387	hi = 86	lo = 108	seq = 579	pr = 2	line = 6491
+dropped_array[194].sysTime = 37506075	nID = 13	total = 389	hi = 87	lo = 108	seq = 582	pr = 1	line = 6540
+dropped_array[195].sysTime = 37605388	nID = 13	total = 391	hi = 87	lo = 109	seq = 585	pr = 2	line = 6555
+dropped_array[196].sysTime = 37826817	nID = 13	total = 393	hi = 88	lo = 109	seq = 588	pr = 1	line = 6590
+dropped_array[197].sysTime = 37858293	nID = 13	total = 395	hi = 88	lo = 110	seq = 591	pr = 2	line = 6596
+dropped_array[198].sysTime = 38085577	nID = 13	total = 398	hi = 88	lo = 111	seq = 595	pr = 2	line = 6632
+dropped_array[199].sysTime = 38641425	nID = 13	total = 399	hi = 88	lo = 112	seq = 597	pr = 2	line = 6722
+dropped_array[200].sysTime = 38661817	nID = 13	total = 400	hi = 88	lo = 113	seq = 599	pr = 2	line = 6725
+dropped_array[201].sysTime = 38975802	nID = 13	total = 401	hi = 88	lo = 114	seq = 601	pr = 2	line = 6776
+dropped_array[202].sysTime = 38995155	nID = 13	total = 402	hi = 88	lo = 115	seq = 603	pr = 2	line = 6779
+dropped_array[203].sysTime = 39046010	nID = 13	total = 403	hi = 88	lo = 116	seq = 605	pr = 2	line = 6787
+dropped_array[204].sysTime = 39761187	nID = 13	total = 407	hi = 89	lo = 116	seq = 610	pr = 1	line = 6900
+dropped_array[205].sysTime = 40132290	nID = 13	total = 411	hi = 89	lo = 117	seq = 615	pr = 2	line = 6958
+dropped_array[206].sysTime = 40161808	nID = 13	total = 413	hi = 90	lo = 117	seq = 618	pr = 1	line = 6964
+dropped_array[207].sysTime = 40181261	nID = 13	total = 414	hi = 91	lo = 117	seq = 620	pr = 1	line = 6967
+dropped_array[208].sysTime = 40212374	nID = 13	total = 416	hi = 91	lo = 118	seq = 623	pr = 2	line = 6971
+dropped_array[209].sysTime = 41328084	nID = 13	total = 421	hi = 91	lo = 119	seq = 629	pr = 2	line = 7150
+dropped_array[210].sysTime = 41348007	nID = 13	total = 422	hi = 91	lo = 120	seq = 631	pr = 2	line = 7154
+dropped_array[211].sysTime = 41379571	nID = 13	total = 424	hi = 92	lo = 120	seq = 634	pr = 1	line = 7159
+dropped_array[212].sysTime = 41724510	nID = 13	total = 425	hi = 93	lo = 120	seq = 636	pr = 1	line = 7215
+dropped_array[213].sysTime = 41734109	nID = 13	total = 425	hi = 93	lo = 121	seq = 637	pr = 2	line = 7217
+dropped_array[214].sysTime = 42110745	nID = 13	total = 427	hi = 94	lo = 121	seq = 640	pr = 1	line = 7279
+dropped_array[215].sysTime = 42131543	nID = 13	total = 428	hi = 95	lo = 121	seq = 642	pr = 1	line = 7283
+dropped_array[216].sysTime = 42161973	nID = 13	total = 430	hi = 95	lo = 122	seq = 645	pr = 2	line = 7288
+dropped_array[217].sysTime = 42181701	nID = 13	total = 431	hi = 95	lo = 123	seq = 647	pr = 2	line = 7291
+dropped_array[218].sysTime = 42930724	nID = 13	total = 432	hi = 95	lo = 124	seq = 649	pr = 2	line = 7413
+dropped_array[219].sysTime = 42951032	nID = 13	total = 433	hi = 95	lo = 125	seq = 651	pr = 2	line = 7416
+dropped_array[220].sysTime = 42981321	nID = 13	total = 435	hi = 96	lo = 125	seq = 654	pr = 1	line = 7422
+dropped_array[221].sysTime = 43012273	nID = 13	total = 437	hi = 96	lo = 126	seq = 657	pr = 2	line = 7426
+dropped_array[222].sysTime = 43491615	nID = 13	total = 438	hi = 96	lo = 127	seq = 659	pr = 2	line = 7504
+dropped_array[223].sysTime = 44580840	nID = 13	total = 442	hi = 97	lo = 127	seq = 664	pr = 1	line = 7679
+dropped_array[224].sysTime = 45284204	nID = 13	total = 444	hi = 97	lo = 128	seq = 667	pr = 2	line = 7793
+dropped_array[225].sysTime = 45393238	nID = 13	total = 450	hi = 98	lo = 128	seq = 674	pr = 1	line = 7807
+dropped_array[226].sysTime = 45413814	nID = 13	total = 451	hi = 99	lo = 128	seq = 676	pr = 1	line = 7810
+dropped_array[227].sysTime = 45828758	nID = 13	total = 453	hi = 99	lo = 129	seq = 679	pr = 2	line = 7878
+dropped_array[228].sysTime = 46243223	nID = 13	total = 458	hi = 99	lo = 130	seq = 685	pr = 2	line = 7943
+dropped_array[229].sysTime = 46273962	nID = 13	total = 460	hi = 100	lo = 130	seq = 688	pr = 1	line = 7948
+dropped_array[230].sysTime = 46293711	nID = 13	total = 461	hi = 101	lo = 130	seq = 690	pr = 1	line = 7952
+dropped_array[231].sysTime = 47220559	nID = 13	total = 467	hi = 101	lo = 131	seq = 697	pr = 2	line = 8099
+dropped_array[232].sysTime = 47526230	nID = 13	total = 469	hi = 102	lo = 131	seq = 700	pr = 1	line = 8148
+dropped_array[233].sysTime = 47575143	nID = 13	total = 471	hi = 102	lo = 132	seq = 703	pr = 2	line = 8156
+dropped_array[234].sysTime = 47910250	nID = 13	total = 475	hi = 103	lo = 132	seq = 708	pr = 1	line = 8209
+dropped_array[235].sysTime = 47939975	nID = 13	total = 477	hi = 103	lo = 133	seq = 711	pr = 2	line = 8214
+dropped_array[236].sysTime = 47958864	nID = 13	total = 478	hi = 103	lo = 134	seq = 713	pr = 2	line = 8217
+dropped_array[237].sysTime = 48067638	nID = 13	total = 480	hi = 104	lo = 134	seq = 716	pr = 1	line = 8235
+dropped_array[238].sysTime = 48467654	nID = 13	total = 482	hi = 104	lo = 135	seq = 719	pr = 2	line = 8299
+dropped_array[239].sysTime = 48545901	nID = 13	total = 484	hi = 105	lo = 135	seq = 722	pr = 1	line = 8311
+dropped_array[240].sysTime = 48926827	nID = 13	total = 486	hi = 105	lo = 136	seq = 725	pr = 2	line = 8373
+dropped_array[241].sysTime = 48946421	nID = 13	total = 487	hi = 105	lo = 137	seq = 727	pr = 2	line = 8376
+dropped_array[242].sysTime = 48965216	nID = 13	total = 488	hi = 105	lo = 138	seq = 729	pr = 2	line = 8379
+dropped_array[243].sysTime = 48995068	nID = 13	total = 490	hi = 106	lo = 138	seq = 732	pr = 1	line = 8383
+dropped_array[244].sysTime = 49712703	nID = 13	total = 492	hi = 106	lo = 139	seq = 735	pr = 2	line = 8499
+dropped_array[245].sysTime = 49732000	nID = 13	total = 493	hi = 106	lo = 140	seq = 737	pr = 2	line = 8503
+dropped_array[246].sysTime = 49761569	nID = 13	total = 495	hi = 107	lo = 140	seq = 740	pr = 1	line = 8507
+dropped_array[247].sysTime = 50163310	nID = 13	total = 497	hi = 107	lo = 141	seq = 743	pr = 2	line = 8571
+dropped_array[248].sysTime = 50519167	nID = 13	total = 497	hi = 108	lo = 141	seq = 744	pr = 1	line = 8630
+dropped_array[249].sysTime = 50548415	nID = 13	total = 499	hi = 108	lo = 142	seq = 747	pr = 2	line = 8635
+dropped_array[250].sysTime = 50579786	nID = 13	total = 501	hi = 109	lo = 142	seq = 750	pr = 1	line = 8640
+dropped_array[251].sysTime = 50609397	nID = 13	total = 503	hi = 109	lo = 143	seq = 753	pr = 2	line = 8644
+dropped_array[252].sysTime = 50997047	nID = 13	total = 506	hi = 109	lo = 144	seq = 757	pr = 2	line = 8706
+dropped_array[253].sysTime = 51026982	nID = 13	total = 508	hi = 110	lo = 144	seq = 760	pr = 1	line = 8712
+dropped_array[254].sysTime = 51057731	nID = 13	total = 510	hi = 110	lo = 145	seq = 763	pr = 2	line = 8717
+dropped_array[255].sysTime = 51078046	nID = 13	total = 511	hi = 110	lo = 146	seq = 765	pr = 2	line = 8721
+dropped_array[256].sysTime = 51150020	nID = 13	total = 512	hi = 110	lo = 147	seq = 767	pr = 2	line = 8733
+dropped_array[257].sysTime = 51170806	nID = 13	total = 513	hi = 110	lo = 148	seq = 769	pr = 2	line = 8736
+dropped_array[258].sysTime = 51190868	nID = 13	total = 514	hi = 110	lo = 149	seq = 771	pr = 2	line = 8739
+dropped_array[259].sysTime = 51589406	nID = 13	total = 518	hi = 111	lo = 149	seq = 776	pr = 1	line = 8802
+dropped_array[260].sysTime = 52084588	nID = 13	total = 520	hi = 111	lo = 150	seq = 779	pr = 2	line = 8883
+dropped_array[261].sysTime = 52114352	nID = 13	total = 522	hi = 112	lo = 150	seq = 782	pr = 1	line = 8888
+dropped_array[262].sysTime = 52133877	nID = 13	total = 523	hi = 113	lo = 150	seq = 784	pr = 1	line = 8891
+dropped_array[263].sysTime = 52532914	nID = 13	total = 526	hi = 114	lo = 150	seq = 788	pr = 1	line = 8956
+dropped_array[264].sysTime = 53009336	nID = 13	total = 528	hi = 114	lo = 151	seq = 791	pr = 2	line = 9033
+dropped_array[265].sysTime = 53030491	nID = 13	total = 529	hi = 114	lo = 152	seq = 793	pr = 2	line = 9036
+dropped_array[266].sysTime = 53061321	nID = 13	total = 531	hi = 115	lo = 152	seq = 796	pr = 1	line = 9040
+dropped_array[267].sysTime = 53090514	nID = 13	total = 533	hi = 115	lo = 153	seq = 799	pr = 2	line = 9044
+dropped_array[268].sysTime = 53142869	nID = 13	total = 534	hi = 115	lo = 154	seq = 801	pr = 2	line = 9052
+dropped_array[269].sysTime = 53173767	nID = 13	total = 536	hi = 116	lo = 154	seq = 804	pr = 1	line = 9057
+dropped_array[270].sysTime = 53552716	nID = 13	total = 539	hi = 117	lo = 154	seq = 808	pr = 1	line = 9119
+dropped_array[271].sysTime = 53573027	nID = 13	total = 540	hi = 118	lo = 154	seq = 810	pr = 1	line = 9122
+dropped_array[272].sysTime = 53602414	nID = 13	total = 542	hi = 118	lo = 155	seq = 813	pr = 2	line = 9127
+dropped_array[273].sysTime = 54020964	nID = 13	total = 543	hi = 118	lo = 156	seq = 815	pr = 2	line = 9194
+dropped_array[274].sysTime = 54050912	nID = 13	total = 545	hi = 119	lo = 156	seq = 818	pr = 1	line = 9199
+dropped_array[275].sysTime = 54070088	nID = 13	total = 546	hi = 120	lo = 156	seq = 820	pr = 1	line = 9202
+dropped_array[276].sysTime = 54420011	nID = 13	total = 546	hi = 120	lo = 157	seq = 821	pr = 2	line = 9260
+dropped_array[277].sysTime = 54933853	nID = 13	total = 550	hi = 121	lo = 157	seq = 826	pr = 1	line = 9341
+dropped_array[278].sysTime = 55413938	nID = 13	total = 551	hi = 122	lo = 157	seq = 828	pr = 1	line = 9419
+dropped_array[279].sysTime = 55788514	nID = 13	total = 553	hi = 122	lo = 158	seq = 831	pr = 2	line = 9479
+dropped_array[280].sysTime = 55799066	nID = 13	total = 553	hi = 123	lo = 158	seq = 832	pr = 1	line = 9481
+dropped_array[281].sysTime = 55829293	nID = 13	total = 555	hi = 123	lo = 159	seq = 835	pr = 2	line = 9486
+dropped_array[282].sysTime = 55857893	nID = 13	total = 557	hi = 124	lo = 159	seq = 838	pr = 1	line = 9490
+dropped_array[283].sysTime = 55878405	nID = 13	total = 558	hi = 125	lo = 159	seq = 840	pr = 1	line = 9493
+dropped_array[284].sysTime = 55908170	nID = 13	total = 560	hi = 125	lo = 160	seq = 843	pr = 2	line = 9499
+dropped_array[285].sysTime = 55938902	nID = 13	total = 562	hi = 126	lo = 160	seq = 846	pr = 1	line = 9505
+dropped_array[286].sysTime = 55957543	nID = 13	total = 563	hi = 127	lo = 160	seq = 848	pr = 1	line = 9508
+dropped_array[287].sysTime = 55987835	nID = 13	total = 565	hi = 127	lo = 161	seq = 851	pr = 2	line = 9513
+dropped_array[288].sysTime = 56037664	nID = 13	total = 566	hi = 127	lo = 162	seq = 853	pr = 2	line = 9521
+dropped_array[289].sysTime = 56066681	nID = 13	total = 568	hi = 128	lo = 162	seq = 856	pr = 1	line = 9525
+dropped_array[290].sysTime = 57156413	nID = 13	total = 573	hi = 129	lo = 162	seq = 862	pr = 1	line = 9699
+dropped_array[291].sysTime = 57460664	nID = 13	total = 576	hi = 130	lo = 162	seq = 866	pr = 1	line = 9747
+dropped_array[292].sysTime = 57799231	nID = 13	total = 577	hi = 131	lo = 162	seq = 868	pr = 1	line = 9802
+dropped_array[293].sysTime = 58007254	nID = 13	total = 581	hi = 131	lo = 163	seq = 873	pr = 2	line = 9834
+dropped_array[294].sysTime = 58037220	nID = 13	total = 583	hi = 132	lo = 163	seq = 876	pr = 1	line = 9838
+dropped_array[295].sysTime = 58086937	nID = 13	total = 585	hi = 132	lo = 164	seq = 879	pr = 2	line = 9845
+dropped_array[296].sysTime = 58337047	nID = 13	total = 586	hi = 132	lo = 165	seq = 881	pr = 2	line = 9887
+dropped_array[297].sysTime = 58356179	nID = 13	total = 587	hi = 132	lo = 166	seq = 883	pr = 2	line = 9891
+dropped_array[298].sysTime = 59092440	nID = 13	total = 589	hi = 133	lo = 166	seq = 886	pr = 1	line = 10010
+dropped_array[299].sysTime = 59111063	nID = 13	total = 590	hi = 134	lo = 166	seq = 888	pr = 1	line = 10013
+dropped_array[300].sysTime = 59141502	nID = 13	total = 591	hi = 135	lo = 166	seq = 890	pr = 1	line = 10018
+dropped_array[301].sysTime = 59173007	nID = 13	total = 593	hi = 135	lo = 167	seq = 893	pr = 2	line = 10022
+dropped_array[302].sysTime = 59520799	nID = 13	total = 593	hi = 136	lo = 167	seq = 894	pr = 1	line = 10080
+dropped_array[303].sysTime = 59540709	nID = 13	total = 594	hi = 137	lo = 167	seq = 896	pr = 1	line = 10084
+dropped_array[304].sysTime = 60404521	nID = 13	total = 598	hi = 137	lo = 168	seq = 901	pr = 2	line = 10221
+dropped_array[305].sysTime = 60839064	nID = 13	total = 600	hi = 138	lo = 168	seq = 904	pr = 1	line = 10290
+dropped_array[306].sysTime = 61233294	nID = 13	total = 601	hi = 139	lo = 168	seq = 906	pr = 1	line = 10354
+dropped_array[307].sysTime = 61252634	nID = 13	total = 602	hi = 140	lo = 168	seq = 908	pr = 1	line = 10358
+dropped_array[308].sysTime = 62355256	nID = 13	total = 612	hi = 140	lo = 169	seq = 919	pr = 2	line = 10533
+dropped_array[309].sysTime = 62387036	nID = 13	total = 614	hi = 141	lo = 169	seq = 922	pr = 1	line = 10538
+dropped_array[310].sysTime = 62407002	nID = 13	total = 615	hi = 142	lo = 169	seq = 924	pr = 1	line = 10542
+dropped_array[311].sysTime = 62437037	nID = 13	total = 617	hi = 142	lo = 170	seq = 927	pr = 2	line = 10546
+dropped_array[312].sysTime = 62849727	nID = 13	total = 620	hi = 142	lo = 171	seq = 931	pr = 2	line = 10611
+dropped_array[313].sysTime = 62870592	nID = 13	total = 621	hi = 142	lo = 172	seq = 933	pr = 2	line = 10614
+dropped_array[314].sysTime = 62919062	nID = 13	total = 623	hi = 143	lo = 172	seq = 936	pr = 1	line = 10621
+dropped_array[315].sysTime = 63940779	nID = 13	total = 629	hi = 143	lo = 173	seq = 943	pr = 2	line = 10784
+dropped_array[316].sysTime = 63971673	nID = 13	total = 631	hi = 144	lo = 173	seq = 946	pr = 1	line = 10789
+dropped_array[317].sysTime = 63991231	nID = 13	total = 632	hi = 145	lo = 173	seq = 948	pr = 1	line = 10793
+dropped_array[318].sysTime = 64019715	nID = 13	total = 634	hi = 145	lo = 174	seq = 951	pr = 2	line = 10798
+dropped_array[319].sysTime = 64068950	nID = 13	total = 634	hi = 146	lo = 174	seq = 952	pr = 1	line = 10807
+dropped_array[320].sysTime = 64100230	nID = 13	total = 636	hi = 146	lo = 175	seq = 955	pr = 2	line = 10812
+dropped_array[321].sysTime = 64130947	nID = 13	total = 638	hi = 147	lo = 175	seq = 958	pr = 1	line = 10818
+dropped_array[322].sysTime = 64614157	nID = 13	total = 640	hi = 147	lo = 176	seq = 961	pr = 2	line = 10895
+dropped_array[323].sysTime = 64892351	nID = 13	total = 642	hi = 148	lo = 176	seq = 964	pr = 1	line = 10940
+dropped_array[324].sysTime = 64901933	nID = 13	total = 642	hi = 148	lo = 177	seq = 965	pr = 2	line = 10942
+dropped_array[325].sysTime = 64933396	nID = 13	total = 644	hi = 149	lo = 177	seq = 968	pr = 1	line = 10948
+dropped_array[326].sysTime = 64962403	nID = 13	total = 646	hi = 149	lo = 178	seq = 971	pr = 2	line = 10953
+dropped_array[327].sysTime = 64981450	nID = 13	total = 647	hi = 149	lo = 179	seq = 973	pr = 2	line = 10957
+dropped_array[328].sysTime = 65010104	nID = 13	total = 649	hi = 150	lo = 179	seq = 976	pr = 1	line = 10961
+dropped_array[329].sysTime = 65603506	nID = 13	total = 652	hi = 151	lo = 179	seq = 980	pr = 1	line = 11056
+dropped_array[330].sysTime = 65623421	nID = 13	total = 653	hi = 152	lo = 179	seq = 982	pr = 1	line = 11060
+dropped_array[331].sysTime = 65653507	nID = 13	total = 655	hi = 152	lo = 180	seq = 985	pr = 2	line = 11064
+dropped_array[332].sysTime = 66366582	nID = 13	total = 657	hi = 153	lo = 180	seq = 988	pr = 1	line = 11179
+dropped_array[333].sysTime = 66387758	nID = 13	total = 658	hi = 154	lo = 180	seq = 990	pr = 1	line = 11183
+dropped_array[334].sysTime = 66406534	nID = 13	total = 659	hi = 155	lo = 180	seq = 992	pr = 1	line = 11186
+dropped_array[335].sysTime = 66436298	nID = 13	total = 661	hi = 155	lo = 181	seq = 995	pr = 2	line = 11190
+dropped_array[336].sysTime = 66787430	nID = 13	total = 661	hi = 156	lo = 181	seq = 996	pr = 1	line = 11248
+dropped_array[337].sysTime = 66807545	nID = 13	total = 661	hi = 156	lo = 182	seq = 997	pr = 2	line = 11252

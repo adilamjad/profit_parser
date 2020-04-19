@@ -1,0 +1,2093 @@
+35:24:[INFO: Main      ] Starting Contiki-NG-release/v4.4-36-g1b65829-dirty
+35:24:[INFO: Main      ] - Routing: RPL Lite
+35:24:[INFO: Main      ] - Net: sicslowpan
+35:24:[INFO: Main      ] - MAC: CSMA
+35:24:[INFO: Main      ] - 802.15.4 PANID: 0xabcd
+35:24:[INFO: Main      ] - 802.15.4 Default channel: 26
+35:24:[INFO: Main      ] Node ID: 24
+35:24:[INFO: Main      ] Link-layer address: 0018.0018.0018.0018
+35:24:[INFO: Main      ] Tentative link-local IPv6 address: fe80::218:18:18:18
+35:24:PKT_GEN_INTERVAL is 10000.000000
+35:24:[INFO: App       ] Started PRoFIT queing process on Node: 24
+73:8:[INFO: Main      ] Starting Contiki-NG-release/v4.4-36-g1b65829-dirty
+73:8:[INFO: Main      ] - Routing: RPL Lite
+73:8:[INFO: Main      ] - Net: sicslowpan
+73:8:[INFO: Main      ] - MAC: CSMA
+73:8:[INFO: Main      ] - 802.15.4 PANID: 0xabcd
+73:8:[INFO: Main      ] - 802.15.4 Default channel: 26
+73:8:[INFO: Main      ] Node ID: 8
+73:8:[INFO: Main      ] Link-layer address: 0008.0008.0008.0008
+73:8:[INFO: Main      ] Tentative link-local IPv6 address: fe80::208:8:8:8
+73:8:PKT_GEN_INTERVAL is 10000.000000
+73:8:[INFO: App       ] Started PRoFIT queing process on Node: 8
+190:11:[INFO: Main      ] Starting Contiki-NG-release/v4.4-36-g1b65829-dirty
+190:11:[INFO: Main      ] - Routing: RPL Lite
+190:11:[INFO: Main      ] - Net: sicslowpan
+190:11:[INFO: Main      ] - MAC: CSMA
+190:11:[INFO: Main      ] - 802.15.4 PANID: 0xabcd
+190:11:[INFO: Main      ] - 802.15.4 Default channel: 26
+190:11:[INFO: Main      ] Node ID: 11
+190:11:[INFO: Main      ] Link-layer address: 000b.000b.000b.000b
+190:11:[INFO: Main      ] Tentative link-local IPv6 address: fe80::20b:b:b:b
+190:11:PKT_GEN_INTERVAL is 10000.000000
+190:11:[INFO: App       ] Started PRoFIT queing process on Node: 11
+236:2:[INFO: Main      ] Starting Contiki-NG-release/v4.4-36-g1b65829-dirty
+236:2:[INFO: Main      ] - Routing: RPL Lite
+236:2:[INFO: Main      ] - Net: sicslowpan
+236:2:[INFO: Main      ] - MAC: CSMA
+236:2:[INFO: Main      ] - 802.15.4 PANID: 0xabcd
+236:2:[INFO: Main      ] - 802.15.4 Default channel: 26
+236:2:[INFO: Main      ] Node ID: 2
+236:2:[INFO: Main      ] Link-layer address: 0002.0002.0002.0002
+236:2:[INFO: Main      ] Tentative link-local IPv6 address: fe80::202:2:2:2
+236:2:PKT_GEN_INTERVAL is 10000.000000
+236:2:[INFO: App       ] Started PRoFIT queing process on Node: 2
+250:6:[INFO: Main      ] Starting Contiki-NG-release/v4.4-36-g1b65829-dirty
+250:6:[INFO: Main      ] - Routing: RPL Lite
+250:6:[INFO: Main      ] - Net: sicslowpan
+250:6:[INFO: Main      ] - MAC: CSMA
+250:6:[INFO: Main      ] - 802.15.4 PANID: 0xabcd
+250:6:[INFO: Main      ] - 802.15.4 Default channel: 26
+250:6:[INFO: Main      ] Node ID: 6
+250:6:[INFO: Main      ] Link-layer address: 0006.0006.0006.0006
+250:6:[INFO: Main      ] Tentative link-local IPv6 address: fe80::206:6:6:6
+250:6:PKT_GEN_INTERVAL is 10000.000000
+250:6:[INFO: App       ] Started PRoFIT queing process on Node: 6
+326:18:[INFO: Main      ] Starting Contiki-NG-release/v4.4-36-g1b65829-dirty
+326:18:[INFO: Main      ] - Routing: RPL Lite
+326:18:[INFO: Main      ] - Net: sicslowpan
+326:18:[INFO: Main      ] - MAC: CSMA
+326:18:[INFO: Main      ] - 802.15.4 PANID: 0xabcd
+326:18:[INFO: Main      ] - 802.15.4 Default channel: 26
+326:18:[INFO: Main      ] Node ID: 18
+326:18:[INFO: Main      ] Link-layer address: 0012.0012.0012.0012
+326:18:[INFO: Main      ] Tentative link-local IPv6 address: fe80::212:12:12:12
+326:18:PKT_GEN_INTERVAL is 10000.000000
+326:18:[INFO: App       ] Started PRoFIT queing process on Node: 18
+348:4:[INFO: Main      ] Starting Contiki-NG-release/v4.4-36-g1b65829-dirty
+348:4:[INFO: Main      ] - Routing: RPL Lite
+348:4:[INFO: Main      ] - Net: sicslowpan
+348:4:[INFO: Main      ] - MAC: CSMA
+348:4:[INFO: Main      ] - 802.15.4 PANID: 0xabcd
+348:4:[INFO: Main      ] - 802.15.4 Default channel: 26
+348:4:[INFO: Main      ] Node ID: 4
+348:4:[INFO: Main      ] Link-layer address: 0004.0004.0004.0004
+348:4:[INFO: Main      ] Tentative link-local IPv6 address: fe80::204:4:4:4
+348:4:PKT_GEN_INTERVAL is 10000.000000
+348:4:[INFO: App       ] Started PRoFIT queing process on Node: 4
+382:1:[INFO: Main      ] Starting Contiki-NG-release/v4.4-36-g1b65829-dirty
+382:1:[INFO: Main      ] - Routing: RPL Lite
+382:1:[INFO: Main      ] - Net: sicslowpan
+382:1:[INFO: Main      ] - MAC: CSMA
+382:1:[INFO: Main      ] - 802.15.4 PANID: 0xabcd
+382:1:[INFO: Main      ] - 802.15.4 Default channel: 26
+382:1:[INFO: Main      ] Node ID: 1
+382:1:[INFO: Main      ] Link-layer address: 0001.0001.0001.0001
+382:1:[INFO: Main      ] Tentative link-local IPv6 address: fe80::201:1:1:1
+402:7:[INFO: Main      ] Starting Contiki-NG-release/v4.4-36-g1b65829-dirty
+402:7:[INFO: Main      ] - Routing: RPL Lite
+402:7:[INFO: Main      ] - Net: sicslowpan
+402:7:[INFO: Main      ] - MAC: CSMA
+402:7:[INFO: Main      ] - 802.15.4 PANID: 0xabcd
+402:7:[INFO: Main      ] - 802.15.4 Default channel: 26
+402:7:[INFO: Main      ] Node ID: 7
+402:7:[INFO: Main      ] Link-layer address: 0007.0007.0007.0007
+402:7:[INFO: Main      ] Tentative link-local IPv6 address: fe80::207:7:7:7
+402:7:PKT_GEN_INTERVAL is 10000.000000
+402:7:[INFO: App       ] Started PRoFIT queing process on Node: 7
+450:14:[INFO: Main      ] Starting Contiki-NG-release/v4.4-36-g1b65829-dirty
+450:14:[INFO: Main      ] - Routing: RPL Lite
+450:14:[INFO: Main      ] - Net: sicslowpan
+450:14:[INFO: Main      ] - MAC: CSMA
+450:14:[INFO: Main      ] - 802.15.4 PANID: 0xabcd
+450:14:[INFO: Main      ] - 802.15.4 Default channel: 26
+450:14:[INFO: Main      ] Node ID: 14
+450:14:[INFO: Main      ] Link-layer address: 000e.000e.000e.000e
+450:14:[INFO: Main      ] Tentative link-local IPv6 address: fe80::20e:e:e:e
+450:14:PKT_GEN_INTERVAL is 10000.000000
+450:14:[INFO: App       ] Started PRoFIT queing process on Node: 14
+462:15:[INFO: Main      ] Starting Contiki-NG-release/v4.4-36-g1b65829-dirty
+462:15:[INFO: Main      ] - Routing: RPL Lite
+462:15:[INFO: Main      ] - Net: sicslowpan
+462:15:[INFO: Main      ] - MAC: CSMA
+462:15:[INFO: Main      ] - 802.15.4 PANID: 0xabcd
+462:15:[INFO: Main      ] - 802.15.4 Default channel: 26
+462:15:[INFO: Main      ] Node ID: 15
+462:15:[INFO: Main      ] Link-layer address: 000f.000f.000f.000f
+462:15:[INFO: Main      ] Tentative link-local IPv6 address: fe80::20f:f:f:f
+462:15:PKT_GEN_INTERVAL is 10000.000000
+462:15:[INFO: App       ] Started PRoFIT queing process on Node: 15
+467:25:[INFO: Main      ] Starting Contiki-NG-release/v4.4-36-g1b65829-dirty
+467:25:[INFO: Main      ] - Routing: RPL Lite
+467:25:[INFO: Main      ] - Net: sicslowpan
+467:25:[INFO: Main      ] - MAC: CSMA
+467:25:[INFO: Main      ] - 802.15.4 PANID: 0xabcd
+467:25:[INFO: Main      ] - 802.15.4 Default channel: 26
+467:25:[INFO: Main      ] Node ID: 25
+467:25:[INFO: Main      ] Link-layer address: 0019.0019.0019.0019
+467:25:[INFO: Main      ] Tentative link-local IPv6 address: fe80::219:19:19:19
+467:25:PKT_GEN_INTERVAL is 10000.000000
+467:25:[INFO: App       ] Started PRoFIT queing process on Node: 25
+472:20:[INFO: Main      ] Starting Contiki-NG-release/v4.4-36-g1b65829-dirty
+472:20:[INFO: Main      ] - Routing: RPL Lite
+472:20:[INFO: Main      ] - Net: sicslowpan
+472:20:[INFO: Main      ] - MAC: CSMA
+472:20:[INFO: Main      ] - 802.15.4 PANID: 0xabcd
+472:20:[INFO: Main      ] - 802.15.4 Default channel: 26
+472:20:[INFO: Main      ] Node ID: 20
+472:20:[INFO: Main      ] Link-layer address: 0014.0014.0014.0014
+472:20:[INFO: Main      ] Tentative link-local IPv6 address: fe80::214:14:14:14
+472:20:PKT_GEN_INTERVAL is 10000.000000
+472:20:[INFO: App       ] Started PRoFIT queing process on Node: 20
+473:16:[INFO: Main      ] Starting Contiki-NG-release/v4.4-36-g1b65829-dirty
+473:16:[INFO: Main      ] - Routing: RPL Lite
+473:16:[INFO: Main      ] - Net: sicslowpan
+473:16:[INFO: Main      ] - MAC: CSMA
+473:16:[INFO: Main      ] - 802.15.4 PANID: 0xabcd
+473:16:[INFO: Main      ] - 802.15.4 Default channel: 26
+473:16:[INFO: Main      ] Node ID: 16
+473:16:[INFO: Main      ] Link-layer address: 0010.0010.0010.0010
+473:16:[INFO: Main      ] Tentative link-local IPv6 address: fe80::210:10:10:10
+473:16:PKT_GEN_INTERVAL is 10000.000000
+473:16:[INFO: App       ] Started PRoFIT queing process on Node: 16
+556:10:[INFO: Main      ] Starting Contiki-NG-release/v4.4-36-g1b65829-dirty
+556:10:[INFO: Main      ] - Routing: RPL Lite
+556:10:[INFO: Main      ] - Net: sicslowpan
+556:10:[INFO: Main      ] - MAC: CSMA
+556:10:[INFO: Main      ] - 802.15.4 PANID: 0xabcd
+556:10:[INFO: Main      ] - 802.15.4 Default channel: 26
+556:10:[INFO: Main      ] Node ID: 10
+556:10:[INFO: Main      ] Link-layer address: 000a.000a.000a.000a
+556:10:[INFO: Main      ] Tentative link-local IPv6 address: fe80::20a:a:a:a
+556:10:PKT_GEN_INTERVAL is 10000.000000
+556:10:[INFO: App       ] Started PRoFIT queing process on Node: 10
+594:12:[INFO: Main      ] Starting Contiki-NG-release/v4.4-36-g1b65829-dirty
+594:12:[INFO: Main      ] - Routing: RPL Lite
+594:12:[INFO: Main      ] - Net: sicslowpan
+594:12:[INFO: Main      ] - MAC: CSMA
+594:12:[INFO: Main      ] - 802.15.4 PANID: 0xabcd
+594:12:[INFO: Main      ] - 802.15.4 Default channel: 26
+594:12:[INFO: Main      ] Node ID: 12
+594:12:[INFO: Main      ] Link-layer address: 000c.000c.000c.000c
+594:12:[INFO: Main      ] Tentative link-local IPv6 address: fe80::20c:c:c:c
+594:12:PKT_GEN_INTERVAL is 10000.000000
+594:12:[INFO: App       ] Started PRoFIT queing process on Node: 12
+663:22:[INFO: Main      ] Starting Contiki-NG-release/v4.4-36-g1b65829-dirty
+663:22:[INFO: Main      ] - Routing: RPL Lite
+663:22:[INFO: Main      ] - Net: sicslowpan
+663:22:[INFO: Main      ] - MAC: CSMA
+663:22:[INFO: Main      ] - 802.15.4 PANID: 0xabcd
+663:22:[INFO: Main      ] - 802.15.4 Default channel: 26
+663:22:[INFO: Main      ] Node ID: 22
+663:22:[INFO: Main      ] Link-layer address: 0016.0016.0016.0016
+663:22:[INFO: Main      ] Tentative link-local IPv6 address: fe80::216:16:16:16
+663:22:PKT_GEN_INTERVAL is 10000.000000
+663:22:[INFO: App       ] Started PRoFIT queing process on Node: 22
+708:9:[INFO: Main      ] Starting Contiki-NG-release/v4.4-36-g1b65829-dirty
+708:9:[INFO: Main      ] - Routing: RPL Lite
+708:9:[INFO: Main      ] - Net: sicslowpan
+708:9:[INFO: Main      ] - MAC: CSMA
+708:9:[INFO: Main      ] - 802.15.4 PANID: 0xabcd
+708:9:[INFO: Main      ] - 802.15.4 Default channel: 26
+708:9:[INFO: Main      ] Node ID: 9
+708:9:[INFO: Main      ] Link-layer address: 0009.0009.0009.0009
+708:9:[INFO: Main      ] Tentative link-local IPv6 address: fe80::209:9:9:9
+708:9:PKT_GEN_INTERVAL is 10000.000000
+708:9:[INFO: App       ] Started PRoFIT queing process on Node: 9
+715:5:[INFO: Main      ] Starting Contiki-NG-release/v4.4-36-g1b65829-dirty
+715:5:[INFO: Main      ] - Routing: RPL Lite
+715:5:[INFO: Main      ] - Net: sicslowpan
+715:5:[INFO: Main      ] - MAC: CSMA
+715:5:[INFO: Main      ] - 802.15.4 PANID: 0xabcd
+715:5:[INFO: Main      ] - 802.15.4 Default channel: 26
+715:5:[INFO: Main      ] Node ID: 5
+715:5:[INFO: Main      ] Link-layer address: 0005.0005.0005.0005
+715:5:[INFO: Main      ] Tentative link-local IPv6 address: fe80::205:5:5:5
+715:5:PKT_GEN_INTERVAL is 10000.000000
+715:5:[INFO: App       ] Started PRoFIT queing process on Node: 5
+719:19:[INFO: Main      ] Starting Contiki-NG-release/v4.4-36-g1b65829-dirty
+719:19:[INFO: Main      ] - Routing: RPL Lite
+719:19:[INFO: Main      ] - Net: sicslowpan
+719:19:[INFO: Main      ] - MAC: CSMA
+719:19:[INFO: Main      ] - 802.15.4 PANID: 0xabcd
+719:19:[INFO: Main      ] - 802.15.4 Default channel: 26
+719:19:[INFO: Main      ] Node ID: 19
+719:19:[INFO: Main      ] Link-layer address: 0013.0013.0013.0013
+719:19:[INFO: Main      ] Tentative link-local IPv6 address: fe80::213:13:13:13
+719:19:PKT_GEN_INTERVAL is 10000.000000
+719:19:[INFO: App       ] Started PRoFIT queing process on Node: 19
+809:17:[INFO: Main      ] Starting Contiki-NG-release/v4.4-36-g1b65829-dirty
+809:17:[INFO: Main      ] - Routing: RPL Lite
+809:17:[INFO: Main      ] - Net: sicslowpan
+809:17:[INFO: Main      ] - MAC: CSMA
+809:17:[INFO: Main      ] - 802.15.4 PANID: 0xabcd
+809:17:[INFO: Main      ] - 802.15.4 Default channel: 26
+809:17:[INFO: Main      ] Node ID: 17
+809:17:[INFO: Main      ] Link-layer address: 0011.0011.0011.0011
+809:17:[INFO: Main      ] Tentative link-local IPv6 address: fe80::211:11:11:11
+809:17:PKT_GEN_INTERVAL is 10000.000000
+809:17:[INFO: App       ] Started PRoFIT queing process on Node: 17
+884:13:[INFO: Main      ] Starting Contiki-NG-release/v4.4-36-g1b65829-dirty
+884:13:[INFO: Main      ] - Routing: RPL Lite
+884:13:[INFO: Main      ] - Net: sicslowpan
+884:13:[INFO: Main      ] - MAC: CSMA
+884:13:[INFO: Main      ] - 802.15.4 PANID: 0xabcd
+884:13:[INFO: Main      ] - 802.15.4 Default channel: 26
+884:13:[INFO: Main      ] Node ID: 13
+884:13:[INFO: Main      ] Link-layer address: 000d.000d.000d.000d
+884:13:[INFO: Main      ] Tentative link-local IPv6 address: fe80::20d:d:d:d
+884:13:PKT_GEN_INTERVAL is 10000.000000
+884:13:[INFO: App       ] Source Node ID: 13
+884:13:[INFO: App       ] Started PRoFIT queing process on Node: 13
+899:3:[INFO: Main      ] Starting Contiki-NG-release/v4.4-36-g1b65829-dirty
+899:3:[INFO: Main      ] - Routing: RPL Lite
+899:3:[INFO: Main      ] - Net: sicslowpan
+899:3:[INFO: Main      ] - MAC: CSMA
+899:3:[INFO: Main      ] - 802.15.4 PANID: 0xabcd
+899:3:[INFO: Main      ] - 802.15.4 Default channel: 26
+899:3:[INFO: Main      ] Node ID: 3
+899:3:[INFO: Main      ] Link-layer address: 0003.0003.0003.0003
+899:3:[INFO: Main      ] Tentative link-local IPv6 address: fe80::203:3:3:3
+899:3:PKT_GEN_INTERVAL is 10000.000000
+899:3:[INFO: App       ] Started PRoFIT queing process on Node: 3
+906:21:[INFO: Main      ] Starting Contiki-NG-release/v4.4-36-g1b65829-dirty
+906:21:[INFO: Main      ] - Routing: RPL Lite
+906:21:[INFO: Main      ] - Net: sicslowpan
+906:21:[INFO: Main      ] - MAC: CSMA
+906:21:[INFO: Main      ] - 802.15.4 PANID: 0xabcd
+906:21:[INFO: Main      ] - 802.15.4 Default channel: 26
+906:21:[INFO: Main      ] Node ID: 21
+906:21:[INFO: Main      ] Link-layer address: 0015.0015.0015.0015
+906:21:[INFO: Main      ] Tentative link-local IPv6 address: fe80::215:15:15:15
+906:21:PKT_GEN_INTERVAL is 10000.000000
+906:21:[INFO: App       ] Started PRoFIT queing process on Node: 21
+945:23:[INFO: Main      ] Starting Contiki-NG-release/v4.4-36-g1b65829-dirty
+945:23:[INFO: Main      ] - Routing: RPL Lite
+945:23:[INFO: Main      ] - Net: sicslowpan
+945:23:[INFO: Main      ] - MAC: CSMA
+945:23:[INFO: Main      ] - 802.15.4 PANID: 0xabcd
+945:23:[INFO: Main      ] - 802.15.4 Default channel: 26
+945:23:[INFO: Main      ] Node ID: 23
+945:23:[INFO: Main      ] Link-layer address: 0017.0017.0017.0017
+945:23:[INFO: Main      ] Tentative link-local IPv6 address: fe80::217:17:17:17
+945:23:PKT_GEN_INTERVAL is 10000.000000
+945:23:[INFO: App       ] Started PRoFIT queing process on Node: 23
+2064:13:[INFO: App       ] Not reachable yet
+11418:13:[INFO: App       ] Not reachable yet
+20500:13:[INFO: App       ] Not reachable yet
+30312:13:[INFO: App       ] SENDER Seq:0:P:1:SINK:1:
+38548.08:1:[INFO: App       ] SINK Seq:0:PH:1:PL:0:LEN:108:D1:0:DL:99:SR:13:P:1:
+39482:13:[INFO: App       ] SENDER Seq:1:P:2:SINK:1:
+49110:13:[INFO: App       ] SENDER Seq:2:P:1:SINK:1:
+54581.08:1:[INFO: App       ] SINK Seq:2:PH:2:PL:0:LEN:108:D1:0:DL:99:SR:13:P:1:
+59468:13:[INFO: App       ] SENDER Seq:3:P:2:SINK:1:
+68574:13:[INFO: App       ] SENDER Seq:4:P:1:SINK:1:
+70569.08:1:[INFO: App       ] SINK Seq:4:PH:3:PL:0:LEN:108:D1:0:DL:99:SR:13:P:1:
+79281:13:[INFO: App       ] SENDER Seq:5:P:2:SINK:1:
+86581.08:1:[INFO: App       ] SINK Seq:1:PH:3:PL:1:LEN:108:D1:0:DL:99:SR:13:P:2:
+89588:13:[INFO: App       ] SENDER Seq:6:P:1:SINK:1:
+100017:13:[INFO: App       ] SENDER Seq:7:P:2:SINK:1:
+102570.08:1:[INFO: App       ] SINK Seq:6:PH:4:PL:1:LEN:108:D1:0:DL:99:SR:13:P:1:
+110455:13:[INFO: App       ] SENDER Seq:8:P:1:SINK:1:
+118604.08:1:[INFO: App       ] SINK Seq:8:PH:5:PL:1:LEN:108:D1:0:DL:99:SR:13:P:1:
+119732:13:[INFO: App       ] SENDER Seq:9:P:2:SINK:1:
+129766:13:[INFO: App       ] SENDER Seq:10:P:1:SINK:1:
+134576.08:1:[INFO: App       ] SINK Seq:10:PH:6:PL:1:LEN:108:D1:0:DL:99:SR:13:P:1:
+140462:13:[INFO: App       ] SENDER Seq:11:P:2:SINK:1:
+150554.08:1:[INFO: App       ] SINK Seq:3:PH:6:PL:2:LEN:108:D1:0:DL:99:SR:13:P:2:
+151233:13:[INFO: App       ] SENDER Seq:12:P:1:SINK:1:
+161429:13:[INFO: App       ] SENDER Seq:13:P:2:SINK:1:
+166586.08:1:[INFO: App       ] SINK Seq:12:PH:7:PL:2:LEN:108:D1:0:DL:99:SR:13:P:1:
+171619:13:[INFO: App       ] SENDER Seq:14:P:1:SINK:1:
+181650:13:[INFO: App       ] SENDER Seq:15:P:2:SINK:1:
+182618.08:1:[INFO: App       ] SINK Seq:14:PH:8:PL:2:LEN:108:D1:0:DL:99:SR:13:P:1:
+192153:13:[INFO: App       ] SENDER Seq:16:P:1:SINK:1:
+198578.08:1:[INFO: App       ] SINK Seq:16:PH:9:PL:2:LEN:108:D1:0:DL:99:SR:13:P:1:
+202030:13:[INFO: App       ] SENDER Seq:17:P:2:SINK:1:
+211642:13:[INFO: App       ] SENDER Seq:18:P:1:SINK:1:
+214613.08:1:[INFO: App       ] SINK Seq:18:PH:10:PL:2:LEN:108:D1:0:DL:99:SR:13:P:1:
+221622:13:[INFO: App       ] SENDER Seq:19:P:2:SINK:1:
+230606.08:1:[INFO: App       ] SINK Seq:5:PH:10:PL:3:LEN:108:D1:0:DL:99:SR:13:P:2:
+230908:13:[INFO: App       ] SENDER Seq:20:P:1:SINK:1:
+240088:13:[INFO: App       ] DROPPED :T:22:H:0:L:1:S:21:P:2:
+240088:13:[INFO: App       ] SENDER Seq:21:P:2:SINK:1:
+246590.08:1:[INFO: App       ] SINK Seq:20:PH:11:PL:3:LEN:108:D1:0:DL:99:SR:13:P:1:
+249763:13:[INFO: App       ] SENDER Seq:22:P:1:SINK:1:
+259143:13:[INFO: App       ] DROPPED :T:23:H:0:L:2:S:23:P:2:
+259143:13:[INFO: App       ] SENDER Seq:23:P:2:SINK:1:
+262607.08:1:[INFO: App       ] SINK Seq:22:PH:12:PL:3:LEN:108:D1:0:DL:99:SR:13:P:1:
+269630:13:[INFO: App       ] SENDER Seq:24:P:1:SINK:1:
+278553.08:1:[INFO: App       ] SINK Seq:24:PH:13:PL:3:LEN:108:D1:0:DL:99:SR:13:P:1:
+278796:13:[INFO: App       ] SENDER Seq:25:P:2:SINK:1:
+288858:13:[INFO: App       ] SENDER Seq:26:P:1:SINK:1:
+294588.08:1:[INFO: App       ] SINK Seq:26:PH:14:PL:3:LEN:108:D1:0:DL:99:SR:13:P:1:
+299280:13:[INFO: App       ] SENDER Seq:27:P:2:SINK:1:
+309316:13:[INFO: App       ] SENDER Seq:28:P:1:SINK:1:
+310621.08:1:[INFO: App       ] SINK Seq:28:PH:15:PL:3:LEN:108:D1:0:DL:99:SR:13:P:1:
+319094:13:[INFO: App       ] SENDER Seq:29:P:2:SINK:1:
+326608.08:1:[INFO: App       ] SINK Seq:7:PH:15:PL:4:LEN:108:D1:0:DL:99:SR:13:P:2:
+329995:13:[INFO: App       ] SENDER Seq:30:P:1:SINK:1:
+340698:13:[INFO: App       ] DROPPED :T:30:H:0:L:3:S:31:P:2:
+340698:13:[INFO: App       ] SENDER Seq:31:P:2:SINK:1:
+342602.08:1:[INFO: App       ] SINK Seq:30:PH:16:PL:4:LEN:108:D1:0:DL:99:SR:13:P:1:
+349705:13:[INFO: App       ] SENDER Seq:32:P:1:SINK:1:
+358622.08:1:[INFO: App       ] SINK Seq:32:PH:17:PL:4:LEN:108:D1:0:DL:99:SR:13:P:1:
+360692:13:[INFO: App       ] SENDER Seq:33:P:2:SINK:1:
+370681:13:[INFO: App       ] SENDER Seq:34:P:1:SINK:1:
+374638.08:1:[INFO: App       ] SINK Seq:34:PH:18:PL:4:LEN:108:D1:0:DL:99:SR:13:P:1:
+380170:13:[INFO: App       ] SENDER Seq:35:P:2:SINK:1:
+390256:13:[INFO: App       ] SENDER Seq:36:P:1:SINK:1:
+390596.08:1:[INFO: App       ] SINK Seq:36:PH:19:PL:4:LEN:108:D1:0:DL:99:SR:13:P:1:
+400254:13:[INFO: App       ] SENDER Seq:37:P:2:SINK:1:
+406635.08:1:[INFO: App       ] SINK Seq:9:PH:19:PL:5:LEN:108:D1:0:DL:99:SR:13:P:2:
+410759:13:[INFO: App       ] SENDER Seq:38:P:1:SINK:1:
+419988:13:[INFO: App       ] DROPPED :T:37:H:0:L:4:S:39:P:2:
+419988:13:[INFO: App       ] SENDER Seq:39:P:2:SINK:1:
+422680.08:1:[INFO: App       ] SINK Seq:38:PH:20:PL:5:LEN:108:D1:0:DL:99:SR:13:P:1:
+429162:13:[INFO: App       ] SENDER Seq:40:P:1:SINK:1:
+438611.08:1:[INFO: App       ] SINK Seq:40:PH:21:PL:5:LEN:108:D1:0:DL:99:SR:13:P:1:
+438884:13:[INFO: App       ] SENDER Seq:41:P:2:SINK:1:
+449325:13:[INFO: App       ] SENDER Seq:42:P:1:SINK:1:
+454608.08:1:[INFO: App       ] SINK Seq:42:PH:22:PL:5:LEN:108:D1:0:DL:99:SR:13:P:1:
+458504:13:[INFO: App       ] SENDER Seq:43:P:2:SINK:1:
+468934:13:[INFO: App       ] SENDER Seq:44:P:1:SINK:1:
+470600.08:1:[INFO: App       ] SINK Seq:44:PH:23:PL:5:LEN:108:D1:0:DL:99:SR:13:P:1:
+478153:13:[INFO: App       ] SENDER Seq:45:P:2:SINK:1:
+486597.08:1:[INFO: App       ] SINK Seq:11:PH:23:PL:6:LEN:108:D1:0:DL:99:SR:13:P:2:
+488880:13:[INFO: App       ] SENDER Seq:46:P:1:SINK:1:
+498687:13:[INFO: App       ] DROPPED :T:44:H:0:L:5:S:47:P:2:
+498687:13:[INFO: App       ] SENDER Seq:47:P:2:SINK:1:
+502628.08:1:[INFO: App       ] SINK Seq:46:PH:24:PL:6:LEN:108:D1:0:DL:99:SR:13:P:1:
+508195:13:[INFO: App       ] SENDER Seq:48:P:1:SINK:1:
+517201:13:[INFO: App       ] DROPPED :T:45:H:0:L:6:S:49:P:2:
+517201:13:[INFO: App       ] SENDER Seq:49:P:2:SINK:1:
+518617.08:1:[INFO: App       ] SINK Seq:48:PH:25:PL:6:LEN:108:D1:0:DL:99:SR:13:P:1:
+527481:13:[INFO: App       ] SENDER Seq:50:P:1:SINK:1:
+534688.08:1:[INFO: App       ] SINK Seq:50:PH:26:PL:6:LEN:108:D1:0:DL:99:SR:13:P:1:
+537252:13:[INFO: App       ] SENDER Seq:51:P:2:SINK:1:
+546556:13:[INFO: App       ] SENDER Seq:52:P:1:SINK:1:
+550619.08:1:[INFO: App       ] SINK Seq:52:PH:27:PL:6:LEN:108:D1:0:DL:99:SR:13:P:1:
+556749:13:[INFO: App       ] SENDER Seq:53:P:2:SINK:1:
+566604.08:1:[INFO: App       ] SINK Seq:13:PH:27:PL:7:LEN:108:D1:0:DL:99:SR:13:P:2:
+567629:13:[INFO: App       ] SENDER Seq:54:P:1:SINK:1:
+577654:13:[INFO: App       ] DROPPED :T:50:H:0:L:7:S:55:P:2:
+577654:13:[INFO: App       ] SENDER Seq:55:P:2:SINK:1:
+582617.08:1:[INFO: App       ] SINK Seq:54:PH:28:PL:7:LEN:108:D1:0:DL:99:SR:13:P:1:
+587543:13:[INFO: App       ] SENDER Seq:56:P:1:SINK:1:
+597601:13:[INFO: App       ] DROPPED :T:51:H:0:L:8:S:57:P:2:
+597601:13:[INFO: App       ] SENDER Seq:57:P:2:SINK:1:
+598625.08:1:[INFO: App       ] SINK Seq:56:PH:29:PL:7:LEN:108:D1:0:DL:99:SR:13:P:1:
+608135:13:[INFO: App       ] SENDER Seq:58:P:1:SINK:1:
+614608.08:1:[INFO: App       ] SINK Seq:58:PH:30:PL:7:LEN:108:D1:0:DL:99:SR:13:P:1:
+618857:13:[INFO: App       ] SENDER Seq:59:P:2:SINK:1:
+628617:13:[INFO: App       ] SENDER Seq:60:P:1:SINK:1:
+630682.08:1:[INFO: App       ] SINK Seq:60:PH:31:PL:7:LEN:108:D1:0:DL:99:SR:13:P:1:
+638865:13:[INFO: App       ] SENDER Seq:61:P:2:SINK:1:
+646667.08:1:[INFO: App       ] SINK Seq:15:PH:31:PL:8:LEN:108:D1:0:DL:99:SR:13:P:2:
+649143:13:[INFO: App       ] SENDER Seq:62:P:1:SINK:1:
+658406:13:[INFO: App       ] DROPPED :T:56:H:0:L:9:S:63:P:2:
+658406:13:[INFO: App       ] SENDER Seq:63:P:2:SINK:1:
+662639.08:1:[INFO: App       ] SINK Seq:62:PH:32:PL:8:LEN:108:D1:0:DL:99:SR:13:P:1:
+668037:13:[INFO: App       ] SENDER Seq:64:P:1:SINK:1:
+677609:13:[INFO: App       ] DROPPED :T:57:H:0:L:10:S:65:P:2:
+677609:13:[INFO: App       ] SENDER Seq:65:P:2:SINK:1:
+678621.08:1:[INFO: App       ] SINK Seq:64:PH:33:PL:8:LEN:108:D1:0:DL:99:SR:13:P:1:
+688565:13:[INFO: App       ] SENDER Seq:66:P:1:SINK:1:
+694665.08:1:[INFO: App       ] SINK Seq:66:PH:34:PL:8:LEN:108:D1:0:DL:99:SR:13:P:1:
+699531:13:[INFO: App       ] SENDER Seq:67:P:2:SINK:1:
+708583:13:[INFO: App       ] SENDER Seq:68:P:1:SINK:1:
+710657.08:1:[INFO: App       ] SINK Seq:68:PH:35:PL:8:LEN:108:D1:0:DL:99:SR:13:P:1:
+719572:13:[INFO: App       ] SENDER Seq:69:P:2:SINK:1:
+726676.08:1:[INFO: App       ] SINK Seq:17:PH:35:PL:9:LEN:108:D1:0:DL:99:SR:13:P:2:
+729876:13:[INFO: App       ] SENDER Seq:70:P:1:SINK:1:
+739030:13:[INFO: App       ] DROPPED :T:62:H:0:L:11:S:71:P:2:
+739030:13:[INFO: App       ] SENDER Seq:71:P:2:SINK:1:
+742658.08:1:[INFO: App       ] SINK Seq:70:PH:36:PL:9:LEN:108:D1:0:DL:99:SR:13:P:1:
+749273:13:[INFO: App       ] SENDER Seq:72:P:1:SINK:1:
+758666.08:1:[INFO: App       ] SINK Seq:72:PH:37:PL:9:LEN:108:D1:0:DL:99:SR:13:P:1:
+760027:13:[INFO: App       ] SENDER Seq:73:P:2:SINK:1:
+769329:13:[INFO: App       ] SENDER Seq:74:P:1:SINK:1:
+774667.08:1:[INFO: App       ] SINK Seq:74:PH:38:PL:9:LEN:108:D1:0:DL:99:SR:13:P:1:
+779670:13:[INFO: App       ] SENDER Seq:75:P:2:SINK:1:
+790454:13:[INFO: App       ] SENDER Seq:76:P:1:SINK:1:
+790754.08:1:[INFO: App       ] SINK Seq:76:PH:39:PL:9:LEN:108:D1:0:DL:99:SR:13:P:1:
+800152:13:[INFO: App       ] SENDER Seq:77:P:2:SINK:1:
+806679.08:1:[INFO: App       ] SINK Seq:19:PH:39:PL:10:LEN:108:D1:0:DL:99:SR:13:P:2:
+810578:13:[INFO: App       ] SENDER Seq:78:P:1:SINK:1:
+820449:13:[INFO: App       ] DROPPED :T:69:H:0:L:12:S:79:P:2:
+820449:13:[INFO: App       ] SENDER Seq:79:P:2:SINK:1:
+822688.08:1:[INFO: App       ] SINK Seq:78:PH:40:PL:10:LEN:108:D1:0:DL:99:SR:13:P:1:
+831192:13:[INFO: App       ] SENDER Seq:80:P:1:SINK:1:
+838643.08:1:[INFO: App       ] SINK Seq:80:PH:41:PL:10:LEN:108:D1:0:DL:99:SR:13:P:1:
+841847:13:[INFO: App       ] SENDER Seq:81:P:2:SINK:1:
+851417:13:[INFO: App       ] SENDER Seq:82:P:1:SINK:1:
+854652.08:1:[INFO: App       ] SINK Seq:82:PH:42:PL:10:LEN:108:D1:0:DL:99:SR:13:P:1:
+860778:13:[INFO: App       ] SENDER Seq:83:P:2:SINK:1:
+870179:13:[INFO: App       ] SENDER Seq:84:P:1:SINK:1:
+870650.08:1:[INFO: App       ] SINK Seq:84:PH:43:PL:10:LEN:108:D1:0:DL:99:SR:13:P:1:
+879670:13:[INFO: App       ] SENDER Seq:85:P:2:SINK:1:
+886676.08:1:[INFO: App       ] SINK Seq:29:PH:43:PL:11:LEN:108:D1:0:DL:99:SR:13:P:2:
+888968:13:[INFO: App       ] SENDER Seq:86:P:1:SINK:1:
+898832:13:[INFO: App       ] DROPPED :T:76:H:0:L:13:S:87:P:2:
+898832:13:[INFO: App       ] SENDER Seq:87:P:2:SINK:1:
+902621.08:1:[INFO: App       ] SINK Seq:86:PH:44:PL:11:LEN:108:D1:0:DL:99:SR:13:P:1:
+908233:13:[INFO: App       ] SENDER Seq:88:P:1:SINK:1:
+918227:13:[INFO: App       ] DROPPED :T:77:H:0:L:14:S:89:P:2:
+918227:13:[INFO: App       ] SENDER Seq:89:P:2:SINK:1:
+918676.08:1:[INFO: App       ] SINK Seq:88:PH:45:PL:11:LEN:108:D1:0:DL:99:SR:13:P:1:
+928026:13:[INFO: App       ] SENDER Seq:90:P:1:SINK:1:
+934691.08:1:[INFO: App       ] SINK Seq:90:PH:46:PL:11:LEN:108:D1:0:DL:99:SR:13:P:1:
+937041:13:[INFO: App       ] SENDER Seq:91:P:2:SINK:1:
+946239:13:[INFO: App       ] SENDER Seq:92:P:1:SINK:1:
+950671.08:1:[INFO: App       ] SINK Seq:92:PH:47:PL:11:LEN:108:D1:0:DL:99:SR:13:P:1:
+955517:13:[INFO: App       ] SENDER Seq:93:P:2:SINK:1:
+965538:13:[INFO: App       ] SENDER Seq:94:P:1:SINK:1:
+966703.08:1:[INFO: App       ] SINK Seq:94:PH:48:PL:11:LEN:108:D1:0:DL:99:SR:13:P:1:
+975566:13:[INFO: App       ] SENDER Seq:95:P:2:SINK:1:
+982726.08:1:[INFO: App       ] SINK Seq:37:PH:48:PL:12:LEN:108:D1:0:DL:99:SR:13:P:2:
+985754:13:[INFO: App       ] SENDER Seq:96:P:1:SINK:1:
+995246:13:[INFO: App       ] DROPPED :T:84:H:0:L:15:S:97:P:2:
+995246:13:[INFO: App       ] SENDER Seq:97:P:2:SINK:1:
+998691.08:1:[INFO: App       ] SINK Seq:96:PH:49:PL:12:LEN:108:D1:0:DL:99:SR:13:P:1:
+1004338:13:[INFO: App       ] SENDER Seq:98:P:1:SINK:1:
+1013901:13:[INFO: App       ] DROPPED :T:85:H:0:L:16:S:99:P:2:
+1013901:13:[INFO: App       ] SENDER Seq:99:P:2:SINK:1:
+1014699.08:1:[INFO: App       ] SINK Seq:98:PH:50:PL:12:LEN:108:D1:0:DL:99:SR:13:P:1:
+1024650:13:[INFO: App       ] SENDER Seq:100:P:1:SINK:1:
+1030684.08:1:[INFO: App       ] SINK Seq:100:PH:51:PL:12:LEN:108:D1:0:DL:99:SR:13:P:1:
+1033893:13:[INFO: App       ] SENDER Seq:101:P:2:SINK:1:
+1044880:13:[INFO: App       ] SENDER Seq:102:P:1:SINK:1:
+1046689.08:1:[INFO: App       ] SINK Seq:102:PH:52:PL:12:LEN:108:D1:0:DL:99:SR:13:P:1:
+1055590:13:[INFO: App       ] SENDER Seq:103:P:2:SINK:1:
+1062726.08:1:[INFO: App       ] SINK Seq:45:PH:52:PL:13:LEN:108:D1:0:DL:99:SR:13:P:2:
+1066157:13:[INFO: App       ] SENDER Seq:104:P:1:SINK:1:
+1075370:13:[INFO: App       ] DROPPED :T:90:H:0:L:17:S:105:P:2:
+1075370:13:[INFO: App       ] SENDER Seq:105:P:2:SINK:1:
+1078738.08:1:[INFO: App       ] SINK Seq:104:PH:53:PL:13:LEN:108:D1:0:DL:99:SR:13:P:1:
+1085988:13:[INFO: App       ] SENDER Seq:106:P:1:SINK:1:
+1094662.08:1:[INFO: App       ] SINK Seq:106:PH:54:PL:13:LEN:108:D1:0:DL:99:SR:13:P:1:
+1096556:13:[INFO: App       ] SENDER Seq:107:P:2:SINK:1:
+1106882:13:[INFO: App       ] SENDER Seq:108:P:1:SINK:1:
+1110732.08:1:[INFO: App       ] SINK Seq:108:PH:55:PL:13:LEN:108:D1:0:DL:99:SR:13:P:1:
+1115980:13:[INFO: App       ] SENDER Seq:109:P:2:SINK:1:
+1125185:13:[INFO: App       ] SENDER Seq:110:P:1:SINK:1:
+1126770.08:1:[INFO: App       ] SINK Seq:110:PH:56:PL:13:LEN:108:D1:0:DL:99:SR:13:P:1:
+1134620:13:[INFO: App       ] SENDER Seq:111:P:2:SINK:1:
+1142696.08:1:[INFO: App       ] SINK Seq:53:PH:56:PL:14:LEN:108:D1:0:DL:99:SR:13:P:2:
+1145379:13:[INFO: App       ] SENDER Seq:112:P:1:SINK:1:
+1154676:13:[INFO: App       ] DROPPED :T:97:H:0:L:18:S:113:P:2:
+1154676:13:[INFO: App       ] SENDER Seq:113:P:2:SINK:1:
+1158701.144:1:[INFO: App       ] SINK Seq:112:PH:57:PL:14:LEN:108:D1:0:DL:99:SR:13:P:1:
+1164782:13:[INFO: App       ] SENDER Seq:114:P:1:SINK:1:
+1174694.08:1:[INFO: App       ] SINK Seq:114:PH:58:PL:14:LEN:108:D1:0:DL:99:SR:13:P:1:
+1175550:13:[INFO: App       ] SENDER Seq:115:P:2:SINK:1:
+1185155:13:[INFO: App       ] SENDER Seq:116:P:1:SINK:1:
+1190722.08:1:[INFO: App       ] SINK Seq:116:PH:59:PL:14:LEN:108:D1:0:DL:99:SR:13:P:1:
+1195487:13:[INFO: App       ] SENDER Seq:117:P:2:SINK:1:
+1206450:13:[INFO: App       ] SENDER Seq:118:P:1:SINK:1:
+1206712.08:1:[INFO: App       ] SINK Seq:118:PH:60:PL:14:LEN:108:D1:0:DL:99:SR:13:P:1:
+1216765:13:[INFO: App       ] SENDER Seq:119:P:2:SINK:1:
+1222725.08:1:[INFO: App       ] SINK Seq:61:PH:60:PL:15:LEN:108:D1:0:DL:99:SR:13:P:2:
+1226617:13:[INFO: App       ] SENDER Seq:120:P:1:SINK:1:
+1237056:13:[INFO: App       ] DROPPED :T:104:H:0:L:19:S:121:P:2:
+1237056:13:[INFO: App       ] SENDER Seq:121:P:2:SINK:1:
+1238717.08:1:[INFO: App       ] SINK Seq:120:PH:61:PL:15:LEN:108:D1:0:DL:99:SR:13:P:1:
+1248032:13:[INFO: App       ] SENDER Seq:122:P:1:SINK:1:
+1254710.08:1:[INFO: App       ] SINK Seq:122:PH:62:PL:15:LEN:108:D1:0:DL:99:SR:13:P:1:
+1258893:13:[INFO: App       ] SENDER Seq:123:P:2:SINK:1:
+1268164:13:[INFO: App       ] SENDER Seq:124:P:1:SINK:1:
+1270743.08:1:[INFO: App       ] SINK Seq:124:PH:63:PL:15:LEN:108:D1:0:DL:99:SR:13:P:1:
+1277200:13:[INFO: App       ] SENDER Seq:125:P:2:SINK:1:
+1286533:13:[INFO: App       ] SENDER Seq:126:P:1:SINK:1:
+1286666.144:1:[INFO: App       ] SINK Seq:126:PH:64:PL:15:LEN:108:D1:0:DL:99:SR:13:P:1:
+1296850:13:[INFO: App       ] SENDER Seq:127:P:2:SINK:1:
+1302726.08:1:[INFO: App       ] SINK Seq:69:PH:64:PL:16:LEN:108:D1:0:DL:99:SR:13:P:2:
+1306854:13:[INFO: App       ] SENDER Seq:128:P:1:SINK:1:
+1316095:13:[INFO: App       ] DROPPED :T:111:H:0:L:20:S:129:P:2:
+1316095:13:[INFO: App       ] SENDER Seq:129:P:2:SINK:1:
+1318724.08:1:[INFO: App       ] SINK Seq:128:PH:65:PL:16:LEN:108:D1:0:DL:99:SR:13:P:1:
+1327064:13:[INFO: App       ] SENDER Seq:130:P:1:SINK:1:
+1334741.08:1:[INFO: App       ] SINK Seq:130:PH:66:PL:16:LEN:108:D1:0:DL:99:SR:13:P:1:
+1337473:13:[INFO: App       ] SENDER Seq:131:P:2:SINK:1:
+1346511:13:[INFO: App       ] SENDER Seq:132:P:1:SINK:1:
+1350759.08:1:[INFO: App       ] SINK Seq:132:PH:67:PL:16:LEN:108:D1:0:DL:99:SR:13:P:1:
+1356410:13:[INFO: App       ] SENDER Seq:133:P:2:SINK:1:
+1366682:13:[INFO: App       ] SENDER Seq:134:P:1:SINK:1:
+1366737.08:1:[INFO: App       ] SINK Seq:77:PH:67:PL:17:LEN:108:D1:0:DL:99:SR:13:P:2:
+1377171:13:[INFO: App       ] DROPPED :T:116:H:0:L:21:S:135:P:2:
+1377171:13:[INFO: App       ] SENDER Seq:135:P:2:SINK:1:
+1382728.08:1:[INFO: App       ] SINK Seq:134:PH:68:PL:17:LEN:108:D1:0:DL:99:SR:13:P:1:
+1387882:13:[INFO: App       ] SENDER Seq:136:P:1:SINK:1:
+1397271:13:[INFO: App       ] DROPPED :T:117:H:0:L:22:S:137:P:2:
+1397271:13:[INFO: App       ] SENDER Seq:137:P:2:SINK:1:
+1398725.08:1:[INFO: App       ] SINK Seq:136:PH:69:PL:17:LEN:108:D1:0:DL:99:SR:13:P:1:
+1407261:13:[INFO: App       ] SENDER Seq:138:P:1:SINK:1:
+1414730.08:1:[INFO: App       ] SINK Seq:138:PH:70:PL:17:LEN:108:D1:0:DL:99:SR:13:P:1:
+1417984:13:[INFO: App       ] SENDER Seq:139:P:2:SINK:1:
+1428704:13:[INFO: App       ] SENDER Seq:140:P:1:SINK:1:
+1430750.144:1:[INFO: App       ] SINK Seq:140:PH:71:PL:17:LEN:108:D1:0:DL:99:SR:13:P:1:
+1438487:13:[INFO: App       ] SENDER Seq:141:P:2:SINK:1:
+1446792.08:1:[INFO: App       ] SINK Seq:85:PH:71:PL:18:LEN:108:D1:0:DL:99:SR:13:P:2:
+1447919:13:[INFO: App       ] SENDER Seq:142:P:1:SINK:1:
+1457047:13:[INFO: App       ] DROPPED :T:122:H:0:L:23:S:143:P:2:
+1457047:13:[INFO: App       ] SENDER Seq:143:P:2:SINK:1:
+1462751.08:1:[INFO: App       ] SINK Seq:142:PH:72:PL:18:LEN:108:D1:0:DL:99:SR:13:P:1:
+1467620:13:[INFO: App       ] SENDER Seq:144:P:1:SINK:1:
+1477365:13:[INFO: App       ] DROPPED :T:123:H:0:L:24:S:145:P:2:
+1477365:13:[INFO: App       ] SENDER Seq:145:P:2:SINK:1:
+1478760.08:1:[INFO: App       ] SINK Seq:144:PH:73:PL:18:LEN:108:D1:0:DL:99:SR:13:P:1:
+1487232:13:[INFO: App       ] SENDER Seq:146:P:1:SINK:1:
+1494798.08:1:[INFO: App       ] SINK Seq:146:PH:74:PL:18:LEN:108:D1:0:DL:99:SR:13:P:1:
+1497134:13:[INFO: App       ] SENDER Seq:147:P:2:SINK:1:
+1507163:13:[INFO: App       ] SENDER Seq:148:P:1:SINK:1:
+1510729.08:1:[INFO: App       ] SINK Seq:148:PH:75:PL:18:LEN:108:D1:0:DL:99:SR:13:P:1:
+1517302:13:[INFO: App       ] SENDER Seq:149:P:2:SINK:1:
+1526770.08:1:[INFO: App       ] SINK Seq:95:PH:75:PL:19:LEN:108:D1:0:DL:99:SR:13:P:2:
+1527761:13:[INFO: App       ] SENDER Seq:150:P:1:SINK:1:
+1538573:13:[INFO: App       ] DROPPED :T:128:H:0:L:25:S:151:P:2:
+1538573:13:[INFO: App       ] SENDER Seq:151:P:2:SINK:1:
+1542766.144:1:[INFO: App       ] SINK Seq:150:PH:76:PL:19:LEN:108:D1:0:DL:99:SR:13:P:1:
+1548258:13:[INFO: App       ] SENDER Seq:152:P:1:SINK:1:
+1557607:13:[INFO: App       ] DROPPED :T:129:H:0:L:26:S:153:P:2:
+1557607:13:[INFO: App       ] SENDER Seq:153:P:2:SINK:1:
+1558765.144:1:[INFO: App       ] SINK Seq:152:PH:77:PL:19:LEN:108:D1:0:DL:99:SR:13:P:1:
+1567108:13:[INFO: App       ] SENDER Seq:154:P:1:SINK:1:
+1574759.08:1:[INFO: App       ] SINK Seq:154:PH:78:PL:19:LEN:108:D1:0:DL:99:SR:13:P:1:
+1576927:13:[INFO: App       ] SENDER Seq:155:P:2:SINK:1:
+1586375:13:[INFO: App       ] SENDER Seq:156:P:1:SINK:1:
+1590769.08:1:[INFO: App       ] SINK Seq:156:PH:79:PL:19:LEN:108:D1:0:DL:99:SR:13:P:1:
+1596968:13:[INFO: App       ] SENDER Seq:157:P:2:SINK:1:
+1606367:13:[INFO: App       ] SENDER Seq:158:P:1:SINK:1:
+1606765.08:1:[INFO: App       ] SINK Seq:158:PH:80:PL:19:LEN:108:D1:0:DL:99:SR:13:P:1:
+1615890:13:[INFO: App       ] SENDER Seq:159:P:2:SINK:1:
+1622795.08:1:[INFO: App       ] SINK Seq:103:PH:80:PL:20:LEN:108:D1:0:DL:99:SR:13:P:2:
+1625201:13:[INFO: App       ] SENDER Seq:160:P:1:SINK:1:
+1635834:13:[INFO: App       ] DROPPED :T:136:H:0:L:27:S:161:P:2:
+1635834:13:[INFO: App       ] SENDER Seq:161:P:2:SINK:1:
+1638816.08:1:[INFO: App       ] SINK Seq:160:PH:81:PL:20:LEN:108:D1:0:DL:99:SR:13:P:1:
+1645877:13:[INFO: App       ] SENDER Seq:162:P:1:SINK:1:
+1654797.08:1:[INFO: App       ] SINK Seq:162:PH:82:PL:20:LEN:108:D1:0:DL:99:SR:13:P:1:
+1655370:13:[INFO: App       ] SENDER Seq:163:P:2:SINK:1:
+1665772:13:[INFO: App       ] SENDER Seq:164:P:1:SINK:1:
+1670816.08:1:[INFO: App       ] SINK Seq:164:PH:83:PL:20:LEN:108:D1:0:DL:99:SR:13:P:1:
+1676011:13:[INFO: App       ] SENDER Seq:165:P:2:SINK:1:
+1685630:13:[INFO: App       ] SENDER Seq:166:P:1:SINK:1:
+1686760.08:1:[INFO: App       ] SINK Seq:166:PH:84:PL:20:LEN:108:D1:0:DL:99:SR:13:P:1:
+1695947:13:[INFO: App       ] SENDER Seq:167:P:2:SINK:1:
+1702751.08:1:[INFO: App       ] SINK Seq:111:PH:84:PL:21:LEN:108:D1:0:DL:99:SR:13:P:2:
+1706293:13:[INFO: App       ] SENDER Seq:168:P:1:SINK:1:
+1715549:13:[INFO: App       ] DROPPED :T:143:H:0:L:28:S:169:P:2:
+1715549:13:[INFO: App       ] SENDER Seq:169:P:2:SINK:1:
+1718817.08:1:[INFO: App       ] SINK Seq:168:PH:85:PL:21:LEN:108:D1:0:DL:99:SR:13:P:1:
+1725493:13:[INFO: App       ] SENDER Seq:170:P:1:SINK:1:
+1734638:13:[INFO: App       ] DROPPED :T:144:H:0:L:29:S:171:P:2:
+1734638:13:[INFO: App       ] SENDER Seq:171:P:2:SINK:1:
+1734814.08:1:[INFO: App       ] SINK Seq:170:PH:86:PL:21:LEN:108:D1:0:DL:99:SR:13:P:1:
+1745302:13:[INFO: App       ] SENDER Seq:172:P:1:SINK:1:
+1750830.08:1:[INFO: App       ] SINK Seq:172:PH:87:PL:21:LEN:108:D1:0:DL:99:SR:13:P:1:
+1755059:13:[INFO: App       ] SENDER Seq:173:P:2:SINK:1:
+1765267:13:[INFO: App       ] SENDER Seq:174:P:1:SINK:1:
+1766806.08:1:[INFO: App       ] SINK Seq:174:PH:88:PL:21:LEN:108:D1:0:DL:99:SR:13:P:1:
+1776033:13:[INFO: App       ] SENDER Seq:175:P:2:SINK:1:
+1782808.08:1:[INFO: App       ] SINK Seq:119:PH:88:PL:22:LEN:108:D1:0:DL:99:SR:13:P:2:
+1785557:13:[INFO: App       ] SENDER Seq:176:P:1:SINK:1:
+1795717:13:[INFO: App       ] DROPPED :T:149:H:0:L:30:S:177:P:2:
+1795717:13:[INFO: App       ] SENDER Seq:177:P:2:SINK:1:
+1798777.08:1:[INFO: App       ] SINK Seq:176:PH:89:PL:22:LEN:108:D1:0:DL:99:SR:13:P:1:
+1804934:13:[INFO: App       ] SENDER Seq:178:P:1:SINK:1:
+1814702.032:13:[INFO: App       ] SENDER Seq:179:P:2:SINK:1:
+1814783.08:1:[INFO: App       ] SINK Seq:178:PH:90:PL:22:LEN:108:D1:0:DL:99:SR:13:P:1:
+1825557:13:[INFO: App       ] SENDER Seq:180:P:1:SINK:1:
+1830811.08:1:[INFO: App       ] SINK Seq:180:PH:91:PL:22:LEN:108:D1:0:DL:99:SR:13:P:1:
+1836466:13:[INFO: App       ] SENDER Seq:181:P:2:SINK:1:
+1846652:13:[INFO: App       ] SENDER Seq:182:P:1:SINK:1:
+1846799.08:1:[INFO: App       ] SINK Seq:182:PH:92:PL:22:LEN:108:D1:0:DL:99:SR:13:P:1:
+1856428:13:[INFO: App       ] SENDER Seq:183:P:2:SINK:1:
+1862820.08:1:[INFO: App       ] SINK Seq:127:PH:92:PL:23:LEN:108:D1:0:DL:99:SR:13:P:2:
+1866235:13:[INFO: App       ] SENDER Seq:184:P:1:SINK:1:
+1876872:13:[INFO: App       ] DROPPED :T:156:H:0:L:31:S:185:P:2:
+1876872:13:[INFO: App       ] SENDER Seq:185:P:2:SINK:1:
+1878812.08:1:[INFO: App       ] SINK Seq:184:PH:93:PL:23:LEN:108:D1:0:DL:99:SR:13:P:1:
+1886887:13:[INFO: App       ] SENDER Seq:186:P:1:SINK:1:
+1894787.08:1:[INFO: App       ] SINK Seq:186:PH:94:PL:23:LEN:108:D1:0:DL:99:SR:13:P:1:
+1896290:13:[INFO: App       ] SENDER Seq:187:P:2:SINK:1:
+1907154:13:[INFO: App       ] SENDER Seq:188:P:1:SINK:1:
+1910836.08:1:[INFO: App       ] SINK Seq:188:PH:95:PL:23:LEN:108:D1:0:DL:99:SR:13:P:1:
+1916162:13:[INFO: App       ] SENDER Seq:189:P:2:SINK:1:
+1926464:13:[INFO: App       ] SENDER Seq:190:P:1:SINK:1:
+1926813.08:1:[INFO: App       ] SINK Seq:190:PH:96:PL:23:LEN:108:D1:0:DL:99:SR:13:P:1:
+1935507:13:[INFO: App       ] SENDER Seq:191:P:2:SINK:1:
+1942793.08:1:[INFO: App       ] SINK Seq:133:PH:96:PL:24:LEN:108:D1:0:DL:99:SR:13:P:2:
+1944669:13:[INFO: App       ] SENDER Seq:192:P:1:SINK:1:
+1955329:13:[INFO: App       ] DROPPED :T:163:H:0:L:32:S:193:P:2:
+1955329:13:[INFO: App       ] SENDER Seq:193:P:2:SINK:1:
+1958814.08:1:[INFO: App       ] SINK Seq:192:PH:97:PL:24:LEN:108:D1:0:DL:99:SR:13:P:1:
+1965223:13:[INFO: App       ] SENDER Seq:194:P:1:SINK:1:
+1974851.08:1:[INFO: App       ] SINK Seq:194:PH:98:PL:24:LEN:108:D1:0:DL:99:SR:13:P:1:
+1975469:13:[INFO: App       ] SENDER Seq:195:P:2:SINK:1:
+1985050:13:[INFO: App       ] SENDER Seq:196:P:1:SINK:1:
+1990811.08:1:[INFO: App       ] SINK Seq:196:PH:99:PL:24:LEN:108:D1:0:DL:99:SR:13:P:1:
+1995240:13:[INFO: App       ] SENDER Seq:197:P:2:SINK:1:
+2005568:13:[INFO: App       ] SENDER Seq:198:P:1:SINK:1:
+2006833.08:1:[INFO: App       ] SINK Seq:198:PH:100:PL:24:LEN:108:D1:0:DL:99:SR:13:P:1:
+2015983:13:[INFO: App       ] SENDER Seq:199:P:2:SINK:1:
+2022821.08:1:[INFO: App       ] SINK Seq:141:PH:100:PL:25:LEN:108:D1:0:DL:99:SR:13:P:2:
+2026657:13:[INFO: App       ] SENDER Seq:200:P:1:SINK:1:
+2037238:13:[INFO: App       ] DROPPED :T:170:H:0:L:33:S:201:P:2:
+2037238:13:[INFO: App       ] SENDER Seq:201:P:2:SINK:1:
+2038838.08:1:[INFO: App       ] SINK Seq:200:PH:101:PL:25:LEN:108:D1:0:DL:99:SR:13:P:1:
+2047868:13:[INFO: App       ] SENDER Seq:202:P:1:SINK:1:
+2054817.08:1:[INFO: App       ] SINK Seq:202:PH:102:PL:25:LEN:108:D1:0:DL:99:SR:13:P:1:
+2057850:13:[INFO: App       ] SENDER Seq:203:P:2:SINK:1:
+2067291:13:[INFO: App       ] SENDER Seq:204:P:1:SINK:1:
+2070780.08:1:[INFO: App       ] SINK Seq:204:PH:103:PL:25:LEN:108:D1:0:DL:99:SR:13:P:1:
+2076316:13:[INFO: App       ] SENDER Seq:205:P:2:SINK:1:
+2086627:13:[INFO: App       ] SENDER Seq:206:P:1:SINK:1:
+2086865.08:1:[INFO: App       ] SINK Seq:206:PH:104:PL:25:LEN:108:D1:0:DL:99:SR:13:P:1:
+2096698:13:[INFO: App       ] SENDER Seq:207:P:2:SINK:1:
+2102809.08:1:[INFO: App       ] SINK Seq:149:PH:104:PL:26:LEN:108:D1:0:DL:99:SR:13:P:2:
+2107190:13:[INFO: App       ] SENDER Seq:208:P:1:SINK:1:
+2117564:13:[INFO: App       ] DROPPED :T:177:H:0:L:34:S:209:P:2:
+2117564:13:[INFO: App       ] SENDER Seq:209:P:2:SINK:1:
+2118824.08:1:[INFO: App       ] SINK Seq:208:PH:105:PL:26:LEN:108:D1:0:DL:99:SR:13:P:1:
+2128414:13:[INFO: App       ] SENDER Seq:210:P:1:SINK:1:
+2134850.08:1:[INFO: App       ] SINK Seq:210:PH:106:PL:26:LEN:108:D1:0:DL:99:SR:13:P:1:
+2137780:13:[INFO: App       ] SENDER Seq:211:P:2:SINK:1:
+2147468:13:[INFO: App       ] SENDER Seq:212:P:1:SINK:1:
+2150879.08:1:[INFO: App       ] SINK Seq:212:PH:107:PL:26:LEN:108:D1:0:DL:99:SR:13:P:1:
+2157062:13:[INFO: App       ] SENDER Seq:213:P:2:SINK:1:
+2166853.08:1:[INFO: App       ] SINK Seq:159:PH:107:PL:27:LEN:108:D1:0:DL:99:SR:13:P:2:
+2167797:13:[INFO: App       ] SENDER Seq:214:P:1:SINK:1:
+2178462:13:[INFO: App       ] DROPPED :T:182:H:0:L:35:S:215:P:2:
+2178462:13:[INFO: App       ] SENDER Seq:215:P:2:SINK:1:
+2182828.08:1:[INFO: App       ] SINK Seq:214:PH:108:PL:27:LEN:108:D1:0:DL:99:SR:13:P:1:
+2188431:13:[INFO: App       ] SENDER Seq:216:P:1:SINK:1:
+2197856:13:[INFO: App       ] DROPPED :T:183:H:0:L:36:S:217:P:2:
+2197856:13:[INFO: App       ] SENDER Seq:217:P:2:SINK:1:
+2198858.08:1:[INFO: App       ] SINK Seq:216:PH:109:PL:27:LEN:108:D1:0:DL:99:SR:13:P:1:
+2207451:13:[INFO: App       ] SENDER Seq:218:P:1:SINK:1:
+2214840.08:1:[INFO: App       ] SINK Seq:218:PH:110:PL:27:LEN:108:D1:0:DL:99:SR:13:P:1:
+2218308:13:[INFO: App       ] SENDER Seq:219:P:2:SINK:1:
+2228998:13:[INFO: App       ] SENDER Seq:220:P:1:SINK:1:
+2230856.08:1:[INFO: App       ] SINK Seq:220:PH:111:PL:27:LEN:108:D1:0:DL:99:SR:13:P:1:
+2238160:13:[INFO: App       ] SENDER Seq:221:P:2:SINK:1:
+2246857.08:1:[INFO: App       ] SINK Seq:167:PH:111:PL:28:LEN:108:D1:0:DL:99:SR:13:P:2:
+2248780:13:[INFO: App       ] SENDER Seq:222:P:1:SINK:1:
+2259124:13:[INFO: App       ] DROPPED :T:188:H:0:L:37:S:223:P:2:
+2259124:13:[INFO: App       ] SENDER Seq:223:P:2:SINK:1:
+2262848.08:1:[INFO: App       ] SINK Seq:222:PH:112:PL:28:LEN:108:D1:0:DL:99:SR:13:P:1:
+2269377:13:[INFO: App       ] SENDER Seq:224:P:1:SINK:1:
+2278788:13:[INFO: App       ] SENDER Seq:225:P:2:SINK:1:
+2278836.08:1:[INFO: App       ] SINK Seq:224:PH:113:PL:28:LEN:108:D1:0:DL:99:SR:13:P:1:
+2288239:13:[INFO: App       ] SENDER Seq:226:P:1:SINK:1:
+2294818.08:1:[INFO: App       ] SINK Seq:226:PH:114:PL:28:LEN:108:D1:0:DL:99:SR:13:P:1:
+2297239:13:[INFO: App       ] SENDER Seq:227:P:2:SINK:1:
+2306635:13:[INFO: App       ] SENDER Seq:228:P:1:SINK:1:
+2310873.08:1:[INFO: App       ] SINK Seq:228:PH:115:PL:28:LEN:108:D1:0:DL:99:SR:13:P:1:
+2316303:13:[INFO: App       ] SENDER Seq:229:P:2:SINK:1:
+2326223:13:[INFO: App       ] SENDER Seq:230:P:1:SINK:1:
+2326849.08:1:[INFO: App       ] SINK Seq:230:PH:116:PL:28:LEN:108:D1:0:DL:99:SR:13:P:1:
+2336927:13:[INFO: App       ] SENDER Seq:231:P:2:SINK:1:
+2342861.08:1:[INFO: App       ] SINK Seq:175:PH:116:PL:29:LEN:108:D1:0:DL:99:SR:13:P:2:
+2346559:13:[INFO: App       ] SENDER Seq:232:P:1:SINK:1:
+2356915:13:[INFO: App       ] DROPPED :T:197:H:0:L:38:S:233:P:2:
+2356915:13:[INFO: App       ] SENDER Seq:233:P:2:SINK:1:
+2358881.08:1:[INFO: App       ] SINK Seq:232:PH:117:PL:29:LEN:108:D1:0:DL:99:SR:13:P:1:
+2367416:13:[INFO: App       ] SENDER Seq:234:P:1:SINK:1:
+2374835.08:1:[INFO: App       ] SINK Seq:234:PH:118:PL:29:LEN:108:D1:0:DL:99:SR:13:P:1:
+2378339:13:[INFO: App       ] SENDER Seq:235:P:2:SINK:1:
+2388078:13:[INFO: App       ] SENDER Seq:236:P:1:SINK:1:
+2390866.08:1:[INFO: App       ] SINK Seq:236:PH:119:PL:29:LEN:108:D1:0:DL:99:SR:13:P:1:
+2397737:13:[INFO: App       ] SENDER Seq:237:P:2:SINK:1:
+2406836.08:1:[INFO: App       ] SINK Seq:183:PH:119:PL:30:LEN:108:D1:0:DL:99:SR:13:P:2:
+2407300:13:[INFO: App       ] SENDER Seq:238:P:1:SINK:1:
+2417157:13:[INFO: App       ] DROPPED :T:202:H:0:L:39:S:239:P:2:
+2417157:13:[INFO: App       ] SENDER Seq:239:P:2:SINK:1:
+2422903.08:1:[INFO: App       ] SINK Seq:238:PH:120:PL:30:LEN:108:D1:0:DL:99:SR:13:P:1:
+2427666:13:[INFO: App       ] SENDER Seq:240:P:1:SINK:1:
+2436774:13:[INFO: App       ] DROPPED :T:203:H:0:L:40:S:241:P:2:
+2436774:13:[INFO: App       ] SENDER Seq:241:P:2:SINK:1:
+2438891.08:1:[INFO: App       ] SINK Seq:240:PH:121:PL:30:LEN:108:D1:0:DL:99:SR:13:P:1:
+2446593:13:[INFO: App       ] SENDER Seq:242:P:1:SINK:1:
+2454827.08:1:[INFO: App       ] SINK Seq:242:PH:122:PL:30:LEN:108:D1:0:DL:99:SR:13:P:1:
+2455939:13:[INFO: App       ] SENDER Seq:243:P:2:SINK:1:
+2465690:13:[INFO: App       ] SENDER Seq:244:P:1:SINK:1:
+2470877.08:1:[INFO: App       ] SINK Seq:244:PH:123:PL:30:LEN:108:D1:0:DL:99:SR:13:P:1:
+2475447:13:[INFO: App       ] SENDER Seq:245:P:2:SINK:1:
+2485842:13:[INFO: App       ] SENDER Seq:246:P:1:SINK:1:
+2486889.08:1:[INFO: App       ] SINK Seq:246:PH:124:PL:30:LEN:108:D1:0:DL:99:SR:13:P:1:
+2495559:13:[INFO: App       ] SENDER Seq:247:P:2:SINK:1:
+2502885.08:1:[INFO: App       ] SINK Seq:191:PH:124:PL:31:LEN:108:D1:0:DL:99:SR:13:P:2:
+2506493:13:[INFO: App       ] SENDER Seq:248:P:1:SINK:1:
+2515637:13:[INFO: App       ] DROPPED :T:210:H:0:L:41:S:249:P:2:
+2515637:13:[INFO: App       ] SENDER Seq:249:P:2:SINK:1:
+2518916.08:1:[INFO: App       ] SINK Seq:248:PH:125:PL:31:LEN:108:D1:0:DL:99:SR:13:P:1:
+2524977:13:[INFO: App       ] SENDER Seq:250:P:1:SINK:1:
+2534011:13:[INFO: App       ] DROPPED :T:211:H:0:L:42:S:251:P:2:
+2534011:13:[INFO: App       ] SENDER Seq:251:P:2:SINK:1:
+2534877.08:1:[INFO: App       ] SINK Seq:250:PH:126:PL:31:LEN:108:D1:0:DL:99:SR:13:P:1:
+2543349:13:[INFO: App       ] SENDER Seq:252:P:1:SINK:1:
+2550908.08:1:[INFO: App       ] SINK Seq:252:PH:127:PL:31:LEN:108:D1:0:DL:99:SR:13:P:1:
+2552837:13:[INFO: App       ] SENDER Seq:253:P:2:SINK:1:
+2562633:13:[INFO: App       ] SENDER Seq:254:P:1:SINK:1:
+2566882.08:1:[INFO: App       ] SINK Seq:254:PH:128:PL:31:LEN:108:D1:0:DL:99:SR:13:P:1:
+2571890:13:[INFO: App       ] SENDER Seq:255:P:2:SINK:1:
+2581763:13:[INFO: App       ] SENDER Seq:256:P:1:SINK:1:
+2582864.08:1:[INFO: App       ] SINK Seq:256:PH:129:PL:31:LEN:108:D1:0:DL:99:SR:13:P:1:
+2591742:13:[INFO: App       ] SENDER Seq:257:P:2:SINK:1:
+2598887.08:1:[INFO: App       ] SINK Seq:199:PH:129:PL:32:LEN:108:D1:0:DL:99:SR:13:P:2:
+2601687:13:[INFO: App       ] SENDER Seq:258:P:1:SINK:1:
+2612263:13:[INFO: App       ] DROPPED :T:218:H:0:L:43:S:259:P:2:
+2612263:13:[INFO: App       ] SENDER Seq:259:P:2:SINK:1:
+2614898.08:1:[INFO: App       ] SINK Seq:258:PH:130:PL:32:LEN:108:D1:0:DL:99:SR:13:P:1:
+2622455:13:[INFO: App       ] SENDER Seq:260:P:1:SINK:1:
+2630897.08:1:[INFO: App       ] SINK Seq:260:PH:131:PL:32:LEN:108:D1:0:DL:99:SR:13:P:1:
+2631926:13:[INFO: App       ] SENDER Seq:261:P:2:SINK:1:
+2642435:13:[INFO: App       ] SENDER Seq:262:P:1:SINK:1:
+2646892.08:1:[INFO: App       ] SINK Seq:262:PH:132:PL:32:LEN:108:D1:0:DL:99:SR:13:P:1:
+2653094:13:[INFO: App       ] SENDER Seq:263:P:2:SINK:1:
+2662904.08:1:[INFO: App       ] SINK Seq:207:PH:132:PL:33:LEN:108:D1:0:DL:99:SR:13:P:2:
+2663725:13:[INFO: App       ] SENDER Seq:264:P:1:SINK:1:
+2674585:13:[INFO: App       ] DROPPED :T:223:H:0:L:44:S:265:P:2:
+2674585:13:[INFO: App       ] SENDER Seq:265:P:2:SINK:1:
+2678907.08:1:[INFO: App       ] SINK Seq:264:PH:133:PL:33:LEN:108:D1:0:DL:99:SR:13:P:1:
+2683698:13:[INFO: App       ] SENDER Seq:266:P:1:SINK:1:
+2692809:13:[INFO: App       ] DROPPED :T:224:H:0:L:45:S:267:P:2:
+2692809:13:[INFO: App       ] SENDER Seq:267:P:2:SINK:1:
+2694914.08:1:[INFO: App       ] SINK Seq:266:PH:134:PL:33:LEN:108:D1:0:DL:99:SR:13:P:1:
+2702097:13:[INFO: App       ] SENDER Seq:268:P:1:SINK:1:
+2710862.08:1:[INFO: App       ] SINK Seq:268:PH:135:PL:33:LEN:108:D1:0:DL:99:SR:13:P:1:
+2711629:13:[INFO: App       ] SENDER Seq:269:P:2:SINK:1:
+2720724:13:[INFO: App       ] SENDER Seq:270:P:1:SINK:1:
+2726878.08:1:[INFO: App       ] SINK Seq:270:PH:136:PL:33:LEN:108:D1:0:DL:99:SR:13:P:1:
+2729972:13:[INFO: App       ] SENDER Seq:271:P:2:SINK:1:
+2740664:13:[INFO: App       ] SENDER Seq:272:P:1:SINK:1:
+2742889.08:1:[INFO: App       ] SINK Seq:272:PH:137:PL:33:LEN:108:D1:0:DL:99:SR:13:P:1:
+2750521:13:[INFO: App       ] SENDER Seq:273:P:2:SINK:1:
+2758908.08:1:[INFO: App       ] SINK Seq:213:PH:137:PL:34:LEN:108:D1:0:DL:99:SR:13:P:2:
+2760529:13:[INFO: App       ] SENDER Seq:274:P:1:SINK:1:
+2769828:13:[INFO: App       ] DROPPED :T:231:H:0:L:46:S:275:P:2:
+2769828:13:[INFO: App       ] SENDER Seq:275:P:2:SINK:1:
+2774925.08:1:[INFO: App       ] SINK Seq:274:PH:138:PL:34:LEN:108:D1:0:DL:99:SR:13:P:1:
+2779364:13:[INFO: App       ] SENDER Seq:276:P:1:SINK:1:
+2788686:13:[INFO: App       ] DROPPED :T:232:H:0:L:47:S:277:P:2:
+2788686:13:[INFO: App       ] SENDER Seq:277:P:2:SINK:1:
+2790897.08:1:[INFO: App       ] SINK Seq:276:PH:139:PL:34:LEN:108:D1:0:DL:99:SR:13:P:1:
+2798232:13:[INFO: App       ] SENDER Seq:278:P:1:SINK:1:
+2806914.08:1:[INFO: App       ] SINK Seq:278:PH:140:PL:34:LEN:108:D1:0:DL:99:SR:13:P:1:
+2808009:13:[INFO: App       ] SENDER Seq:279:P:2:SINK:1:
+2818565:13:[INFO: App       ] SENDER Seq:280:P:1:SINK:1:
+2822916.08:1:[INFO: App       ] SINK Seq:280:PH:141:PL:34:LEN:108:D1:0:DL:99:SR:13:P:1:
+2829325:13:[INFO: App       ] SENDER Seq:281:P:2:SINK:1:
+2838947.08:1:[INFO: App       ] SINK Seq:221:PH:141:PL:35:LEN:108:D1:0:DL:99:SR:13:P:2:
+2839416:13:[INFO: App       ] SENDER Seq:282:P:1:SINK:1:
+2849284:13:[INFO: App       ] DROPPED :T:237:H:0:L:48:S:283:P:2:
+2849284:13:[INFO: App       ] SENDER Seq:283:P:2:SINK:1:
+2854927.08:1:[INFO: App       ] SINK Seq:282:PH:142:PL:35:LEN:108:D1:0:DL:99:SR:13:P:1:
+2858444:13:[INFO: App       ] SENDER Seq:284:P:1:SINK:1:
+2867809:13:[INFO: App       ] DROPPED :T:238:H:0:L:49:S:285:P:2:
+2867809:13:[INFO: App       ] SENDER Seq:285:P:2:SINK:1:
+2870924.08:1:[INFO: App       ] SINK Seq:284:PH:143:PL:35:LEN:108:D1:0:DL:99:SR:13:P:1:
+2877801:13:[INFO: App       ] SENDER Seq:286:P:1:SINK:1:
+2886925.08:1:[INFO: App       ] SINK Seq:286:PH:144:PL:35:LEN:108:D1:0:DL:99:SR:13:P:1:
+2887316:13:[INFO: App       ] SENDER Seq:287:P:2:SINK:1:
+2897930:13:[INFO: App       ] SENDER Seq:288:P:1:SINK:1:
+2902869.224:1:[INFO: App       ] SINK Seq:288:PH:145:PL:35:LEN:108:D1:0:DL:99:SR:13:P:1:
+2908923:13:[INFO: App       ] SENDER Seq:289:P:2:SINK:1:
+2918614:13:[INFO: App       ] SENDER Seq:290:P:1:SINK:1:
+2918940.08:1:[INFO: App       ] SINK Seq:290:PH:146:PL:35:LEN:108:D1:0:DL:99:SR:13:P:1:
+2928770:13:[INFO: App       ] SENDER Seq:291:P:2:SINK:1:
+2934974.08:1:[INFO: App       ] SINK Seq:231:PH:146:PL:36:LEN:108:D1:0:DL:99:SR:13:P:2:
+2938651:13:[INFO: App       ] SENDER Seq:292:P:1:SINK:1:
+2948292:13:[INFO: App       ] DROPPED :T:245:H:0:L:50:S:293:P:2:
+2948292:13:[INFO: App       ] SENDER Seq:293:P:2:SINK:1:
+2950947.08:1:[INFO: App       ] SINK Seq:292:PH:147:PL:36:LEN:108:D1:0:DL:99:SR:13:P:1:
+2958573:13:[INFO: App       ] SENDER Seq:294:P:1:SINK:1:
+2966920.08:1:[INFO: App       ] SINK Seq:294:PH:148:PL:36:LEN:108:D1:0:DL:99:SR:13:P:1:
+2969025:13:[INFO: App       ] SENDER Seq:295:P:2:SINK:1:
+2979697:13:[INFO: App       ] SENDER Seq:296:P:1:SINK:1:
+2982948.08:1:[INFO: App       ] SINK Seq:296:PH:149:PL:36:LEN:108:D1:0:DL:99:SR:13:P:1:
+2989442:13:[INFO: App       ] SENDER Seq:297:P:2:SINK:1:
+2998857.032:13:[INFO: App       ] SENDER Seq:298:P:1:SINK:1:
+2998970.08:1:[INFO: App       ] SINK Seq:237:PH:149:PL:37:LEN:108:D1:0:DL:99:SR:13:P:2:
+3008324:13:[INFO: App       ] DROPPED :T:250:H:0:L:51:S:299:P:2:
+3008324:13:[INFO: App       ] SENDER Seq:299:P:2:SINK:1:
+3014929.08:1:[INFO: App       ] SINK Seq:298:PH:150:PL:37:LEN:108:D1:0:DL:99:SR:13:P:1:
+3018983:13:[INFO: App       ] SENDER Seq:300:P:1:SINK:1:
+3028234:13:[INFO: App       ] DROPPED :T:251:H:0:L:52:S:301:P:2:
+3028234:13:[INFO: App       ] SENDER Seq:301:P:2:SINK:1:
+3030962.08:1:[INFO: App       ] SINK Seq:300:PH:151:PL:37:LEN:108:D1:0:DL:99:SR:13:P:1:
+3038748:13:[INFO: App       ] SENDER Seq:302:P:1:SINK:1:
+3046903.08:1:[INFO: App       ] SINK Seq:302:PH:152:PL:37:LEN:108:D1:0:DL:99:SR:13:P:1:
+3049349:13:[INFO: App       ] SENDER Seq:303:P:2:SINK:1:
+3059668:13:[INFO: App       ] SENDER Seq:304:P:1:SINK:1:
+3062955.08:1:[INFO: App       ] SINK Seq:304:PH:153:PL:37:LEN:108:D1:0:DL:99:SR:13:P:1:
+3069527:13:[INFO: App       ] SENDER Seq:305:P:2:SINK:1:
+3078939.08:1:[INFO: App       ] SINK Seq:247:PH:153:PL:38:LEN:108:D1:0:DL:99:SR:13:P:2:
+3079531:13:[INFO: App       ] SENDER Seq:306:P:1:SINK:1:
+3089294:13:[INFO: App       ] DROPPED :T:256:H:0:L:53:S:307:P:2:
+3089294:13:[INFO: App       ] SENDER Seq:307:P:2:SINK:1:
+3094969.08:1:[INFO: App       ] SINK Seq:306:PH:154:PL:38:LEN:108:D1:0:DL:99:SR:13:P:1:
+3098775:13:[INFO: App       ] SENDER Seq:308:P:1:SINK:1:
+3107875:13:[INFO: App       ] DROPPED :T:257:H:0:L:54:S:309:P:2:
+3107875:13:[INFO: App       ] SENDER Seq:309:P:2:SINK:1:
+3110957.08:1:[INFO: App       ] SINK Seq:308:PH:155:PL:38:LEN:108:D1:0:DL:99:SR:13:P:1:
+3117323:13:[INFO: App       ] SENDER Seq:310:P:1:SINK:1:
+3126962.08:1:[INFO: App       ] SINK Seq:310:PH:156:PL:38:LEN:108:D1:0:DL:99:SR:13:P:1:
+3127741:13:[INFO: App       ] SENDER Seq:311:P:2:SINK:1:
+3138669:13:[INFO: App       ] SENDER Seq:312:P:1:SINK:1:
+3142944.08:1:[INFO: App       ] SINK Seq:312:PH:157:PL:38:LEN:108:D1:0:DL:99:SR:13:P:1:
+3147807:13:[INFO: App       ] SENDER Seq:313:P:2:SINK:1:
+3157143:13:[INFO: App       ] SENDER Seq:314:P:1:SINK:1:
+3158927.08:1:[INFO: App       ] SINK Seq:314:PH:158:PL:38:LEN:108:D1:0:DL:99:SR:13:P:1:
+3167002:13:[INFO: App       ] SENDER Seq:315:P:2:SINK:1:
+3174933.08:1:[INFO: App       ] SINK Seq:257:PH:158:PL:39:LEN:108:D1:0:DL:99:SR:13:P:2:
+3177287:13:[INFO: App       ] SENDER Seq:316:P:1:SINK:1:
+3188059:13:[INFO: App       ] DROPPED :T:264:H:0:L:55:S:317:P:2:
+3188059:13:[INFO: App       ] SENDER Seq:317:P:2:SINK:1:
+3191005.08:1:[INFO: App       ] SINK Seq:316:PH:159:PL:39:LEN:108:D1:0:DL:99:SR:13:P:1:
+3198357:13:[INFO: App       ] SENDER Seq:318:P:1:SINK:1:
+3206975.08:1:[INFO: App       ] SINK Seq:318:PH:160:PL:39:LEN:108:D1:0:DL:99:SR:13:P:1:
+3207928:13:[INFO: App       ] SENDER Seq:319:P:2:SINK:1:
+3217785:13:[INFO: App       ] SENDER Seq:320:P:1:SINK:1:
+3222955.08:1:[INFO: App       ] SINK Seq:320:PH:161:PL:39:LEN:108:D1:0:DL:99:SR:13:P:1:
+3228083:13:[INFO: App       ] SENDER Seq:321:P:2:SINK:1:
+3238216:13:[INFO: App       ] SENDER Seq:322:P:1:SINK:1:
+3238951.08:1:[INFO: App       ] SINK Seq:322:PH:162:PL:39:LEN:108:D1:0:DL:99:SR:13:P:1:
+3249027:13:[INFO: App       ] SENDER Seq:323:P:2:SINK:1:
+3254969.08:1:[INFO: App       ] SINK Seq:263:PH:162:PL:40:LEN:108:D1:0:DL:99:SR:13:P:2:
+3259210:13:[INFO: App       ] SENDER Seq:324:P:1:SINK:1:
+3268862:13:[INFO: App       ] DROPPED :T:271:H:0:L:56:S:325:P:2:
+3268862:13:[INFO: App       ] SENDER Seq:325:P:2:SINK:1:
+3270933.08:1:[INFO: App       ] SINK Seq:324:PH:163:PL:40:LEN:108:D1:0:DL:99:SR:13:P:1:
+3278482:13:[INFO: App       ] SENDER Seq:326:P:1:SINK:1:
+3286988.08:1:[INFO: App       ] SINK Seq:326:PH:164:PL:40:LEN:108:D1:0:DL:99:SR:13:P:1:
+3288579:13:[INFO: App       ] SENDER Seq:327:P:2:SINK:1:
+3299474:13:[INFO: App       ] SENDER Seq:328:P:1:SINK:1:
+3303002.08:1:[INFO: App       ] SINK Seq:328:PH:165:PL:40:LEN:108:D1:0:DL:99:SR:13:P:1:
+3310215:13:[INFO: App       ] SENDER Seq:329:P:2:SINK:1:
+3318984.08:1:[INFO: App       ] SINK Seq:273:PH:165:PL:41:LEN:108:D1:0:DL:99:SR:13:P:2:
+3320943:13:[INFO: App       ] SENDER Seq:330:P:1:SINK:1:
+3331642:13:[INFO: App       ] DROPPED :T:276:H:0:L:57:S:331:P:2:
+3331642:13:[INFO: App       ] SENDER Seq:331:P:2:SINK:1:
+3334967.144:1:[INFO: App       ] SINK Seq:330:PH:166:PL:41:LEN:108:D1:0:DL:99:SR:13:P:1:
+3341348:13:[INFO: App       ] SENDER Seq:332:P:1:SINK:1:
+3351014.08:1:[INFO: App       ] SINK Seq:332:PH:167:PL:41:LEN:108:D1:0:DL:99:SR:13:P:1:
+3351398:13:[INFO: App       ] SENDER Seq:333:P:2:SINK:1:
+3361768:13:[INFO: App       ] SENDER Seq:334:P:1:SINK:1:
+3366971.08:1:[INFO: App       ] SINK Seq:334:PH:168:PL:41:LEN:108:D1:0:DL:99:SR:13:P:1:
+3372715:13:[INFO: App       ] SENDER Seq:335:P:2:SINK:1:
+3383003.08:1:[INFO: App       ] SINK Seq:281:PH:168:PL:42:LEN:108:D1:0:DL:99:SR:13:P:2:
+3383629:13:[INFO: App       ] SENDER Seq:336:P:1:SINK:1:
+3394323:13:[INFO: App       ] DROPPED :T:281:H:0:L:58:S:337:P:2:
+3394323:13:[INFO: App       ] SENDER Seq:337:P:2:SINK:1:
+3399006.08:1:[INFO: App       ] SINK Seq:336:PH:169:PL:42:LEN:108:D1:0:DL:99:SR:13:P:1:
+3404995:13:[INFO: App       ] SENDER Seq:338:P:1:SINK:1:
+3415019.08:1:[INFO: App       ] SINK Seq:338:PH:170:PL:42:LEN:108:D1:0:DL:99:SR:13:P:1:
+3415816:13:[INFO: App       ] SENDER Seq:339:P:2:SINK:1:
+3425860:13:[INFO: App       ] SENDER Seq:340:P:1:SINK:1:
+3431004.08:1:[INFO: App       ] SINK Seq:340:PH:171:PL:42:LEN:108:D1:0:DL:99:SR:13:P:1:
+3436075:13:[INFO: App       ] SENDER Seq:341:P:2:SINK:1:
+3445686:13:[INFO: App       ] SENDER Seq:342:P:1:SINK:1:
+3447014.08:1:[INFO: App       ] SINK Seq:342:PH:172:PL:42:LEN:108:D1:0:DL:99:SR:13:P:1:
+3456011:13:[INFO: App       ] SENDER Seq:343:P:2:SINK:1:
+3463017.08:1:[INFO: App       ] SINK Seq:291:PH:172:PL:43:LEN:108:D1:0:DL:99:SR:13:P:2:
+3465447:13:[INFO: App       ] SENDER Seq:344:P:1:SINK:1:
+3475145:13:[INFO: App       ] DROPPED :T:288:H:0:L:59:S:345:P:2:
+3475145:13:[INFO: App       ] SENDER Seq:345:P:2:SINK:1:
+3479001.08:1:[INFO: App       ] SINK Seq:344:PH:173:PL:43:LEN:108:D1:0:DL:99:SR:13:P:1:
+3484223:13:[INFO: App       ] SENDER Seq:346:P:1:SINK:1:
+3494854:13:[INFO: App       ] DROPPED :T:289:H:0:L:60:S:347:P:2:
+3494854:13:[INFO: App       ] SENDER Seq:347:P:2:SINK:1:
+3495019.08:1:[INFO: App       ] SINK Seq:346:PH:174:PL:43:LEN:108:D1:0:DL:99:SR:13:P:1:
+3505594:13:[INFO: App       ] SENDER Seq:348:P:1:SINK:1:
+3511025.08:1:[INFO: App       ] SINK Seq:348:PH:175:PL:43:LEN:108:D1:0:DL:99:SR:13:P:1:
+3515166:13:[INFO: App       ] SENDER Seq:349:P:2:SINK:1:
+3524326:13:[INFO: App       ] SENDER Seq:350:P:1:SINK:1:
+3526987.08:1:[INFO: App       ] SINK Seq:350:PH:176:PL:43:LEN:108:D1:0:DL:99:SR:13:P:1:
+3534925:13:[INFO: App       ] SENDER Seq:351:P:2:SINK:1:
+3543049.08:1:[INFO: App       ] SINK Seq:297:PH:176:PL:44:LEN:108:D1:0:DL:99:SR:13:P:2:
+3544655:13:[INFO: App       ] SENDER Seq:352:P:1:SINK:1:
+3554139:13:[INFO: App       ] DROPPED :T:294:H:0:L:61:S:353:P:2:
+3554139:13:[INFO: App       ] SENDER Seq:353:P:2:SINK:1:
+3559004.08:1:[INFO: App       ] SINK Seq:352:PH:177:PL:44:LEN:108:D1:0:DL:99:SR:13:P:1:
+3563264:13:[INFO: App       ] SENDER Seq:354:P:1:SINK:1:
+3573682:13:[INFO: App       ] DROPPED :T:295:H:0:L:62:S:355:P:2:
+3573682:13:[INFO: App       ] SENDER Seq:355:P:2:SINK:1:
+3575011.08:1:[INFO: App       ] SINK Seq:354:PH:178:PL:44:LEN:108:D1:0:DL:99:SR:13:P:1:
+3584661:13:[INFO: App       ] SENDER Seq:356:P:1:SINK:1:
+3591035.08:1:[INFO: App       ] SINK Seq:356:PH:179:PL:44:LEN:108:D1:0:DL:99:SR:13:P:1:
+3594451:13:[INFO: App       ] SENDER Seq:357:P:2:SINK:1:
+3605197:13:[INFO: App       ] SENDER Seq:358:P:1:SINK:1:
+3607044.08:1:[INFO: App       ] SINK Seq:358:PH:180:PL:44:LEN:108:D1:0:DL:99:SR:13:P:1:
+3614441:13:[INFO: App       ] SENDER Seq:359:P:2:SINK:1:
+3623024.08:1:[INFO: App       ] SINK Seq:305:PH:180:PL:45:LEN:108:D1:0:DL:99:SR:13:P:2:
+3624125:13:[INFO: App       ] SENDER Seq:360:P:1:SINK:1:
+3634531:13:[INFO: App       ] DROPPED :T:300:H:0:L:63:S:361:P:2:
+3634531:13:[INFO: App       ] SENDER Seq:361:P:2:SINK:1:
+3639017.08:1:[INFO: App       ] SINK Seq:360:PH:181:PL:45:LEN:108:D1:0:DL:99:SR:13:P:1:
+3645061:13:[INFO: App       ] SENDER Seq:362:P:1:SINK:1:
+3654294:13:[INFO: App       ] DROPPED :T:301:H:0:L:64:S:363:P:2:
+3654294:13:[INFO: App       ] SENDER Seq:363:P:2:SINK:1:
+3655066.08:1:[INFO: App       ] SINK Seq:362:PH:182:PL:45:LEN:108:D1:0:DL:99:SR:13:P:1:
+3664228:13:[INFO: App       ] SENDER Seq:364:P:1:SINK:1:
+3671025.08:1:[INFO: App       ] SINK Seq:364:PH:183:PL:45:LEN:108:D1:0:DL:99:SR:13:P:1:
+3674944:13:[INFO: App       ] SENDER Seq:365:P:2:SINK:1:
+3684666:13:[INFO: App       ] SENDER Seq:366:P:1:SINK:1:
+3687058.08:1:[INFO: App       ] SINK Seq:366:PH:184:PL:45:LEN:108:D1:0:DL:99:SR:13:P:1:
+3694690:13:[INFO: App       ] SENDER Seq:367:P:2:SINK:1:
+3703034.08:1:[INFO: App       ] SINK Seq:315:PH:184:PL:46:LEN:108:D1:0:DL:99:SR:13:P:2:
+3703890:13:[INFO: App       ] SENDER Seq:368:P:1:SINK:1:
+3713796:13:[INFO: App       ] DROPPED :T:306:H:0:L:65:S:369:P:2:
+3713796:13:[INFO: App       ] SENDER Seq:369:P:2:SINK:1:
+3719015.08:1:[INFO: App       ] SINK Seq:368:PH:185:PL:46:LEN:108:D1:0:DL:99:SR:13:P:1:
+3723569:13:[INFO: App       ] SENDER Seq:370:P:1:SINK:1:
+3734439:13:[INFO: App       ] DROPPED :T:307:H:0:L:66:S:371:P:2:
+3734439:13:[INFO: App       ] SENDER Seq:371:P:2:SINK:1:
+3735040.08:1:[INFO: App       ] SINK Seq:370:PH:186:PL:46:LEN:108:D1:0:DL:99:SR:13:P:1:
+3745218:13:[INFO: App       ] SENDER Seq:372:P:1:SINK:1:
+3751025.08:1:[INFO: App       ] SINK Seq:372:PH:187:PL:46:LEN:108:D1:0:DL:99:SR:13:P:1:
+3755240:13:[INFO: App       ] SENDER Seq:373:P:2:SINK:1:
+3764266:13:[INFO: App       ] SENDER Seq:374:P:1:SINK:1:
+3767046.08:1:[INFO: App       ] SINK Seq:374:PH:188:PL:46:LEN:108:D1:0:DL:99:SR:13:P:1:
+3773628:13:[INFO: App       ] SENDER Seq:375:P:2:SINK:1:
+3783046.144:1:[INFO: App       ] SINK Seq:323:PH:188:PL:47:LEN:108:D1:0:DL:99:SR:13:P:2:
+3784452:13:[INFO: App       ] SENDER Seq:376:P:1:SINK:1:
+3795448:13:[INFO: App       ] DROPPED :T:312:H:0:L:67:S:377:P:2:
+3795448:13:[INFO: App       ] SENDER Seq:377:P:2:SINK:1:
+3799038.08:1:[INFO: App       ] SINK Seq:376:PH:189:PL:47:LEN:108:D1:0:DL:99:SR:13:P:1:
+3805389:13:[INFO: App       ] SENDER Seq:378:P:1:SINK:1:
+3814680:13:[INFO: App       ] DROPPED :T:313:H:0:L:68:S:379:P:2:
+3814680:13:[INFO: App       ] SENDER Seq:379:P:2:SINK:1:
+3815043.08:1:[INFO: App       ] SINK Seq:378:PH:190:PL:47:LEN:108:D1:0:DL:99:SR:13:P:1:
+3825114:13:[INFO: App       ] SENDER Seq:380:P:1:SINK:1:
+3831049.08:1:[INFO: App       ] SINK Seq:380:PH:191:PL:47:LEN:108:D1:0:DL:99:SR:13:P:1:
+3834681:13:[INFO: App       ] SENDER Seq:381:P:2:SINK:1:
+3844036:13:[INFO: App       ] SENDER Seq:382:P:1:SINK:1:
+3847064.08:1:[INFO: App       ] SINK Seq:382:PH:192:PL:47:LEN:108:D1:0:DL:99:SR:13:P:1:
+3854514:13:[INFO: App       ] SENDER Seq:383:P:2:SINK:1:
+3863032.08:1:[INFO: App       ] SINK Seq:329:PH:192:PL:48:LEN:108:D1:0:DL:99:SR:13:P:2:
+3865330:13:[INFO: App       ] SENDER Seq:384:P:1:SINK:1:
+3875168:13:[INFO: App       ] DROPPED :T:318:H:0:L:69:S:385:P:2:
+3875168:13:[INFO: App       ] SENDER Seq:385:P:2:SINK:1:
+3879013.144:1:[INFO: App       ] SINK Seq:384:PH:193:PL:48:LEN:108:D1:0:DL:99:SR:13:P:1:
+3884306:13:[INFO: App       ] SENDER Seq:386:P:1:SINK:1:
+3893517:13:[INFO: App       ] DROPPED :T:319:H:0:L:70:S:387:P:2:
+3893517:13:[INFO: App       ] SENDER Seq:387:P:2:SINK:1:
+3895065.08:1:[INFO: App       ] SINK Seq:386:PH:194:PL:48:LEN:108:D1:0:DL:99:SR:13:P:1:
+3903761:13:[INFO: App       ] SENDER Seq:388:P:1:SINK:1:
+3911075.08:1:[INFO: App       ] SINK Seq:388:PH:195:PL:48:LEN:108:D1:0:DL:99:SR:13:P:1:
+3912905:13:[INFO: App       ] SENDER Seq:389:P:2:SINK:1:
+3923756:13:[INFO: App       ] SENDER Seq:390:P:1:SINK:1:
+3927098.08:1:[INFO: App       ] SINK Seq:390:PH:196:PL:48:LEN:108:D1:0:DL:99:SR:13:P:1:
+3932765:13:[INFO: App       ] SENDER Seq:391:P:2:SINK:1:
+3942447:13:[INFO: App       ] SENDER Seq:392:P:1:SINK:1:
+3943075.08:1:[INFO: App       ] SINK Seq:392:PH:197:PL:48:LEN:108:D1:0:DL:99:SR:13:P:1:
+3953330:13:[INFO: App       ] SENDER Seq:393:P:2:SINK:1:
+3959061.08:1:[INFO: App       ] SINK Seq:335:PH:197:PL:49:LEN:108:D1:0:DL:99:SR:13:P:2:
+3962386:13:[INFO: App       ] SENDER Seq:394:P:1:SINK:1:
+3972338:13:[INFO: App       ] DROPPED :T:326:H:0:L:71:S:395:P:2:
+3972338:13:[INFO: App       ] SENDER Seq:395:P:2:SINK:1:
+3975040.08:1:[INFO: App       ] SINK Seq:394:PH:198:PL:49:LEN:108:D1:0:DL:99:SR:13:P:1:
+3982610:13:[INFO: App       ] SENDER Seq:396:P:1:SINK:1:
+3991036.08:1:[INFO: App       ] SINK Seq:396:PH:199:PL:49:LEN:108:D1:0:DL:99:SR:13:P:1:
+3992511:13:[INFO: App       ] SENDER Seq:397:P:2:SINK:1:
+4001515:13:[INFO: App       ] SENDER Seq:398:P:1:SINK:1:
+4007133.08:1:[INFO: App       ] SINK Seq:398:PH:200:PL:49:LEN:108:D1:0:DL:99:SR:13:P:1:
+4011985:13:[INFO: App       ] SENDER Seq:399:P:2:SINK:1:
+4022485:13:[INFO: App       ] SENDER Seq:400:P:1:SINK:1:
+4023079.08:1:[INFO: App       ] SINK Seq:400:PH:201:PL:49:LEN:108:D1:0:DL:99:SR:13:P:1:
+4032520:13:[INFO: App       ] SENDER Seq:401:P:2:SINK:1:
+4039087.08:1:[INFO: App       ] SINK Seq:343:PH:201:PL:50:LEN:108:D1:0:DL:99:SR:13:P:2:
+4042483:13:[INFO: App       ] SENDER Seq:402:P:1:SINK:1:
+4052921:13:[INFO: App       ] DROPPED :T:333:H:0:L:72:S:403:P:2:
+4052921:13:[INFO: App       ] SENDER Seq:403:P:2:SINK:1:
+4055080.08:1:[INFO: App       ] SINK Seq:402:PH:202:PL:50:LEN:108:D1:0:DL:99:SR:13:P:1:
+4063875:13:[INFO: App       ] SENDER Seq:404:P:1:SINK:1:
+4071059.08:1:[INFO: App       ] SINK Seq:404:PH:203:PL:50:LEN:108:D1:0:DL:99:SR:13:P:1:
+4073329:13:[INFO: App       ] SENDER Seq:405:P:2:SINK:1:
+4082729:13:[INFO: App       ] SENDER Seq:406:P:1:SINK:1:
+4087054.08:1:[INFO: App       ] SINK Seq:406:PH:204:PL:50:LEN:108:D1:0:DL:99:SR:13:P:1:
+4091903:13:[INFO: App       ] SENDER Seq:407:P:2:SINK:1:
+4101479:13:[INFO: App       ] SENDER Seq:408:P:1:SINK:1:
+4103061.08:1:[INFO: App       ] SINK Seq:408:PH:205:PL:50:LEN:108:D1:0:DL:99:SR:13:P:1:
+4111545:13:[INFO: App       ] SENDER Seq:409:P:2:SINK:1:
+4119072.08:1:[INFO: App       ] SINK Seq:351:PH:205:PL:51:LEN:108:D1:0:DL:99:SR:13:P:2:
+4122326:13:[INFO: App       ] SENDER Seq:410:P:1:SINK:1:
+4131684:13:[INFO: App       ] DROPPED :T:340:H:0:L:73:S:411:P:2:
+4131684:13:[INFO: App       ] SENDER Seq:411:P:2:SINK:1:
+4135057.08:1:[INFO: App       ] SINK Seq:410:PH:206:PL:51:LEN:108:D1:0:DL:99:SR:13:P:1:
+4142420:13:[INFO: App       ] SENDER Seq:412:P:1:SINK:1:
+4151036.08:1:[INFO: App       ] SINK Seq:412:PH:207:PL:51:LEN:108:D1:0:DL:99:SR:13:P:1:
+4151905:13:[INFO: App       ] SENDER Seq:413:P:2:SINK:1:
+4161914:13:[INFO: App       ] SENDER Seq:414:P:1:SINK:1:
+4167087.08:1:[INFO: App       ] SINK Seq:414:PH:208:PL:51:LEN:108:D1:0:DL:99:SR:13:P:1:
+4171419:13:[INFO: App       ] SENDER Seq:415:P:2:SINK:1:
+4182050:13:[INFO: App       ] SENDER Seq:416:P:1:SINK:1:
+4183085.08:1:[INFO: App       ] SINK Seq:416:PH:209:PL:51:LEN:108:D1:0:DL:99:SR:13:P:1:
+4192166:13:[INFO: App       ] SENDER Seq:417:P:2:SINK:1:
+4199042.08:1:[INFO: App       ] SINK Seq:359:PH:209:PL:52:LEN:108:D1:0:DL:99:SR:13:P:2:
+4201943:13:[INFO: App       ] SENDER Seq:418:P:1:SINK:1:
+4212571:13:[INFO: App       ] DROPPED :T:347:H:0:L:74:S:419:P:2:
+4212571:13:[INFO: App       ] SENDER Seq:419:P:2:SINK:1:
+4215099.08:1:[INFO: App       ] SINK Seq:418:PH:210:PL:52:LEN:108:D1:0:DL:99:SR:13:P:1:
+4222945:13:[INFO: App       ] SENDER Seq:420:P:1:SINK:1:
+4231079.08:1:[INFO: App       ] SINK Seq:420:PH:211:PL:52:LEN:108:D1:0:DL:99:SR:13:P:1:
+4232324:13:[INFO: App       ] SENDER Seq:421:P:2:SINK:1:
+4242728:13:[INFO: App       ] SENDER Seq:422:P:1:SINK:1:
+4247095.08:1:[INFO: App       ] SINK Seq:422:PH:212:PL:52:LEN:108:D1:0:DL:99:SR:13:P:1:
+4253351:13:[INFO: App       ] SENDER Seq:423:P:2:SINK:1:
+4262818:13:[INFO: App       ] SENDER Seq:424:P:1:SINK:1:
+4263079.08:1:[INFO: App       ] SINK Seq:424:PH:213:PL:52:LEN:108:D1:0:DL:99:SR:13:P:1:
+4273430:13:[INFO: App       ] SENDER Seq:425:P:2:SINK:1:
+4279115.08:1:[INFO: App       ] SINK Seq:367:PH:213:PL:53:LEN:108:D1:0:DL:99:SR:13:P:2:
+4283164:13:[INFO: App       ] SENDER Seq:426:P:1:SINK:1:
+4293448:13:[INFO: App       ] DROPPED :T:354:H:0:L:75:S:427:P:2:
+4293448:13:[INFO: App       ] SENDER Seq:427:P:2:SINK:1:
+4295147.08:1:[INFO: App       ] SINK Seq:426:PH:214:PL:53:LEN:108:D1:0:DL:99:SR:13:P:1:
+4303758:13:[INFO: App       ] SENDER Seq:428:P:1:SINK:1:
+4311125.08:1:[INFO: App       ] SINK Seq:428:PH:215:PL:53:LEN:108:D1:0:DL:99:SR:13:P:1:
+4313822:13:[INFO: App       ] SENDER Seq:429:P:2:SINK:1:
+4324295:13:[INFO: App       ] SENDER Seq:430:P:1:SINK:1:
+4327073.08:1:[INFO: App       ] SINK Seq:430:PH:216:PL:53:LEN:108:D1:0:DL:99:SR:13:P:1:
+4333751:13:[INFO: App       ] SENDER Seq:431:P:2:SINK:1:
+4343132.08:1:[INFO: App       ] SINK Seq:375:PH:216:PL:54:LEN:108:D1:0:DL:99:SR:13:P:2:
+4344698:13:[INFO: App       ] SENDER Seq:432:P:1:SINK:1:
+4355152:13:[INFO: App       ] DROPPED :T:359:H:0:L:76:S:433:P:2:
+4355152:13:[INFO: App       ] SENDER Seq:433:P:2:SINK:1:
+4359124.08:1:[INFO: App       ] SINK Seq:432:PH:217:PL:54:LEN:108:D1:0:DL:99:SR:13:P:1:
+4364983:13:[INFO: App       ] SENDER Seq:434:P:1:SINK:1:
+4375125.08:1:[INFO: App       ] SINK Seq:434:PH:218:PL:54:LEN:108:D1:0:DL:99:SR:13:P:1:
+4375349:13:[INFO: App       ] SENDER Seq:435:P:2:SINK:1:
+4385419:13:[INFO: App       ] SENDER Seq:436:P:1:SINK:1:
+4391061.08:1:[INFO: App       ] SINK Seq:436:PH:219:PL:54:LEN:108:D1:0:DL:99:SR:13:P:1:
+4395013:13:[INFO: App       ] SENDER Seq:437:P:2:SINK:1:
+4404394:13:[INFO: App       ] SENDER Seq:438:P:1:SINK:1:
+4407108.08:1:[INFO: App       ] SINK Seq:438:PH:220:PL:54:LEN:108:D1:0:DL:99:SR:13:P:1:
+4414868:13:[INFO: App       ] SENDER Seq:439:P:2:SINK:1:
+4423153.08:1:[INFO: App       ] SINK Seq:383:PH:220:PL:55:LEN:108:D1:0:DL:99:SR:13:P:2:
+4424334:13:[INFO: App       ] SENDER Seq:440:P:1:SINK:1:
+4435209:13:[INFO: App       ] DROPPED :T:366:H:0:L:77:S:441:P:2:
+4435209:13:[INFO: App       ] SENDER Seq:441:P:2:SINK:1:
+4439145.08:1:[INFO: App       ] SINK Seq:440:PH:221:PL:55:LEN:108:D1:0:DL:99:SR:13:P:1:
+4444388:13:[INFO: App       ] SENDER Seq:442:P:1:SINK:1:
+4454990:13:[INFO: App       ] DROPPED :T:367:H:0:L:78:S:443:P:2:
+4454990:13:[INFO: App       ] SENDER Seq:443:P:2:SINK:1:
+4455110.08:1:[INFO: App       ] SINK Seq:442:PH:222:PL:55:LEN:108:D1:0:DL:99:SR:13:P:1:
+4464569:13:[INFO: App       ] SENDER Seq:444:P:1:SINK:1:
+4471151.08:1:[INFO: App       ] SINK Seq:444:PH:223:PL:55:LEN:108:D1:0:DL:99:SR:13:P:1:
+4475389:13:[INFO: App       ] SENDER Seq:445:P:2:SINK:1:
+4484971:13:[INFO: App       ] SENDER Seq:446:P:1:SINK:1:
+4487144.08:1:[INFO: App       ] SINK Seq:446:PH:224:PL:55:LEN:108:D1:0:DL:99:SR:13:P:1:
+4494642:13:[INFO: App       ] SENDER Seq:447:P:2:SINK:1:
+4503098.08:1:[INFO: App       ] SINK Seq:393:PH:224:PL:56:LEN:108:D1:0:DL:99:SR:13:P:2:
+4504999:13:[INFO: App       ] SENDER Seq:448:P:1:SINK:1:
+4514703:13:[INFO: App       ] DROPPED :T:372:H:0:L:79:S:449:P:2:
+4514703:13:[INFO: App       ] SENDER Seq:449:P:2:SINK:1:
+4519110.08:1:[INFO: App       ] SINK Seq:448:PH:225:PL:56:LEN:108:D1:0:DL:99:SR:13:P:1:
+4525578:13:[INFO: App       ] SENDER Seq:450:P:1:SINK:1:
+4535101:13:[INFO: App       ] SENDER Seq:451:P:2:SINK:1:
+4535153.08:1:[INFO: App       ] SINK Seq:450:PH:226:PL:56:LEN:108:D1:0:DL:99:SR:13:P:1:
+4544795:13:[INFO: App       ] SENDER Seq:452:P:1:SINK:1:
+4551111.08:1:[INFO: App       ] SINK Seq:452:PH:227:PL:56:LEN:108:D1:0:DL:99:SR:13:P:1:
+4555049:13:[INFO: App       ] SENDER Seq:453:P:2:SINK:1:
+4565407:13:[INFO: App       ] SENDER Seq:454:P:1:SINK:1:
+4567121.08:1:[INFO: App       ] SINK Seq:454:PH:228:PL:56:LEN:108:D1:0:DL:99:SR:13:P:1:
+4574423:13:[INFO: App       ] SENDER Seq:455:P:2:SINK:1:
+4583141.08:1:[INFO: App       ] SINK Seq:401:PH:228:PL:57:LEN:108:D1:0:DL:99:SR:13:P:2:
+4584637:13:[INFO: App       ] SENDER Seq:456:P:1:SINK:1:
+4595161:13:[INFO: App       ] DROPPED :T:379:H:0:L:80:S:457:P:2:
+4595161:13:[INFO: App       ] SENDER Seq:457:P:2:SINK:1:
+4599136.08:1:[INFO: App       ] SINK Seq:456:PH:229:PL:57:LEN:108:D1:0:DL:99:SR:13:P:1:
+4605065:13:[INFO: App       ] SENDER Seq:458:P:1:SINK:1:
+4614585:13:[INFO: App       ] DROPPED :T:380:H:0:L:81:S:459:P:2:
+4614585:13:[INFO: App       ] SENDER Seq:459:P:2:SINK:1:
+4615166.08:1:[INFO: App       ] SINK Seq:458:PH:230:PL:57:LEN:108:D1:0:DL:99:SR:13:P:1:
+4624091:13:[INFO: App       ] SENDER Seq:460:P:1:SINK:1:
+4631158.08:1:[INFO: App       ] SINK Seq:460:PH:231:PL:57:LEN:108:D1:0:DL:99:SR:13:P:1:
+4635075:13:[INFO: App       ] SENDER Seq:461:P:2:SINK:1:
+4645864:13:[INFO: App       ] SENDER Seq:462:P:1:SINK:1:
+4647156.08:1:[INFO: App       ] SINK Seq:462:PH:232:PL:57:LEN:108:D1:0:DL:99:SR:13:P:1:
+4655545:13:[INFO: App       ] SENDER Seq:463:P:2:SINK:1:
+4663141.08:1:[INFO: App       ] SINK Seq:409:PH:232:PL:58:LEN:108:D1:0:DL:99:SR:13:P:2:
+4665169:13:[INFO: App       ] SENDER Seq:464:P:1:SINK:1:
+4674773:13:[INFO: App       ] DROPPED :T:385:H:0:L:82:S:465:P:2:
+4674773:13:[INFO: App       ] SENDER Seq:465:P:2:SINK:1:
+4679178.08:1:[INFO: App       ] SINK Seq:464:PH:233:PL:58:LEN:108:D1:0:DL:99:SR:13:P:1:
+4683904:13:[INFO: App       ] SENDER Seq:466:P:1:SINK:1:
+4694786:13:[INFO: App       ] DROPPED :T:386:H:0:L:83:S:467:P:2:
+4694786:13:[INFO: App       ] SENDER Seq:467:P:2:SINK:1:
+4695174.08:1:[INFO: App       ] SINK Seq:466:PH:234:PL:58:LEN:108:D1:0:DL:99:SR:13:P:1:
+4705133:13:[INFO: App       ] SENDER Seq:468:P:1:SINK:1:
+4711202.08:1:[INFO: App       ] SINK Seq:468:PH:235:PL:58:LEN:108:D1:0:DL:99:SR:13:P:1:
+4715570:13:[INFO: App       ] SENDER Seq:469:P:2:SINK:1:
+4726464:13:[INFO: App       ] SENDER Seq:470:P:1:SINK:1:
+4727172.08:1:[INFO: App       ] SINK Seq:470:PH:236:PL:58:LEN:108:D1:0:DL:99:SR:13:P:1:
+4735615:13:[INFO: App       ] SENDER Seq:471:P:2:SINK:1:
+4743151.08:1:[INFO: App       ] SINK Seq:417:PH:236:PL:59:LEN:108:D1:0:DL:99:SR:13:P:2:
+4746537:13:[INFO: App       ] SENDER Seq:472:P:1:SINK:1:
+4756562:13:[INFO: App       ] DROPPED :T:391:H:0:L:84:S:473:P:2:
+4756562:13:[INFO: App       ] SENDER Seq:473:P:2:SINK:1:
+4759160.08:1:[INFO: App       ] SINK Seq:472:PH:237:PL:59:LEN:108:D1:0:DL:99:SR:13:P:1:
+4766561:13:[INFO: App       ] SENDER Seq:474:P:1:SINK:1:
+4775143.08:1:[INFO: App       ] SINK Seq:474:PH:238:PL:59:LEN:108:D1:0:DL:99:SR:13:P:1:
+4777362:13:[INFO: App       ] SENDER Seq:475:P:2:SINK:1:
+4787484:13:[INFO: App       ] SENDER Seq:476:P:1:SINK:1:
+4791178.08:1:[INFO: App       ] SINK Seq:476:PH:239:PL:59:LEN:108:D1:0:DL:99:SR:13:P:1:
+4797901:13:[INFO: App       ] SENDER Seq:477:P:2:SINK:1:
+4806956:13:[INFO: App       ] SENDER Seq:478:P:1:SINK:1:
+4807123.08:1:[INFO: App       ] SINK Seq:478:PH:240:PL:59:LEN:108:D1:0:DL:99:SR:13:P:1:
+4817054:13:[INFO: App       ] SENDER Seq:479:P:2:SINK:1:
+4823151.08:1:[INFO: App       ] SINK Seq:425:PH:240:PL:60:LEN:108:D1:0:DL:99:SR:13:P:2:
+4826244:13:[INFO: App       ] SENDER Seq:480:P:1:SINK:1:
+4835875:13:[INFO: App       ] DROPPED :T:398:H:0:L:85:S:481:P:2:
+4835875:13:[INFO: App       ] SENDER Seq:481:P:2:SINK:1:
+4839211.08:1:[INFO: App       ] SINK Seq:480:PH:241:PL:60:LEN:108:D1:0:DL:99:SR:13:P:1:
+4846097:13:[INFO: App       ] SENDER Seq:482:P:1:SINK:1:
+4855180.08:1:[INFO: App       ] SINK Seq:482:PH:242:PL:60:LEN:108:D1:0:DL:99:SR:13:P:1:
+4855195:13:[INFO: App       ] SENDER Seq:483:P:2:SINK:1:
+4865767:13:[INFO: App       ] SENDER Seq:484:P:1:SINK:1:
+4871196.08:1:[INFO: App       ] SINK Seq:484:PH:243:PL:60:LEN:108:D1:0:DL:99:SR:13:P:1:
+4875990:13:[INFO: App       ] SENDER Seq:485:P:2:SINK:1:
+4885560:13:[INFO: App       ] SENDER Seq:486:P:1:SINK:1:
+4887179.08:1:[INFO: App       ] SINK Seq:486:PH:244:PL:60:LEN:108:D1:0:DL:99:SR:13:P:1:
+4895627:13:[INFO: App       ] SENDER Seq:487:P:2:SINK:1:
+4903194.08:1:[INFO: App       ] SINK Seq:431:PH:244:PL:61:LEN:108:D1:0:DL:99:SR:13:P:2:
+4905639:13:[INFO: App       ] SENDER Seq:488:P:1:SINK:1:
+4915666:13:[INFO: App       ] DROPPED :T:405:H:0:L:86:S:489:P:2:
+4915666:13:[INFO: App       ] SENDER Seq:489:P:2:SINK:1:
+4919197.08:1:[INFO: App       ] SINK Seq:488:PH:245:PL:61:LEN:108:D1:0:DL:99:SR:13:P:1:
+4924835:13:[INFO: App       ] SENDER Seq:490:P:1:SINK:1:
+4934888:13:[INFO: App       ] DROPPED :T:406:H:0:L:87:S:491:P:2:
+4934888:13:[INFO: App       ] SENDER Seq:491:P:2:SINK:1:
+4935168.08:1:[INFO: App       ] SINK Seq:490:PH:246:PL:61:LEN:108:D1:0:DL:99:SR:13:P:1:
+4943935:13:[INFO: App       ] SENDER Seq:492:P:1:SINK:1:
+4951206.08:1:[INFO: App       ] SINK Seq:492:PH:247:PL:61:LEN:108:D1:0:DL:99:SR:13:P:1:
+4953157:13:[INFO: App       ] SENDER Seq:493:P:2:SINK:1:
+4963990:13:[INFO: App       ] SENDER Seq:494:P:1:SINK:1:
+4967210.08:1:[INFO: App       ] SINK Seq:494:PH:248:PL:61:LEN:108:D1:0:DL:99:SR:13:P:1:
+4974872:13:[INFO: App       ] SENDER Seq:495:P:2:SINK:1:
+4983213.08:1:[INFO: App       ] SINK Seq:439:PH:248:PL:62:LEN:108:D1:0:DL:99:SR:13:P:2:
+4985304:13:[INFO: App       ] SENDER Seq:496:P:1:SINK:1:
+4994445:13:[INFO: App       ] DROPPED :T:411:H:0:L:88:S:497:P:2:
+4994445:13:[INFO: App       ] SENDER Seq:497:P:2:SINK:1:
+4999185.08:1:[INFO: App       ] SINK Seq:496:PH:249:PL:62:LEN:108:D1:0:DL:99:SR:13:P:1:
+5004232:13:[INFO: App       ] SENDER Seq:498:P:1:SINK:1:
+5015140:13:[INFO: App       ] SENDER Seq:499:P:2:SINK:1:
+5015196.08:1:[INFO: App       ] SINK Seq:498:PH:250:PL:62:LEN:108:D1:0:DL:99:SR:13:P:1:
+5025321:13:[INFO: App       ] SENDER Seq:500:P:1:SINK:1:
+5031205.08:1:[INFO: App       ] SINK Seq:500:PH:251:PL:62:LEN:108:D1:0:DL:99:SR:13:P:1:
+5034345:13:[INFO: App       ] SENDER Seq:501:P:2:SINK:1:
+5044248:13:[INFO: App       ] SENDER Seq:502:P:1:SINK:1:
+5047155.08:1:[INFO: App       ] SINK Seq:502:PH:252:PL:62:LEN:108:D1:0:DL:99:SR:13:P:1:
+5054875:13:[INFO: App       ] SENDER Seq:503:P:2:SINK:1:
+5063182.08:1:[INFO: App       ] SINK Seq:447:PH:252:PL:63:LEN:108:D1:0:DL:99:SR:13:P:2:
+5065266:13:[INFO: App       ] SENDER Seq:504:P:1:SINK:1:
+5074566:13:[INFO: App       ] DROPPED :T:418:H:0:L:89:S:505:P:2:
+5074566:13:[INFO: App       ] SENDER Seq:505:P:2:SINK:1:
+5079232.08:1:[INFO: App       ] SINK Seq:504:PH:253:PL:63:LEN:108:D1:0:DL:99:SR:13:P:1:
+5084012:13:[INFO: App       ] SENDER Seq:506:P:1:SINK:1:
+5093365:13:[INFO: App       ] DROPPED :T:419:H:0:L:90:S:507:P:2:
+5093365:13:[INFO: App       ] SENDER Seq:507:P:2:SINK:1:
+5095212.08:1:[INFO: App       ] SINK Seq:506:PH:254:PL:63:LEN:108:D1:0:DL:99:SR:13:P:1:
+5103459:13:[INFO: App       ] SENDER Seq:508:P:1:SINK:1:
+5111229.08:1:[INFO: App       ] SINK Seq:508:PH:255:PL:63:LEN:108:D1:0:DL:99:SR:13:P:1:
+5114200:13:[INFO: App       ] SENDER Seq:509:P:2:SINK:1:
+5124648:13:[INFO: App       ] SENDER Seq:510:P:1:SINK:1:
+5127227.08:1:[INFO: App       ] SINK Seq:510:PH:256:PL:63:LEN:108:D1:0:DL:99:SR:13:P:1:
+5134154:13:[INFO: App       ] SENDER Seq:511:P:2:SINK:1:
+5143217.08:1:[INFO: App       ] SINK Seq:455:PH:256:PL:64:LEN:108:D1:0:DL:99:SR:13:P:2:
+5144553:13:[INFO: App       ] SENDER Seq:512:P:1:SINK:1:
+5153933:13:[INFO: App       ] DROPPED :T:424:H:0:L:91:S:513:P:2:
+5153933:13:[INFO: App       ] SENDER Seq:513:P:2:SINK:1:
+5159210.08:1:[INFO: App       ] SINK Seq:512:PH:257:PL:64:LEN:108:D1:0:DL:99:SR:13:P:1:
+5163681:13:[INFO: App       ] SENDER Seq:514:P:1:SINK:1:
+5174638:13:[INFO: App       ] DROPPED :T:425:H:0:L:92:S:515:P:2:
+5174638:13:[INFO: App       ] SENDER Seq:515:P:2:SINK:1:
+5175233.08:1:[INFO: App       ] SINK Seq:514:PH:258:PL:64:LEN:108:D1:0:DL:99:SR:13:P:1:
+5184085:13:[INFO: App       ] SENDER Seq:516:P:1:SINK:1:
+5191191.08:1:[INFO: App       ] SINK Seq:516:PH:259:PL:64:LEN:108:D1:0:DL:99:SR:13:P:1:
+5194927:13:[INFO: App       ] SENDER Seq:517:P:2:SINK:1:
+5204877:13:[INFO: App       ] SENDER Seq:518:P:1:SINK:1:
+5207168.08:1:[INFO: App       ] SINK Seq:518:PH:260:PL:64:LEN:108:D1:0:DL:99:SR:13:P:1:
+5214851:13:[INFO: App       ] SENDER Seq:519:P:2:SINK:1:
+5223270.08:1:[INFO: App       ] SINK Seq:463:PH:260:PL:65:LEN:108:D1:0:DL:99:SR:13:P:2:
+5224173:13:[INFO: App       ] SENDER Seq:520:P:1:SINK:1:
+5234114:13:[INFO: App       ] DROPPED :T:430:H:0:L:93:S:521:P:2:
+5234114:13:[INFO: App       ] SENDER Seq:521:P:2:SINK:1:
+5239215.08:1:[INFO: App       ] SINK Seq:520:PH:261:PL:65:LEN:108:D1:0:DL:99:SR:13:P:1:
+5244147:13:[INFO: App       ] SENDER Seq:522:P:1:SINK:1:
+5254398:13:[INFO: App       ] DROPPED :T:431:H:0:L:94:S:523:P:2:
+5254398:13:[INFO: App       ] SENDER Seq:523:P:2:SINK:1:
+5255220.08:1:[INFO: App       ] SINK Seq:522:PH:262:PL:65:LEN:108:D1:0:DL:99:SR:13:P:1:
+5265297:13:[INFO: App       ] SENDER Seq:524:P:1:SINK:1:
+5271172.08:1:[INFO: App       ] SINK Seq:524:PH:263:PL:65:LEN:108:D1:0:DL:99:SR:13:P:1:
+5276028:13:[INFO: App       ] SENDER Seq:525:P:2:SINK:1:
+5285289:13:[INFO: App       ] SENDER Seq:526:P:1:SINK:1:
+5287224.08:1:[INFO: App       ] SINK Seq:526:PH:264:PL:65:LEN:108:D1:0:DL:99:SR:13:P:1:
+5295465:13:[INFO: App       ] SENDER Seq:527:P:2:SINK:1:
+5303237.08:1:[INFO: App       ] SINK Seq:471:PH:264:PL:66:LEN:108:D1:0:DL:99:SR:13:P:2:
+5305140:13:[INFO: App       ] SENDER Seq:528:P:1:SINK:1:
+5314754:13:[INFO: App       ] DROPPED :T:436:H:0:L:95:S:529:P:2:
+5314754:13:[INFO: App       ] SENDER Seq:529:P:2:SINK:1:
+5319239.08:1:[INFO: App       ] SINK Seq:528:PH:265:PL:66:LEN:108:D1:0:DL:99:SR:13:P:1:
+5325265:13:[INFO: App       ] SENDER Seq:530:P:1:SINK:1:
+5335188.08:1:[INFO: App       ] SINK Seq:530:PH:266:PL:66:LEN:108:D1:0:DL:99:SR:13:P:1:
+5335867:13:[INFO: App       ] SENDER Seq:531:P:2:SINK:1:
+5345819:13:[INFO: App       ] SENDER Seq:532:P:1:SINK:1:
+5351232.08:1:[INFO: App       ] SINK Seq:532:PH:267:PL:66:LEN:108:D1:0:DL:99:SR:13:P:1:
+5356544:13:[INFO: App       ] SENDER Seq:533:P:2:SINK:1:
+5365626:13:[INFO: App       ] SENDER Seq:534:P:1:SINK:1:
+5367226.08:1:[INFO: App       ] SINK Seq:534:PH:268:PL:66:LEN:108:D1:0:DL:99:SR:13:P:1:
+5375854:13:[INFO: App       ] SENDER Seq:535:P:2:SINK:1:
+5383237.08:1:[INFO: App       ] SINK Seq:479:PH:268:PL:67:LEN:108:D1:0:DL:99:SR:13:P:2:
+5386219:13:[INFO: App       ] SENDER Seq:536:P:1:SINK:1:
+5395429:13:[INFO: App       ] DROPPED :T:443:H:0:L:96:S:537:P:2:
+5395429:13:[INFO: App       ] SENDER Seq:537:P:2:SINK:1:
+5399290.08:1:[INFO: App       ] SINK Seq:536:PH:269:PL:67:LEN:108:D1:0:DL:99:SR:13:P:1:
+5406195:13:[INFO: App       ] SENDER Seq:538:P:1:SINK:1:
+5415235.08:1:[INFO: App       ] SINK Seq:538:PH:270:PL:67:LEN:108:D1:0:DL:99:SR:13:P:1:
+5416330:13:[INFO: App       ] SENDER Seq:539:P:2:SINK:1:
+5425703:13:[INFO: App       ] SENDER Seq:540:P:1:SINK:1:
+5431235.08:1:[INFO: App       ] SINK Seq:540:PH:271:PL:67:LEN:108:D1:0:DL:99:SR:13:P:1:
+5436000:13:[INFO: App       ] SENDER Seq:541:P:2:SINK:1:
+5445449:13:[INFO: App       ] SENDER Seq:542:P:1:SINK:1:
+5447254.08:1:[INFO: App       ] SINK Seq:542:PH:272:PL:67:LEN:108:D1:0:DL:99:SR:13:P:1:
+5455883:13:[INFO: App       ] SENDER Seq:543:P:2:SINK:1:
+5463267.08:1:[INFO: App       ] SINK Seq:487:PH:272:PL:68:LEN:108:D1:0:DL:99:SR:13:P:2:
+5464984:13:[INFO: App       ] SENDER Seq:544:P:1:SINK:1:
+5474037:13:[INFO: App       ] DROPPED :T:450:H:0:L:97:S:545:P:2:
+5474037:13:[INFO: App       ] SENDER Seq:545:P:2:SINK:1:
+5479229.08:1:[INFO: App       ] SINK Seq:544:PH:273:PL:68:LEN:108:D1:0:DL:99:SR:13:P:1:
+5484507:13:[INFO: App       ] SENDER Seq:546:P:1:SINK:1:
+5495213.08:1:[INFO: App       ] SINK Seq:546:PH:274:PL:68:LEN:108:D1:0:DL:99:SR:13:P:1:
+5495231:13:[INFO: App       ] SENDER Seq:547:P:2:SINK:1:
+5504578:13:[INFO: App       ] SENDER Seq:548:P:1:SINK:1:
+5511212.08:1:[INFO: App       ] SINK Seq:548:PH:275:PL:68:LEN:108:D1:0:DL:99:SR:13:P:1:
+5515370:13:[INFO: App       ] SENDER Seq:549:P:2:SINK:1:
+5526239:13:[INFO: App       ] SENDER Seq:550:P:1:SINK:1:
+5527236.08:1:[INFO: App       ] SINK Seq:550:PH:276:PL:68:LEN:108:D1:0:DL:99:SR:13:P:1:
+5536123:13:[INFO: App       ] SENDER Seq:551:P:2:SINK:1:
+5543229.08:1:[INFO: App       ] SINK Seq:495:PH:276:PL:69:LEN:108:D1:0:DL:99:SR:13:P:2:
+5546972:13:[INFO: App       ] SENDER Seq:552:P:1:SINK:1:
+5557155:13:[INFO: App       ] DROPPED :T:457:H:0:L:98:S:553:P:2:
+5557155:13:[INFO: App       ] SENDER Seq:553:P:2:SINK:1:
+5559281.08:1:[INFO: App       ] SINK Seq:552:PH:277:PL:69:LEN:108:D1:0:DL:99:SR:13:P:1:
+5567320:13:[INFO: App       ] SENDER Seq:554:P:1:SINK:1:
+5575222.08:1:[INFO: App       ] SINK Seq:554:PH:278:PL:69:LEN:108:D1:0:DL:99:SR:13:P:1:
+5577303:13:[INFO: App       ] SENDER Seq:555:P:2:SINK:1:
+5587817:13:[INFO: App       ] SENDER Seq:556:P:1:SINK:1:
+5591298.08:1:[INFO: App       ] SINK Seq:556:PH:279:PL:69:LEN:108:D1:0:DL:99:SR:13:P:1:
+5598407:13:[INFO: App       ] SENDER Seq:557:P:2:SINK:1:
+5607289.08:1:[INFO: App       ] SINK Seq:503:PH:279:PL:70:LEN:108:D1:0:DL:99:SR:13:P:2:
+5608171:13:[INFO: App       ] SENDER Seq:558:P:1:SINK:1:
+5617342:13:[INFO: App       ] DROPPED :T:462:H:0:L:99:S:559:P:2:
+5617342:13:[INFO: App       ] SENDER Seq:559:P:2:SINK:1:
+5623278.08:1:[INFO: App       ] SINK Seq:558:PH:280:PL:70:LEN:108:D1:0:DL:99:SR:13:P:1:
+5627064:13:[INFO: App       ] SENDER Seq:560:P:1:SINK:1:
+5636700:13:[INFO: App       ] DROPPED :T:463:H:0:L:100:S:561:P:2:
+5636700:13:[INFO: App       ] SENDER Seq:561:P:2:SINK:1:
+5639360.08:1:[INFO: App       ] SINK Seq:560:PH:281:PL:70:LEN:108:D1:0:DL:99:SR:13:P:1:
+5647322:13:[INFO: App       ] SENDER Seq:562:P:1:SINK:1:
+5655284.08:1:[INFO: App       ] SINK Seq:562:PH:282:PL:70:LEN:108:D1:0:DL:99:SR:13:P:1:
+5658026:13:[INFO: App       ] SENDER Seq:563:P:2:SINK:1:
+5667586:13:[INFO: App       ] SENDER Seq:564:P:1:SINK:1:
+5671278.08:1:[INFO: App       ] SINK Seq:564:PH:283:PL:70:LEN:108:D1:0:DL:99:SR:13:P:1:
+5678114:13:[INFO: App       ] SENDER Seq:565:P:2:SINK:1:
+5687327.08:1:[INFO: App       ] SINK Seq:511:PH:283:PL:71:LEN:108:D1:0:DL:99:SR:13:P:2:
+5688885:13:[INFO: App       ] SENDER Seq:566:P:1:SINK:1:
+5698336:13:[INFO: App       ] DROPPED :T:468:H:0:L:101:S:567:P:2:
+5698336:13:[INFO: App       ] SENDER Seq:567:P:2:SINK:1:
+5703277.08:1:[INFO: App       ] SINK Seq:566:PH:284:PL:71:LEN:108:D1:0:DL:99:SR:13:P:1:
+5707853:13:[INFO: App       ] SENDER Seq:568:P:1:SINK:1:
+5717419:13:[INFO: App       ] DROPPED :T:469:H:0:L:102:S:569:P:2:
+5717419:13:[INFO: App       ] SENDER Seq:569:P:2:SINK:1:
+5719251.144:1:[INFO: App       ] SINK Seq:568:PH:285:PL:71:LEN:108:D1:0:DL:99:SR:13:P:1:
+5727075:13:[INFO: App       ] SENDER Seq:570:P:1:SINK:1:
+5735311.08:1:[INFO: App       ] SINK Seq:570:PH:286:PL:71:LEN:108:D1:0:DL:99:SR:13:P:1:
+5736719:13:[INFO: App       ] SENDER Seq:571:P:2:SINK:1:
+5746390:13:[INFO: App       ] SENDER Seq:572:P:1:SINK:1:
+5751319.08:1:[INFO: App       ] SINK Seq:572:PH:287:PL:71:LEN:108:D1:0:DL:99:SR:13:P:1:
+5756632:13:[INFO: App       ] SENDER Seq:573:P:2:SINK:1:
+5766783:13:[INFO: App       ] SENDER Seq:574:P:1:SINK:1:
+5767288.08:1:[INFO: App       ] SINK Seq:574:PH:288:PL:71:LEN:108:D1:0:DL:99:SR:13:P:1:
+5777368:13:[INFO: App       ] SENDER Seq:575:P:2:SINK:1:
+5783269.08:1:[INFO: App       ] SINK Seq:519:PH:288:PL:72:LEN:108:D1:0:DL:99:SR:13:P:2:
+5788251:13:[INFO: App       ] SENDER Seq:576:P:1:SINK:1:
+5797916:13:[INFO: App       ] DROPPED :T:476:H:0:L:103:S:577:P:2:
+5797916:13:[INFO: App       ] SENDER Seq:577:P:2:SINK:1:
+5799276.08:1:[INFO: App       ] SINK Seq:576:PH:289:PL:72:LEN:108:D1:0:DL:99:SR:13:P:1:
+5808078:13:[INFO: App       ] SENDER Seq:578:P:1:SINK:1:
+5815345.08:1:[INFO: App       ] SINK Seq:578:PH:290:PL:72:LEN:108:D1:0:DL:99:SR:13:P:1:
+5817746:13:[INFO: App       ] SENDER Seq:579:P:2:SINK:1:
+5827920:13:[INFO: App       ] SENDER Seq:580:P:1:SINK:1:
+5831319.08:1:[INFO: App       ] SINK Seq:580:PH:291:PL:72:LEN:108:D1:0:DL:99:SR:13:P:1:
+5837547:13:[INFO: App       ] SENDER Seq:581:P:2:SINK:1:
+5846736:13:[INFO: App       ] SENDER Seq:582:P:1:SINK:1:
+5847311.08:1:[INFO: App       ] SINK Seq:582:PH:292:PL:72:LEN:108:D1:0:DL:99:SR:13:P:1:
+5857192:13:[INFO: App       ] SENDER Seq:583:P:2:SINK:1:
+5863329.08:1:[INFO: App       ] SINK Seq:527:PH:292:PL:73:LEN:108:D1:0:DL:99:SR:13:P:2:
+5866528:13:[INFO: App       ] SENDER Seq:584:P:1:SINK:1:
+5877447:13:[INFO: App       ] DROPPED :T:483:H:0:L:104:S:585:P:2:
+5877447:13:[INFO: App       ] SENDER Seq:585:P:2:SINK:1:
+5879313.08:1:[INFO: App       ] SINK Seq:584:PH:293:PL:73:LEN:108:D1:0:DL:99:SR:13:P:1:
+5887914:13:[INFO: App       ] SENDER Seq:586:P:1:SINK:1:
+5895311.08:1:[INFO: App       ] SINK Seq:586:PH:294:PL:73:LEN:108:D1:0:DL:99:SR:13:P:1:
+5898372:13:[INFO: App       ] SENDER Seq:587:P:2:SINK:1:
+5907972:13:[INFO: App       ] SENDER Seq:588:P:1:SINK:1:
+5911341.08:1:[INFO: App       ] SINK Seq:588:PH:295:PL:73:LEN:108:D1:0:DL:99:SR:13:P:1:
+5918162:13:[INFO: App       ] SENDER Seq:589:P:2:SINK:1:
+5927307.08:1:[INFO: App       ] SINK Seq:535:PH:295:PL:74:LEN:108:D1:0:DL:99:SR:13:P:2:
+5928789:13:[INFO: App       ] SENDER Seq:590:P:1:SINK:1:
+5938817:13:[INFO: App       ] DROPPED :T:488:H:0:L:105:S:591:P:2:
+5938817:13:[INFO: App       ] SENDER Seq:591:P:2:SINK:1:
+5943341.08:1:[INFO: App       ] SINK Seq:590:PH:296:PL:74:LEN:108:D1:0:DL:99:SR:13:P:1:
+5947951:13:[INFO: App       ] SENDER Seq:592:P:1:SINK:1:
+5958062:13:[INFO: App       ] DROPPED :T:489:H:0:L:106:S:593:P:2:
+5958062:13:[INFO: App       ] SENDER Seq:593:P:2:SINK:1:
+5959318.08:1:[INFO: App       ] SINK Seq:592:PH:297:PL:74:LEN:108:D1:0:DL:99:SR:13:P:1:
+5968111:13:[INFO: App       ] SENDER Seq:594:P:1:SINK:1:
+5975327.08:1:[INFO: App       ] SINK Seq:594:PH:298:PL:74:LEN:108:D1:0:DL:99:SR:13:P:1:
+5978013:13:[INFO: App       ] SENDER Seq:595:P:2:SINK:1:
+5987365:13:[INFO: App       ] SENDER Seq:596:P:1:SINK:1:
+5991317.08:1:[INFO: App       ] SINK Seq:596:PH:299:PL:74:LEN:108:D1:0:DL:99:SR:13:P:1:
+5997790:13:[INFO: App       ] SENDER Seq:597:P:2:SINK:1:
+6006893:13:[INFO: App       ] SENDER Seq:598:P:1:SINK:1:
+6007306.08:1:[INFO: App       ] SINK Seq:598:PH:300:PL:74:LEN:108:D1:0:DL:99:SR:13:P:1:
+6017891:13:[INFO: App       ] SENDER Seq:599:P:2:SINK:1:
+6023264.08:1:[INFO: App       ] SINK Seq:543:PH:300:PL:75:LEN:108:D1:0:DL:99:SR:13:P:2:
+6027738:13:[INFO: App       ] SENDER Seq:600:P:1:SINK:1:
+6038017:13:[INFO: App       ] DROPPED :T:496:H:0:L:107:S:601:P:2:
+6038017:13:[INFO: App       ] SENDER Seq:601:P:2:SINK:1:
+6039317.08:1:[INFO: App       ] SINK Seq:600:PH:301:PL:75:LEN:108:D1:0:DL:99:SR:13:P:1:
+6047500:13:[INFO: App       ] SENDER Seq:602:P:1:SINK:1:
+6055327.08:1:[INFO: App       ] SINK Seq:602:PH:302:PL:75:LEN:108:D1:0:DL:99:SR:13:P:1:
+6058199:13:[INFO: App       ] SENDER Seq:603:P:2:SINK:1:
+6068066:13:[INFO: App       ] SENDER Seq:604:P:1:SINK:1:
+6071311.08:1:[INFO: App       ] SINK Seq:604:PH:303:PL:75:LEN:108:D1:0:DL:99:SR:13:P:1:
+6078476:13:[INFO: App       ] SENDER Seq:605:P:2:SINK:1:
+6087347.08:1:[INFO: App       ] SINK Seq:551:PH:303:PL:76:LEN:108:D1:0:DL:99:SR:13:P:2:
+6087682:13:[INFO: App       ] SENDER Seq:606:P:1:SINK:1:
+6097535:13:[INFO: App       ] DROPPED :T:501:H:0:L:108:S:607:P:2:
+6097535:13:[INFO: App       ] SENDER Seq:607:P:2:SINK:1:
+6103363.08:1:[INFO: App       ] SINK Seq:606:PH:304:PL:76:LEN:108:D1:0:DL:99:SR:13:P:1:
+6107991:13:[INFO: App       ] SENDER Seq:608:P:1:SINK:1:
+6118321:13:[INFO: App       ] DROPPED :T:502:H:0:L:109:S:609:P:2:
+6118321:13:[INFO: App       ] SENDER Seq:609:P:2:SINK:1:
+6119338.08:1:[INFO: App       ] SINK Seq:608:PH:305:PL:76:LEN:108:D1:0:DL:99:SR:13:P:1:
+6127695:13:[INFO: App       ] SENDER Seq:610:P:1:SINK:1:
+6135345.08:1:[INFO: App       ] SINK Seq:610:PH:306:PL:76:LEN:108:D1:0:DL:99:SR:13:P:1:
+6136937:13:[INFO: App       ] SENDER Seq:611:P:2:SINK:1:
+6147591:13:[INFO: App       ] SENDER Seq:612:P:1:SINK:1:
+6151333.08:1:[INFO: App       ] SINK Seq:612:PH:307:PL:76:LEN:108:D1:0:DL:99:SR:13:P:1:
+6158152:13:[INFO: App       ] SENDER Seq:613:P:2:SINK:1:
+6167358.08:1:[INFO: App       ] SINK Seq:557:PH:307:PL:77:LEN:108:D1:0:DL:99:SR:13:P:2:
+6168620:13:[INFO: App       ] SENDER Seq:614:P:1:SINK:1:
+6179219:13:[INFO: App       ] DROPPED :T:507:H:0:L:110:S:615:P:2:
+6179219:13:[INFO: App       ] SENDER Seq:615:P:2:SINK:1:
+6183278.08:1:[INFO: App       ] SINK Seq:614:PH:308:PL:77:LEN:108:D1:0:DL:99:SR:13:P:1:
+6188238:13:[INFO: App       ] SENDER Seq:616:P:1:SINK:1:
+6198706:13:[INFO: App       ] DROPPED :T:508:H:0:L:111:S:617:P:2:
+6198706:13:[INFO: App       ] SENDER Seq:617:P:2:SINK:1:
+6199344.08:1:[INFO: App       ] SINK Seq:616:PH:309:PL:77:LEN:108:D1:0:DL:99:SR:13:P:1:
+6208440:13:[INFO: App       ] SENDER Seq:618:P:1:SINK:1:
+6215298.08:1:[INFO: App       ] SINK Seq:618:PH:310:PL:77:LEN:108:D1:0:DL:99:SR:13:P:1:
+6219426:13:[INFO: App       ] SENDER Seq:619:P:2:SINK:1:
+6228987:13:[INFO: App       ] SENDER Seq:620:P:1:SINK:1:
+6231363.08:1:[INFO: App       ] SINK Seq:620:PH:311:PL:77:LEN:108:D1:0:DL:99:SR:13:P:1:
+6238948:13:[INFO: App       ] SENDER Seq:621:P:2:SINK:1:
+6247326.08:1:[INFO: App       ] SINK Seq:565:PH:311:PL:78:LEN:108:D1:0:DL:99:SR:13:P:2:
+6248849:13:[INFO: App       ] SENDER Seq:622:P:1:SINK:1:
+6258316:13:[INFO: App       ] DROPPED :T:513:H:0:L:112:S:623:P:2:
+6258316:13:[INFO: App       ] SENDER Seq:623:P:2:SINK:1:
+6263335.08:1:[INFO: App       ] SINK Seq:622:PH:312:PL:78:LEN:108:D1:0:DL:99:SR:13:P:1:
+6268695:13:[INFO: App       ] SENDER Seq:624:P:1:SINK:1:
+6279347.08:1:[INFO: App       ] SINK Seq:624:PH:313:PL:78:LEN:108:D1:0:DL:99:SR:13:P:1:
+6279436:13:[INFO: App       ] SENDER Seq:625:P:2:SINK:1:
+6289823:13:[INFO: App       ] SENDER Seq:626:P:1:SINK:1:
+6295391.08:1:[INFO: App       ] SINK Seq:626:PH:314:PL:78:LEN:108:D1:0:DL:99:SR:13:P:1:
+6300110:13:[INFO: App       ] SENDER Seq:627:P:2:SINK:1:
+6310192:13:[INFO: App       ] SENDER Seq:628:P:1:SINK:1:
+6311386.08:1:[INFO: App       ] SINK Seq:628:PH:315:PL:78:LEN:108:D1:0:DL:99:SR:13:P:1:
+6320083:13:[INFO: App       ] SENDER Seq:629:P:2:SINK:1:
+6327378.08:1:[INFO: App       ] SINK Seq:575:PH:315:PL:79:LEN:108:D1:0:DL:99:SR:13:P:2:
+6329928:13:[INFO: App       ] SENDER Seq:630:P:1:SINK:1:
+6340321:13:[INFO: App       ] DROPPED :T:520:H:0:L:113:S:631:P:2:
+6340321:13:[INFO: App       ] SENDER Seq:631:P:2:SINK:1:
+6343335.08:1:[INFO: App       ] SINK Seq:630:PH:316:PL:79:LEN:108:D1:0:DL:99:SR:13:P:1:
+6350312:13:[INFO: App       ] SENDER Seq:632:P:1:SINK:1:
+6359409.08:1:[INFO: App       ] SINK Seq:632:PH:317:PL:79:LEN:108:D1:0:DL:99:SR:13:P:1:
+6360378:13:[INFO: App       ] SENDER Seq:633:P:2:SINK:1:
+6371235:13:[INFO: App       ] SENDER Seq:634:P:1:SINK:1:
+6375405.08:1:[INFO: App       ] SINK Seq:634:PH:318:PL:79:LEN:108:D1:0:DL:99:SR:13:P:1:
+6380258:13:[INFO: App       ] SENDER Seq:635:P:2:SINK:1:
+6390333:13:[INFO: App       ] SENDER Seq:636:P:1:SINK:1:
+6391325.08:1:[INFO: App       ] SINK Seq:636:PH:319:PL:79:LEN:108:D1:0:DL:99:SR:13:P:1:
+6399644:13:[INFO: App       ] SENDER Seq:637:P:2:SINK:1:
+6407334.08:1:[INFO: App       ] SINK Seq:583:PH:319:PL:80:LEN:108:D1:0:DL:99:SR:13:P:2:
+6409576:13:[INFO: App       ] SENDER Seq:638:P:1:SINK:1:
+6419253:13:[INFO: App       ] DROPPED :T:527:H:0:L:114:S:639:P:2:
+6419253:13:[INFO: App       ] SENDER Seq:639:P:2:SINK:1:
+6423411.08:1:[INFO: App       ] SINK Seq:638:PH:320:PL:80:LEN:108:D1:0:DL:99:SR:13:P:1:
+6428630:13:[INFO: App       ] SENDER Seq:640:P:1:SINK:1:
+6438893:13:[INFO: App       ] DROPPED :T:528:H:0:L:115:S:641:P:2:
+6438893:13:[INFO: App       ] SENDER Seq:641:P:2:SINK:1:
+6439422.08:1:[INFO: App       ] SINK Seq:640:PH:321:PL:80:LEN:108:D1:0:DL:99:SR:13:P:1:
+6448907:13:[INFO: App       ] SENDER Seq:642:P:1:SINK:1:
+6455386.08:1:[INFO: App       ] SINK Seq:642:PH:322:PL:80:LEN:108:D1:0:DL:99:SR:13:P:1:
+6458772:13:[INFO: App       ] SENDER Seq:643:P:2:SINK:1:
+6469718:13:[INFO: App       ] SENDER Seq:644:P:1:SINK:1:
+6471378.08:1:[INFO: App       ] SINK Seq:644:PH:323:PL:80:LEN:108:D1:0:DL:99:SR:13:P:1:
+6479979:13:[INFO: App       ] SENDER Seq:645:P:2:SINK:1:
+6487405.08:1:[INFO: App       ] SINK Seq:589:PH:323:PL:81:LEN:108:D1:0:DL:99:SR:13:P:2:
+6489360:13:[INFO: App       ] SENDER Seq:646:P:1:SINK:1:
+6499812:13:[INFO: App       ] DROPPED :T:533:H:0:L:116:S:647:P:2:
+6499812:13:[INFO: App       ] SENDER Seq:647:P:2:SINK:1:
+6503375.08:1:[INFO: App       ] SINK Seq:646:PH:324:PL:81:LEN:108:D1:0:DL:99:SR:13:P:1:
+6509248:13:[INFO: App       ] SENDER Seq:648:P:1:SINK:1:
+6519379.08:1:[INFO: App       ] SINK Seq:648:PH:325:PL:81:LEN:108:D1:0:DL:99:SR:13:P:1:
+6520035:13:[INFO: App       ] SENDER Seq:649:P:2:SINK:1:
+6529953:13:[INFO: App       ] SENDER Seq:650:P:1:SINK:1:
+6535419.08:1:[INFO: App       ] SINK Seq:650:PH:326:PL:81:LEN:108:D1:0:DL:99:SR:13:P:1:
+6539683:13:[INFO: App       ] SENDER Seq:651:P:2:SINK:1:
+6549300:13:[INFO: App       ] SENDER Seq:652:P:1:SINK:1:
+6551347.08:1:[INFO: App       ] SINK Seq:652:PH:327:PL:81:LEN:108:D1:0:DL:99:SR:13:P:1:
+6558684:13:[INFO: App       ] SENDER Seq:653:P:2:SINK:1:
+6567399.08:1:[INFO: App       ] SINK Seq:599:PH:327:PL:82:LEN:108:D1:0:DL:99:SR:13:P:2:
+6569047:13:[INFO: App       ] SENDER Seq:654:P:1:SINK:1:
+6578525:13:[INFO: App       ] DROPPED :T:540:H:0:L:117:S:655:P:2:
+6578525:13:[INFO: App       ] SENDER Seq:655:P:2:SINK:1:
+6583406.08:1:[INFO: App       ] SINK Seq:654:PH:328:PL:82:LEN:108:D1:0:DL:99:SR:13:P:1:
+6588855:13:[INFO: App       ] SENDER Seq:656:P:1:SINK:1:
+6597860:13:[INFO: App       ] DROPPED :T:541:H:0:L:118:S:657:P:2:
+6597860:13:[INFO: App       ] SENDER Seq:657:P:2:SINK:1:
+6599402.08:1:[INFO: App       ] SINK Seq:656:PH:329:PL:82:LEN:108:D1:0:DL:99:SR:13:P:1:
+6607476:13:[INFO: App       ] SENDER Seq:658:P:1:SINK:1:
+6615385.08:1:[INFO: App       ] SINK Seq:658:PH:330:PL:82:LEN:108:D1:0:DL:99:SR:13:P:1:
+6618447:13:[INFO: App       ] SENDER Seq:659:P:2:SINK:1:
+6628436:13:[INFO: App       ] SENDER Seq:660:P:1:SINK:1:
+6631426.08:1:[INFO: App       ] SINK Seq:660:PH:331:PL:82:LEN:108:D1:0:DL:99:SR:13:P:1:
+6639367:13:[INFO: App       ] SENDER Seq:661:P:2:SINK:1:
+6647404.08:1:[INFO: App       ] SINK Seq:605:PH:331:PL:83:LEN:108:D1:0:DL:99:SR:13:P:2:
+6649559:13:[INFO: App       ] SENDER Seq:662:P:1:SINK:1:
+6658711:13:[INFO: App       ] DROPPED :T:546:H:0:L:119:S:663:P:2:
+6658711:13:[INFO: App       ] SENDER Seq:663:P:2:SINK:1:
+6663402.08:1:[INFO: App       ] SINK Seq:662:PH:332:PL:83:LEN:108:D1:0:DL:99:SR:13:P:1:
+6668818:13:[INFO: App       ] SENDER Seq:664:P:1:SINK:1:
+6678464:13:[INFO: App       ] DROPPED :T:547:H:0:L:120:S:665:P:2:
+6678464:13:[INFO: App       ] SENDER Seq:665:P:2:SINK:1:
+6679427.08:1:[INFO: App       ] SINK Seq:664:PH:333:PL:83:LEN:108:D1:0:DL:99:SR:13:P:1:
+6688421:13:[INFO: App       ] SENDER Seq:666:P:1:SINK:1:
+6695389.08:1:[INFO: App       ] SINK Seq:666:PH:334:PL:83:LEN:108:D1:0:DL:99:SR:13:P:1:
+6698251:13:[INFO: App       ] SENDER Seq:667:P:2:SINK:1:
+6708075:13:[INFO: App       ] SENDER Seq:668:P:1:SINK:1:
+6711439.08:1:[INFO: App       ] SINK Seq:668:PH:335:PL:83:LEN:108:D1:0:DL:99:SR:13:P:1:
+6718159:13:[INFO: App       ] SENDER Seq:669:P:2:SINK:1:
+6727407.08:1:[INFO: App       ] SINK Seq:613:PH:335:PL:84:LEN:108:D1:0:DL:99:SR:13:P:2:
+6729031:13:[INFO: App       ] SENDER Seq:670:P:1:SINK:1:
+6739707:13:[INFO: App       ] DROPPED :T:552:H:0:L:121:S:671:P:2:
+6739707:13:[INFO: App       ] SENDER Seq:671:P:2:SINK:1:
+6743415.08:1:[INFO: App       ] SINK Seq:670:PH:336:PL:84:LEN:108:D1:0:DL:99:SR:13:P:1:
+6750685:13:[INFO: App       ] SENDER Seq:672:P:1:SINK:1:
+6759414.144:1:[INFO: App       ] SINK Seq:672:PH:337:PL:84:LEN:108:D1:0:DL:99:SR:13:P:1:
+6761200:13:[INFO: App       ] SENDER Seq:673:P:2:SINK:1:
+6770233:13:[INFO: App       ] SENDER Seq:674:P:1:SINK:1:
+6775402.08:1:[INFO: App       ] SINK Seq:674:PH:338:PL:84:LEN:108:D1:0:DL:99:SR:13:P:1:
+6780902:13:[INFO: App       ] SENDER Seq:675:P:2:SINK:1:
+6791447.08:1:[INFO: App       ] SINK Seq:621:PH:338:PL:85:LEN:108:D1:0:DL:99:SR:13:P:2:
+6791851:13:[INFO: App       ] SENDER Seq:676:P:1:SINK:1:
+6800905:13:[INFO: App       ] DROPPED :T:557:H:0:L:122:S:677:P:2:
+6800905:13:[INFO: App       ] SENDER Seq:677:P:2:SINK:1:
+6807467.08:1:[INFO: App       ] SINK Seq:676:PH:339:PL:85:LEN:108:D1:0:DL:99:SR:13:P:1:
+6811822:13:[INFO: App       ] SENDER Seq:678:P:1:SINK:1:
+6822608:13:[INFO: App       ] DROPPED :T:558:H:0:L:123:S:679:P:2:
+6822608:13:[INFO: App       ] SENDER Seq:679:P:2:SINK:1:
+6823447.08:1:[INFO: App       ] SINK Seq:678:PH:340:PL:85:LEN:108:D1:0:DL:99:SR:13:P:1:
+6833548:13:[INFO: App       ] SENDER Seq:680:P:1:SINK:1:
+6839409.08:1:[INFO: App       ] SINK Seq:680:PH:341:PL:85:LEN:108:D1:0:DL:99:SR:13:P:1:
+6844274:13:[INFO: App       ] SENDER Seq:681:P:2:SINK:1:
+6854595:13:[INFO: App       ] SENDER Seq:682:P:1:SINK:1:
+6855417.08:1:[INFO: App       ] SINK Seq:682:PH:342:PL:85:LEN:108:D1:0:DL:99:SR:13:P:1:
+6863735:13:[INFO: App       ] SENDER Seq:683:P:2:SINK:1:
+6871416.08:1:[INFO: App       ] SINK Seq:629:PH:342:PL:86:LEN:108:D1:0:DL:99:SR:13:P:2:
+6874256:13:[INFO: App       ] SENDER Seq:684:P:1:SINK:1:
+6883564:13:[INFO: App       ] DROPPED :T:563:H:0:L:124:S:685:P:2:
+6883564:13:[INFO: App       ] SENDER Seq:685:P:2:SINK:1:
+6887420.08:1:[INFO: App       ] SINK Seq:684:PH:343:PL:86:LEN:108:D1:0:DL:99:SR:13:P:1:
+6893311:13:[INFO: App       ] SENDER Seq:686:P:1:SINK:1:
+6902632:13:[INFO: App       ] DROPPED :T:564:H:0:L:125:S:687:P:2:
+6902632:13:[INFO: App       ] SENDER Seq:687:P:2:SINK:1:
+6903457.08:1:[INFO: App       ] SINK Seq:686:PH:344:PL:86:LEN:108:D1:0:DL:99:SR:13:P:1:
+6912566:13:[INFO: App       ] SENDER Seq:688:P:1:SINK:1:
+6919469.08:1:[INFO: App       ] SINK Seq:688:PH:345:PL:86:LEN:108:D1:0:DL:99:SR:13:P:1:
+6922670:13:[INFO: App       ] SENDER Seq:689:P:2:SINK:1:
+6932954:13:[INFO: App       ] SENDER Seq:690:P:1:SINK:1:
+6935422.08:1:[INFO: App       ] SINK Seq:690:PH:346:PL:86:LEN:108:D1:0:DL:99:SR:13:P:1:
+6943615:13:[INFO: App       ] SENDER Seq:691:P:2:SINK:1:
+6951413.144:1:[INFO: App       ] SINK Seq:637:PH:346:PL:87:LEN:108:D1:0:DL:99:SR:13:P:2:
+6953498:13:[INFO: App       ] SENDER Seq:692:P:1:SINK:1:
+6963275:13:[INFO: App       ] DROPPED :T:569:H:0:L:126:S:693:P:2:
+6963275:13:[INFO: App       ] SENDER Seq:693:P:2:SINK:1:
+6967426.08:1:[INFO: App       ] SINK Seq:692:PH:347:PL:87:LEN:108:D1:0:DL:99:SR:13:P:1:
+6972529:13:[INFO: App       ] SENDER Seq:694:P:1:SINK:1:
+6981796:13:[INFO: App       ] DROPPED :T:570:H:0:L:127:S:695:P:2:
+6981796:13:[INFO: App       ] SENDER Seq:695:P:2:SINK:1:
+6983444.08:1:[INFO: App       ] SINK Seq:694:PH:348:PL:87:LEN:108:D1:0:DL:99:SR:13:P:1:
+6992302:13:[INFO: App       ] SENDER Seq:696:P:1:SINK:1:
+6999435.08:1:[INFO: App       ] SINK Seq:696:PH:349:PL:87:LEN:108:D1:0:DL:99:SR:13:P:1:
+7002526:13:[INFO: App       ] SENDER Seq:697:P:2:SINK:1:
+7012790:13:[INFO: App       ] SENDER Seq:698:P:1:SINK:1:
+7015427.08:1:[INFO: App       ] SINK Seq:698:PH:350:PL:87:LEN:108:D1:0:DL:99:SR:13:P:1:
+7022885:13:[INFO: App       ] SENDER Seq:699:P:2:SINK:1:
+7031452.08:1:[INFO: App       ] SINK Seq:645:PH:350:PL:88:LEN:108:D1:0:DL:99:SR:13:P:2:
+7032174:13:[INFO: App       ] SENDER Seq:700:P:1:SINK:1:
+7042253:13:[INFO: App       ] DROPPED :T:575:H:0:L:128:S:701:P:2:
+7042253:13:[INFO: App       ] SENDER Seq:701:P:2:SINK:1:
+7047442.08:1:[INFO: App       ] SINK Seq:700:PH:351:PL:88:LEN:108:D1:0:DL:99:SR:13:P:1:
+7051583:13:[INFO: App       ] SENDER Seq:702:P:1:SINK:1:
+7060810:13:[INFO: App       ] DROPPED :T:576:H:0:L:129:S:703:P:2:
+7060810:13:[INFO: App       ] SENDER Seq:703:P:2:SINK:1:
+7063392.08:1:[INFO: App       ] SINK Seq:702:PH:352:PL:88:LEN:108:D1:0:DL:99:SR:13:P:1:
+7071575:13:[INFO: App       ] SENDER Seq:704:P:1:SINK:1:
+7079480.08:1:[INFO: App       ] SINK Seq:704:PH:353:PL:88:LEN:108:D1:0:DL:99:SR:13:P:1:
+7081430:13:[INFO: App       ] SENDER Seq:705:P:2:SINK:1:
+7091045:13:[INFO: App       ] SENDER Seq:706:P:1:SINK:1:
+7095462.08:1:[INFO: App       ] SINK Seq:706:PH:354:PL:88:LEN:108:D1:0:DL:99:SR:13:P:1:
+7101945:13:[INFO: App       ] SENDER Seq:707:P:2:SINK:1:
+7111465.08:1:[INFO: App       ] SINK Seq:653:PH:354:PL:89:LEN:108:D1:0:DL:99:SR:13:P:2:
+7112842:13:[INFO: App       ] SENDER Seq:708:P:1:SINK:1:
+7123833:13:[INFO: App       ] DROPPED :T:581:H:0:L:130:S:709:P:2:
+7123833:13:[INFO: App       ] SENDER Seq:709:P:2:SINK:1:
+7127481.08:1:[INFO: App       ] SINK Seq:708:PH:355:PL:89:LEN:108:D1:0:DL:99:SR:13:P:1:
+7134751:13:[INFO: App       ] SENDER Seq:710:P:1:SINK:1:
+7143485.08:1:[INFO: App       ] SINK Seq:710:PH:356:PL:89:LEN:108:D1:0:DL:99:SR:13:P:1:
+7144753:13:[INFO: App       ] SENDER Seq:711:P:2:SINK:1:
+7153911:13:[INFO: App       ] SENDER Seq:712:P:1:SINK:1:
+7159462.144:1:[INFO: App       ] SINK Seq:712:PH:357:PL:89:LEN:108:D1:0:DL:99:SR:13:P:1:
+7163481:13:[INFO: App       ] SENDER Seq:713:P:2:SINK:1:
+7174060:13:[INFO: App       ] SENDER Seq:714:P:1:SINK:1:
+7175472.08:1:[INFO: App       ] SINK Seq:714:PH:358:PL:89:LEN:108:D1:0:DL:99:SR:13:P:1:
+7185034:13:[INFO: App       ] SENDER Seq:715:P:2:SINK:1:
+7191501.08:1:[INFO: App       ] SINK Seq:661:PH:358:PL:90:LEN:108:D1:0:DL:99:SR:13:P:2:
+7194988:13:[INFO: App       ] SENDER Seq:716:P:1:SINK:1:
+7205156:13:[INFO: App       ] DROPPED :T:588:H:0:L:131:S:717:P:2:
+7205156:13:[INFO: App       ] SENDER Seq:717:P:2:SINK:1:
+7207498.08:1:[INFO: App       ] SINK Seq:716:PH:359:PL:90:LEN:108:D1:0:DL:99:SR:13:P:1:
+7215985:13:[INFO: App       ] SENDER Seq:718:P:1:SINK:1:
+7223448.08:1:[INFO: App       ] SINK Seq:718:PH:360:PL:90:LEN:108:D1:0:DL:99:SR:13:P:1:
+7225076:13:[INFO: App       ] SENDER Seq:719:P:2:SINK:1:
+7236011:13:[INFO: App       ] SENDER Seq:720:P:1:SINK:1:
+7239487.08:1:[INFO: App       ] SINK Seq:720:PH:361:PL:90:LEN:108:D1:0:DL:99:SR:13:P:1:
+7245416:13:[INFO: App       ] SENDER Seq:721:P:2:SINK:1:
+7254905:13:[INFO: App       ] SENDER Seq:722:P:1:SINK:1:
+7255484.08:1:[INFO: App       ] SINK Seq:722:PH:362:PL:90:LEN:108:D1:0:DL:99:SR:13:P:1:
+7265495:13:[INFO: App       ] SENDER Seq:723:P:2:SINK:1:
+7271485.08:1:[INFO: App       ] SINK Seq:669:PH:362:PL:91:LEN:108:D1:0:DL:99:SR:13:P:2:
+7275099:13:[INFO: App       ] SENDER Seq:724:P:1:SINK:1:
+7285806:13:[INFO: App       ] DROPPED :T:595:H:0:L:132:S:725:P:2:
+7285806:13:[INFO: App       ] SENDER Seq:725:P:2:SINK:1:
+7287441.08:1:[INFO: App       ] SINK Seq:724:PH:363:PL:91:LEN:108:D1:0:DL:99:SR:13:P:1:
+7296381:13:[INFO: App       ] SENDER Seq:726:P:1:SINK:1:
+7303472.08:1:[INFO: App       ] SINK Seq:726:PH:364:PL:91:LEN:108:D1:0:DL:99:SR:13:P:1:
+7305828:13:[INFO: App       ] SENDER Seq:727:P:2:SINK:1:
+7315053:13:[INFO: App       ] SENDER Seq:728:P:1:SINK:1:
+7319466.08:1:[INFO: App       ] SINK Seq:728:PH:365:PL:91:LEN:108:D1:0:DL:99:SR:13:P:1:
+7325165:13:[INFO: App       ] SENDER Seq:729:P:2:SINK:1:
+7334800:13:[INFO: App       ] SENDER Seq:730:P:1:SINK:1:
+7335493.08:1:[INFO: App       ] SINK Seq:730:PH:366:PL:91:LEN:108:D1:0:DL:99:SR:13:P:1:
+7344608:13:[INFO: App       ] SENDER Seq:731:P:2:SINK:1:
+7351471.08:1:[INFO: App       ] SINK Seq:675:PH:366:PL:92:LEN:108:D1:0:DL:99:SR:13:P:2:
+7354968:13:[INFO: App       ] SENDER Seq:732:P:1:SINK:1:
+7365043:13:[INFO: App       ] DROPPED :T:602:H:0:L:133:S:733:P:2:
+7365043:13:[INFO: App       ] SENDER Seq:733:P:2:SINK:1:
+7367467.08:1:[INFO: App       ] SINK Seq:732:PH:367:PL:92:LEN:108:D1:0:DL:99:SR:13:P:1:
+7374770:13:[INFO: App       ] SENDER Seq:734:P:1:SINK:1:
+7383514.08:1:[INFO: App       ] SINK Seq:734:PH:368:PL:92:LEN:108:D1:0:DL:99:SR:13:P:1:
+7384926:13:[INFO: App       ] SENDER Seq:735:P:2:SINK:1:
+7395589:13:[INFO: App       ] SENDER Seq:736:P:1:SINK:1:
+7399464.08:1:[INFO: App       ] SINK Seq:736:PH:369:PL:92:LEN:108:D1:0:DL:99:SR:13:P:1:
+7405660:13:[INFO: App       ] SENDER Seq:737:P:2:SINK:1:
+7415481.08:1:[INFO: App       ] SINK Seq:683:PH:369:PL:93:LEN:108:D1:0:DL:99:SR:13:P:2:
+7415826:13:[INFO: App       ] SENDER Seq:738:P:1:SINK:1:
+7426534:13:[INFO: App       ] DROPPED :T:607:H:0:L:134:S:739:P:2:
+7426534:13:[INFO: App       ] SENDER Seq:739:P:2:SINK:1:
+7431499.08:1:[INFO: App       ] SINK Seq:738:PH:370:PL:93:LEN:108:D1:0:DL:99:SR:13:P:1:
+7435756:13:[INFO: App       ] SENDER Seq:740:P:1:SINK:1:
+7445012:13:[INFO: App       ] DROPPED :T:608:H:0:L:135:S:741:P:2:
+7445012:13:[INFO: App       ] SENDER Seq:741:P:2:SINK:1:
+7447509.08:1:[INFO: App       ] SINK Seq:740:PH:371:PL:93:LEN:108:D1:0:DL:99:SR:13:P:1:
+7454228:13:[INFO: App       ] SENDER Seq:742:P:1:SINK:1:
+7463513.08:1:[INFO: App       ] SINK Seq:742:PH:372:PL:93:LEN:108:D1:0:DL:99:SR:13:P:1:
+7463669:13:[INFO: App       ] SENDER Seq:743:P:2:SINK:1:
+7474261:13:[INFO: App       ] SENDER Seq:744:P:1:SINK:1:
+7479515.08:1:[INFO: App       ] SINK Seq:744:PH:373:PL:93:LEN:108:D1:0:DL:99:SR:13:P:1:
+7485005:13:[INFO: App       ] SENDER Seq:745:P:2:SINK:1:
+7495513.08:1:[INFO: App       ] SINK Seq:691:PH:373:PL:94:LEN:108:D1:0:DL:99:SR:13:P:2:
+7495762:13:[INFO: App       ] SENDER Seq:746:P:1:SINK:1:
+7505693:13:[INFO: App       ] DROPPED :T:613:H:0:L:136:S:747:P:2:
+7505693:13:[INFO: App       ] SENDER Seq:747:P:2:SINK:1:
+7511520.08:1:[INFO: App       ] SINK Seq:746:PH:374:PL:94:LEN:108:D1:0:DL:99:SR:13:P:1:
+7515723:13:[INFO: App       ] SENDER Seq:748:P:1:SINK:1:
+7526313:13:[INFO: App       ] DROPPED :T:614:H:0:L:137:S:749:P:2:
+7526313:13:[INFO: App       ] SENDER Seq:749:P:2:SINK:1:
+7527558.08:1:[INFO: App       ] SINK Seq:748:PH:375:PL:94:LEN:108:D1:0:DL:99:SR:13:P:1:
+7535585:13:[INFO: App       ] SENDER Seq:750:P:1:SINK:1:
+7543479.08:1:[INFO: App       ] SINK Seq:750:PH:376:PL:94:LEN:108:D1:0:DL:99:SR:13:P:1:
+7545854:13:[INFO: App       ] SENDER Seq:751:P:2:SINK:1:
+7554932:13:[INFO: App       ] SENDER Seq:752:P:1:SINK:1:
+7559464.08:1:[INFO: App       ] SINK Seq:752:PH:377:PL:94:LEN:108:D1:0:DL:99:SR:13:P:1:
+7565222:13:[INFO: App       ] SENDER Seq:753:P:2:SINK:1:
+7574703:13:[INFO: App       ] SENDER Seq:754:P:1:SINK:1:
+7575537.08:1:[INFO: App       ] SINK Seq:754:PH:378:PL:94:LEN:108:D1:0:DL:99:SR:13:P:1:
+7583748:13:[INFO: App       ] SENDER Seq:755:P:2:SINK:1:
+7591549.08:1:[INFO: App       ] SINK Seq:699:PH:378:PL:95:LEN:108:D1:0:DL:99:SR:13:P:2:
+7592805:13:[INFO: App       ] SENDER Seq:756:P:1:SINK:1:
+7602832:13:[INFO: App       ] DROPPED :T:621:H:0:L:138:S:757:P:2:
+7602832:13:[INFO: App       ] SENDER Seq:757:P:2:SINK:1:
+7607524.08:1:[INFO: App       ] SINK Seq:756:PH:379:PL:95:LEN:108:D1:0:DL:99:SR:13:P:1:
+7612873:13:[INFO: App       ] SENDER Seq:758:P:1:SINK:1:
+7622156:13:[INFO: App       ] DROPPED :T:622:H:0:L:139:S:759:P:2:
+7622156:13:[INFO: App       ] SENDER Seq:759:P:2:SINK:1:
+7623527.08:1:[INFO: App       ] SINK Seq:758:PH:380:PL:95:LEN:108:D1:0:DL:99:SR:13:P:1:
+7631962:13:[INFO: App       ] SENDER Seq:760:P:1:SINK:1:
+7639534.08:1:[INFO: App       ] SINK Seq:760:PH:381:PL:95:LEN:108:D1:0:DL:99:SR:13:P:1:
+7641333:13:[INFO: App       ] SENDER Seq:761:P:2:SINK:1:
+7652273:13:[INFO: App       ] SENDER Seq:762:P:1:SINK:1:
+7655517.08:1:[INFO: App       ] SINK Seq:762:PH:382:PL:95:LEN:108:D1:0:DL:99:SR:13:P:1:
+7663007:13:[INFO: App       ] SENDER Seq:763:P:2:SINK:1:
+7671506.08:1:[INFO: App       ] SINK Seq:707:PH:382:PL:96:LEN:108:D1:0:DL:99:SR:13:P:2:
+7672212:13:[INFO: App       ] SENDER Seq:764:P:1:SINK:1:
+7682244:13:[INFO: App       ] DROPPED :T:627:H:0:L:140:S:765:P:2:
+7682244:13:[INFO: App       ] SENDER Seq:765:P:2:SINK:1:
+7687518.08:1:[INFO: App       ] SINK Seq:764:PH:383:PL:96:LEN:108:D1:0:DL:99:SR:13:P:1:
+7691250:13:[INFO: App       ] SENDER Seq:766:P:1:SINK:1:
+7701536:13:[INFO: App       ] DROPPED :T:628:H:0:L:141:S:767:P:2:
+7701536:13:[INFO: App       ] SENDER Seq:767:P:2:SINK:1:
+7703521.08:1:[INFO: App       ] SINK Seq:766:PH:384:PL:96:LEN:108:D1:0:DL:99:SR:13:P:1:
+7710616:13:[INFO: App       ] SENDER Seq:768:P:1:SINK:1:
+7719559.08:1:[INFO: App       ] SINK Seq:768:PH:385:PL:96:LEN:108:D1:0:DL:99:SR:13:P:1:
+7721436:13:[INFO: App       ] SENDER Seq:769:P:2:SINK:1:
+7730547:13:[INFO: App       ] SENDER Seq:770:P:1:SINK:1:
+7735547.08:1:[INFO: App       ] SINK Seq:770:PH:386:PL:96:LEN:108:D1:0:DL:99:SR:13:P:1:
+7739985:13:[INFO: App       ] SENDER Seq:771:P:2:SINK:1:
+7750672:13:[INFO: App       ] SENDER Seq:772:P:1:SINK:1:
+7751565.08:1:[INFO: App       ] SINK Seq:772:PH:387:PL:96:LEN:108:D1:0:DL:99:SR:13:P:1:
+7759749:13:[INFO: App       ] SENDER Seq:773:P:2:SINK:1:
+7767510.08:1:[INFO: App       ] SINK Seq:715:PH:387:PL:97:LEN:108:D1:0:DL:99:SR:13:P:2:
+7769647:13:[INFO: App       ] SENDER Seq:774:P:1:SINK:1:
+7780625:13:[INFO: App       ] DROPPED :T:635:H:0:L:142:S:775:P:2:
+7780625:13:[INFO: App       ] SENDER Seq:775:P:2:SINK:1:
+7783577.08:1:[INFO: App       ] SINK Seq:774:PH:388:PL:97:LEN:108:D1:0:DL:99:SR:13:P:1:
+7790367:13:[INFO: App       ] SENDER Seq:776:P:1:SINK:1:
+7799563.08:1:[INFO: App       ] SINK Seq:776:PH:389:PL:97:LEN:108:D1:0:DL:99:SR:13:P:1:
+7800500:13:[INFO: App       ] SENDER Seq:777:P:2:SINK:1:
+7811405:13:[INFO: App       ] SENDER Seq:778:P:1:SINK:1:
+7815569.08:1:[INFO: App       ] SINK Seq:778:PH:390:PL:97:LEN:108:D1:0:DL:99:SR:13:P:1:
+7820616:13:[INFO: App       ] SENDER Seq:779:P:2:SINK:1:
+7831327:13:[INFO: App       ] SENDER Seq:780:P:1:SINK:1:
+7831505.08:1:[INFO: App       ] SINK Seq:780:PH:391:PL:97:LEN:108:D1:0:DL:99:SR:13:P:1:
+7840505:13:[INFO: App       ] SENDER Seq:781:P:2:SINK:1:
+7847566.08:1:[INFO: App       ] SINK Seq:723:PH:391:PL:98:LEN:108:D1:0:DL:99:SR:13:P:2:
+7851352:13:[INFO: App       ] SENDER Seq:782:P:1:SINK:1:
+7862141:13:[INFO: App       ] DROPPED :T:642:H:0:L:143:S:783:P:2:
+7862141:13:[INFO: App       ] SENDER Seq:783:P:2:SINK:1:
+7863501.08:1:[INFO: App       ] SINK Seq:782:PH:392:PL:98:LEN:108:D1:0:DL:99:SR:13:P:1:
+7871796:13:[INFO: App       ] SENDER Seq:784:P:1:SINK:1:
+7879530.08:1:[INFO: App       ] SINK Seq:784:PH:393:PL:98:LEN:108:D1:0:DL:99:SR:13:P:1:
+7882395:13:[INFO: App       ] SENDER Seq:785:P:2:SINK:1:
+7891691:13:[INFO: App       ] SENDER Seq:786:P:1:SINK:1:
+7895609.08:1:[INFO: App       ] SINK Seq:786:PH:394:PL:98:LEN:108:D1:0:DL:99:SR:13:P:1:
+7902308:13:[INFO: App       ] SENDER Seq:787:P:2:SINK:1:
+7911547.08:1:[INFO: App       ] SINK Seq:731:PH:394:PL:99:LEN:108:D1:0:DL:99:SR:13:P:2:
+7912375:13:[INFO: App       ] SENDER Seq:788:P:1:SINK:1:
+7922185:13:[INFO: App       ] DROPPED :T:647:H:0:L:144:S:789:P:2:
+7922185:13:[INFO: App       ] SENDER Seq:789:P:2:SINK:1:
+7927527.08:1:[INFO: App       ] SINK Seq:788:PH:395:PL:99:LEN:108:D1:0:DL:99:SR:13:P:1:
+7932504:13:[INFO: App       ] SENDER Seq:790:P:1:SINK:1:
+7941529:13:[INFO: App       ] DROPPED :T:648:H:0:L:145:S:791:P:2:
+7941529:13:[INFO: App       ] SENDER Seq:791:P:2:SINK:1:
+7943554.08:1:[INFO: App       ] SINK Seq:790:PH:396:PL:99:LEN:108:D1:0:DL:99:SR:13:P:1:
+7951297:13:[INFO: App       ] SENDER Seq:792:P:1:SINK:1:
+7959560.08:1:[INFO: App       ] SINK Seq:792:PH:397:PL:99:LEN:108:D1:0:DL:99:SR:13:P:1:
+7961229:13:[INFO: App       ] SENDER Seq:793:P:2:SINK:1:
+7970996:13:[INFO: App       ] SENDER Seq:794:P:1:SINK:1:
+7975587.08:1:[INFO: App       ] SINK Seq:794:PH:398:PL:99:LEN:108:D1:0:DL:99:SR:13:P:1:
+7981222:13:[INFO: App       ] SENDER Seq:795:P:2:SINK:1:
+7991251:13:[INFO: App       ] SENDER Seq:796:P:1:SINK:1:
+7991566.08:1:[INFO: App       ] SINK Seq:796:PH:399:PL:99:LEN:108:D1:0:DL:99:SR:13:P:1:
+8000981:13:[INFO: App       ] SENDER Seq:797:P:2:SINK:1:
+8007589.08:1:[INFO: App       ] SINK Seq:737:PH:399:PL:100:LEN:108:D1:0:DL:99:SR:13:P:2:
+8011106:13:[INFO: App       ] SENDER Seq:798:P:1:SINK:1:
+8020662:13:[INFO: App       ] DROPPED :T:655:H:0:L:146:S:799:P:2:
+8020662:13:[INFO: App       ] SENDER Seq:799:P:2:SINK:1:
+8023600.08:1:[INFO: App       ] SINK Seq:798:PH:400:PL:100:LEN:108:D1:0:DL:99:SR:13:P:1:
+8030055:13:[INFO: App       ] SENDER Seq:800:P:1:SINK:1:
+8039581.08:1:[INFO: App       ] SINK Seq:800:PH:401:PL:100:LEN:108:D1:0:DL:99:SR:13:P:1:
+8040434:13:[INFO: App       ] SENDER Seq:801:P:2:SINK:1:
+8050652:13:[INFO: App       ] SENDER Seq:802:P:1:SINK:1:
+8055502.08:1:[INFO: App       ] SINK Seq:802:PH:402:PL:100:LEN:108:D1:0:DL:99:SR:13:P:1:
+8060982:13:[INFO: App       ] SENDER Seq:803:P:2:SINK:1:
+8070141:13:[INFO: App       ] SENDER Seq:804:P:1:SINK:1:
+8071612.08:1:[INFO: App       ] SINK Seq:804:PH:403:PL:100:LEN:108:D1:0:DL:99:SR:13:P:1:
+8080165:13:[INFO: App       ] SENDER Seq:805:P:2:SINK:1:
+8087573.08:1:[INFO: App       ] SINK Seq:745:PH:403:PL:101:LEN:108:D1:0:DL:99:SR:13:P:2:
+8090904:13:[INFO: App       ] SENDER Seq:806:P:1:SINK:1:
+8101670:13:[INFO: App       ] DROPPED :T:662:H:0:L:147:S:807:P:2:
+8101670:13:[INFO: App       ] SENDER Seq:807:P:2:SINK:1:
+8103582.08:1:[INFO: App       ] SINK Seq:806:PH:404:PL:101:LEN:108:D1:0:DL:99:SR:13:P:1:
+8111590:13:[INFO: App       ] SENDER Seq:808:P:1:SINK:1:
+8119589.08:1:[INFO: App       ] SINK Seq:808:PH:405:PL:101:LEN:108:D1:0:DL:99:SR:13:P:1:
+8122440:13:[INFO: App       ] SENDER Seq:809:P:2:SINK:1:
+8132311:13:[INFO: App       ] SENDER Seq:810:P:1:SINK:1:
+8135605.08:1:[INFO: App       ] SINK Seq:810:PH:406:PL:101:LEN:108:D1:0:DL:99:SR:13:P:1:
+8142818:13:[INFO: App       ] SENDER Seq:811:P:2:SINK:1:
+8151597.08:1:[INFO: App       ] SINK Seq:755:PH:406:PL:102:LEN:108:D1:0:DL:99:SR:13:P:2:
+8153468:13:[INFO: App       ] SENDER Seq:812:P:1:SINK:1:
+8164119:13:[INFO: App       ] DROPPED :T:667:H:0:L:148:S:813:P:2:
+8164119:13:[INFO: App       ] SENDER Seq:813:P:2:SINK:1:
+8167598.08:1:[INFO: App       ] SINK Seq:812:PH:407:PL:102:LEN:108:D1:0:DL:99:SR:13:P:1:
+8173917:13:[INFO: App       ] SENDER Seq:814:P:1:SINK:1:
+8183146:13:[INFO: App       ] DROPPED :T:668:H:0:L:149:S:815:P:2:
+8183146:13:[INFO: App       ] SENDER Seq:815:P:2:SINK:1:
+8183587.08:1:[INFO: App       ] SINK Seq:814:PH:408:PL:102:LEN:108:D1:0:DL:99:SR:13:P:1:
+8193803:13:[INFO: App       ] SENDER Seq:816:P:1:SINK:1:
+8199618.08:1:[INFO: App       ] SINK Seq:816:PH:409:PL:102:LEN:108:D1:0:DL:99:SR:13:P:1:
+8204641:13:[INFO: App       ] SENDER Seq:817:P:2:SINK:1:
+8214331:13:[INFO: App       ] SENDER Seq:818:P:1:SINK:1:
+8215586.144:1:[INFO: App       ] SINK Seq:818:PH:410:PL:102:LEN:108:D1:0:DL:99:SR:13:P:1:
+8224237:13:[INFO: App       ] SENDER Seq:819:P:2:SINK:1:
+8231572.08:1:[INFO: App       ] SINK Seq:763:PH:410:PL:103:LEN:108:D1:0:DL:99:SR:13:P:2:
+8233388:13:[INFO: App       ] SENDER Seq:820:P:1:SINK:1:
+8243628:13:[INFO: App       ] DROPPED :T:673:H:0:L:150:S:821:P:2:
+8243628:13:[INFO: App       ] SENDER Seq:821:P:2:SINK:1:
+8247606.08:1:[INFO: App       ] SINK Seq:820:PH:411:PL:103:LEN:108:D1:0:DL:99:SR:13:P:1:
+8252846:13:[INFO: App       ] SENDER Seq:822:P:1:SINK:1:
+8261970:13:[INFO: App       ] DROPPED :T:674:H:0:L:151:S:823:P:2:
+8261970:13:[INFO: App       ] SENDER Seq:823:P:2:SINK:1:
+8263580.08:1:[INFO: App       ] SINK Seq:822:PH:412:PL:103:LEN:108:D1:0:DL:99:SR:13:P:1:
+8271204:13:[INFO: App       ] SENDER Seq:824:P:1:SINK:1:
+8279612.08:1:[INFO: App       ] SINK Seq:824:PH:413:PL:103:LEN:108:D1:0:DL:99:SR:13:P:1:
+8281983:13:[INFO: App       ] SENDER Seq:825:P:2:SINK:1:
+8292113:13:[INFO: App       ] SENDER Seq:826:P:1:SINK:1:
+8295604.08:1:[INFO: App       ] SINK Seq:826:PH:414:PL:103:LEN:108:D1:0:DL:99:SR:13:P:1:
+8302046:13:[INFO: App       ] SENDER Seq:827:P:2:SINK:1:
+8311290:13:[INFO: App       ] SENDER Seq:828:P:1:SINK:1:
+8311621.08:1:[INFO: App       ] SINK Seq:828:PH:415:PL:103:LEN:108:D1:0:DL:99:SR:13:P:1:
+8320816:13:[INFO: App       ] SENDER Seq:829:P:2:SINK:1:
+8327612.08:1:[INFO: App       ] SINK Seq:773:PH:415:PL:104:LEN:108:D1:0:DL:99:SR:13:P:2:
+8331188:13:[INFO: App       ] SENDER Seq:830:P:1:SINK:1:
+8342088:13:[INFO: App       ] DROPPED :T:681:H:0:L:152:S:831:P:2:
+8342088:13:[INFO: App       ] SENDER Seq:831:P:2:SINK:1:
+8343639.08:1:[INFO: App       ] SINK Seq:830:PH:416:PL:104:LEN:108:D1:0:DL:99:SR:13:P:1:
+8351633:13:[INFO: App       ] SENDER Seq:832:P:1:SINK:1:
+8359596.08:1:[INFO: App       ] SINK Seq:832:PH:417:PL:104:LEN:108:D1:0:DL:99:SR:13:P:1:
+8360701:13:[INFO: App       ] SENDER Seq:833:P:2:SINK:1:
+8371245:13:[INFO: App       ] SENDER Seq:834:P:1:SINK:1:
+8375581.08:1:[INFO: App       ] SINK Seq:834:PH:418:PL:104:LEN:108:D1:0:DL:99:SR:13:P:1:
+8380566:13:[INFO: App       ] SENDER Seq:835:P:2:SINK:1:
+8390917:13:[INFO: App       ] SENDER Seq:836:P:1:SINK:1:
+8391567.08:1:[INFO: App       ] SINK Seq:836:PH:419:PL:104:LEN:108:D1:0:DL:99:SR:13:P:1:
+8400458:13:[INFO: App       ] SENDER Seq:837:P:2:SINK:1:
+8407571.08:1:[INFO: App       ] SINK Seq:781:PH:419:PL:105:LEN:108:D1:0:DL:99:SR:13:P:2:
+8409827:13:[INFO: App       ] SENDER Seq:838:P:1:SINK:1:
+8420560:13:[INFO: App       ] DROPPED :T:688:H:0:L:153:S:839:P:2:
+8420560:13:[INFO: App       ] SENDER Seq:839:P:2:SINK:1:
+8423638.08:1:[INFO: App       ] SINK Seq:838:PH:420:PL:105:LEN:108:D1:0:DL:99:SR:13:P:1:
+8430638:13:[INFO: App       ] SENDER Seq:840:P:1:SINK:1:
+8439667.08:1:[INFO: App       ] SINK Seq:840:PH:421:PL:105:LEN:108:D1:0:DL:99:SR:13:P:1:
+8440103:13:[INFO: App       ] SENDER Seq:841:P:2:SINK:1:
+8450050:13:[INFO: App       ] SENDER Seq:842:P:1:SINK:1:
+8455652.08:1:[INFO: App       ] SINK Seq:842:PH:422:PL:105:LEN:108:D1:0:DL:99:SR:13:P:1:
+8459449:13:[INFO: App       ] SENDER Seq:843:P:2:SINK:1:
+8469033:13:[INFO: App       ] SENDER Seq:844:P:1:SINK:1:
+8471648.08:1:[INFO: App       ] SINK Seq:844:PH:423:PL:105:LEN:108:D1:0:DL:99:SR:13:P:1:
+8478472:13:[INFO: App       ] SENDER Seq:845:P:2:SINK:1:
+8487645.08:1:[INFO: App       ] SINK Seq:787:PH:423:PL:106:LEN:108:D1:0:DL:99:SR:13:P:2:
+8488813:13:[INFO: App       ] SENDER Seq:846:P:1:SINK:1:
+8498355:13:[INFO: App       ] DROPPED :T:695:H:0:L:154:S:847:P:2:
+8498355:13:[INFO: App       ] SENDER Seq:847:P:2:SINK:1:
+8503668.08:1:[INFO: App       ] SINK Seq:846:PH:424:PL:106:LEN:108:D1:0:DL:99:SR:13:P:1:
+8507716:13:[INFO: App       ] SENDER Seq:848:P:1:SINK:1:
+8517371:13:[INFO: App       ] DROPPED :T:696:H:0:L:155:S:849:P:2:
+8517371:13:[INFO: App       ] SENDER Seq:849:P:2:SINK:1:
+8519631.08:1:[INFO: App       ] SINK Seq:848:PH:425:PL:106:LEN:108:D1:0:DL:99:SR:13:P:1:
+8527495:13:[INFO: App       ] SENDER Seq:850:P:1:SINK:1:
+8535645.08:1:[INFO: App       ] SINK Seq:850:PH:426:PL:106:LEN:108:D1:0:DL:99:SR:13:P:1:
+8537034:13:[INFO: App       ] SENDER Seq:851:P:2:SINK:1:
+8547376:13:[INFO: App       ] SENDER Seq:852:P:1:SINK:1:
+8551636.08:1:[INFO: App       ] SINK Seq:852:PH:427:PL:106:LEN:108:D1:0:DL:99:SR:13:P:1:
+8557048:13:[INFO: App       ] SENDER Seq:853:P:2:SINK:1:
+8566726:13:[INFO: App       ] SENDER Seq:854:P:1:SINK:1:
+8567649.08:1:[INFO: App       ] SINK Seq:854:PH:428:PL:106:LEN:108:D1:0:DL:99:SR:13:P:1:
+8576716:13:[INFO: App       ] SENDER Seq:855:P:2:SINK:1:
+8583638.08:1:[INFO: App       ] SINK Seq:797:PH:428:PL:107:LEN:108:D1:0:DL:99:SR:13:P:2:
+8587516:13:[INFO: App       ] SENDER Seq:856:P:1:SINK:1:
+8597104:13:[INFO: App       ] DROPPED :T:703:H:0:L:156:S:857:P:2:
+8597104:13:[INFO: App       ] SENDER Seq:857:P:2:SINK:1:
+8599654.08:1:[INFO: App       ] SINK Seq:856:PH:429:PL:107:LEN:108:D1:0:DL:99:SR:13:P:1:
+8606844:13:[INFO: App       ] SENDER Seq:858:P:1:SINK:1:
+8615669.08:1:[INFO: App       ] SINK Seq:858:PH:430:PL:107:LEN:108:D1:0:DL:99:SR:13:P:1:
+8616479:13:[INFO: App       ] SENDER Seq:859:P:2:SINK:1:
+8626937:13:[INFO: App       ] SENDER Seq:860:P:1:SINK:1:
+8631661.08:1:[INFO: App       ] SINK Seq:860:PH:431:PL:107:LEN:108:D1:0:DL:99:SR:13:P:1:
+8637224:13:[INFO: App       ] SENDER Seq:861:P:2:SINK:1:
+8646231:13:[INFO: App       ] SENDER Seq:862:P:1:SINK:1:
+8647650.08:1:[INFO: App       ] SINK Seq:862:PH:432:PL:107:LEN:108:D1:0:DL:99:SR:13:P:1:
+8655438:13:[INFO: App       ] SENDER Seq:863:P:2:SINK:1:
+8663677.08:1:[INFO: App       ] SINK Seq:805:PH:432:PL:108:LEN:108:D1:0:DL:99:SR:13:P:2:
+8666372:13:[INFO: App       ] SENDER Seq:864:P:1:SINK:1:
+8677242:13:[INFO: App       ] DROPPED :T:710:H:0:L:157:S:865:P:2:
+8677242:13:[INFO: App       ] SENDER Seq:865:P:2:SINK:1:
+8679646.08:1:[INFO: App       ] SINK Seq:864:PH:433:PL:108:LEN:108:D1:0:DL:99:SR:13:P:1:
+8686250:13:[INFO: App       ] SENDER Seq:866:P:1:SINK:1:
+8695684.08:1:[INFO: App       ] SINK Seq:866:PH:434:PL:108:LEN:108:D1:0:DL:99:SR:13:P:1:
+8695966:13:[INFO: App       ] SENDER Seq:867:P:2:SINK:1:
+8705038:13:[INFO: App       ] SENDER Seq:868:P:1:SINK:1:
+8711663.08:1:[INFO: App       ] SINK Seq:868:PH:435:PL:108:LEN:108:D1:0:DL:99:SR:13:P:1:
+8716031:13:[INFO: App       ] SENDER Seq:869:P:2:SINK:1:
+8725877:13:[INFO: App       ] SENDER Seq:870:P:1:SINK:1:
+8727704.08:1:[INFO: App       ] SINK Seq:870:PH:436:PL:108:LEN:108:D1:0:DL:99:SR:13:P:1:
+8736339:13:[INFO: App       ] SENDER Seq:871:P:2:SINK:1:
+8743667.08:1:[INFO: App       ] SINK Seq:811:PH:436:PL:109:LEN:108:D1:0:DL:99:SR:13:P:2:
+8745386:13:[INFO: App       ] SENDER Seq:872:P:1:SINK:1:
+8754807:13:[INFO: App       ] DROPPED :T:717:H:0:L:158:S:873:P:2:
+8754807:13:[INFO: App       ] SENDER Seq:873:P:2:SINK:1:
+8759637.08:1:[INFO: App       ] SINK Seq:872:PH:437:PL:109:LEN:108:D1:0:DL:99:SR:13:P:1:
+8765519:13:[INFO: App       ] SENDER Seq:874:P:1:SINK:1:
+8774982:13:[INFO: App       ] DROPPED :T:718:H:0:L:159:S:875:P:2:
+8774982:13:[INFO: App       ] SENDER Seq:875:P:2:SINK:1:
+8775636.08:1:[INFO: App       ] SINK Seq:874:PH:438:PL:109:LEN:108:D1:0:DL:99:SR:13:P:1:
+8785647:13:[INFO: App       ] SENDER Seq:876:P:1:SINK:1:
+8791648.08:1:[INFO: App       ] SINK Seq:876:PH:439:PL:109:LEN:108:D1:0:DL:99:SR:13:P:1:
+8795587:13:[INFO: App       ] SENDER Seq:877:P:2:SINK:1:
+8806169:13:[INFO: App       ] SENDER Seq:878:P:1:SINK:1:
+8807666.08:1:[INFO: App       ] SINK Seq:878:PH:440:PL:109:LEN:108:D1:0:DL:99:SR:13:P:1:
+8817106:13:[INFO: App       ] SENDER Seq:879:P:2:SINK:1:
+8823697.08:1:[INFO: App       ] SINK Seq:819:PH:440:PL:110:LEN:108:D1:0:DL:99:SR:13:P:2:
+8826792:13:[INFO: App       ] SENDER Seq:880:P:1:SINK:1:
+8835882:13:[INFO: App       ] DROPPED :T:723:H:0:L:160:S:881:P:2:
+8835882:13:[INFO: App       ] SENDER Seq:881:P:2:SINK:1:
+8839694.08:1:[INFO: App       ] SINK Seq:880:PH:441:PL:110:LEN:108:D1:0:DL:99:SR:13:P:1:
+8846294:13:[INFO: App       ] SENDER Seq:882:P:1:SINK:1:
+8855551:13:[INFO: App       ] DROPPED :T:724:H:0:L:161:S:883:P:2:
+8855551:13:[INFO: App       ] SENDER Seq:883:P:2:SINK:1:
+8855692.08:1:[INFO: App       ] SINK Seq:882:PH:442:PL:110:LEN:108:D1:0:DL:99:SR:13:P:1:
+8866499:13:[INFO: App       ] SENDER Seq:884:P:1:SINK:1:
+8871656.144:1:[INFO: App       ] SINK Seq:884:PH:443:PL:110:LEN:108:D1:0:DL:99:SR:13:P:1:
+8877169:13:[INFO: App       ] SENDER Seq:885:P:2:SINK:1:
+8886434:13:[INFO: App       ] SENDER Seq:886:P:1:SINK:1:
+8887657.08:1:[INFO: App       ] SINK Seq:886:PH:444:PL:110:LEN:108:D1:0:DL:99:SR:13:P:1:
+8896512:13:[INFO: App       ] SENDER Seq:887:P:2:SINK:1:
+8903657.08:1:[INFO: App       ] SINK Seq:829:PH:444:PL:111:LEN:108:D1:0:DL:99:SR:13:P:2:
+8906864:13:[INFO: App       ] SENDER Seq:888:P:1:SINK:1:
+8916930:13:[INFO: App       ] DROPPED :T:729:H:0:L:162:S:889:P:2:
+8916930:13:[INFO: App       ] SENDER Seq:889:P:2:SINK:1:
+8919677.08:1:[INFO: App       ] SINK Seq:888:PH:445:PL:111:LEN:108:D1:0:DL:99:SR:13:P:1:
+8926691:13:[INFO: App       ] SENDER Seq:890:P:1:SINK:1:
+8935685.08:1:[INFO: App       ] SINK Seq:890:PH:446:PL:111:LEN:108:D1:0:DL:99:SR:13:P:1:
+8936940:13:[INFO: App       ] SENDER Seq:891:P:2:SINK:1:
+8947039:13:[INFO: App       ] SENDER Seq:892:P:1:SINK:1:
+8951673.08:1:[INFO: App       ] SINK Seq:892:PH:447:PL:111:LEN:108:D1:0:DL:99:SR:13:P:1:
+8956640:13:[INFO: App       ] SENDER Seq:893:P:2:SINK:1:
+8967377:13:[INFO: App       ] SENDER Seq:894:P:1:SINK:1:
+8967689.08:1:[INFO: App       ] SINK Seq:894:PH:448:PL:111:LEN:108:D1:0:DL:99:SR:13:P:1:
+8977493:13:[INFO: App       ] SENDER Seq:895:P:2:SINK:1:
+8983704.08:1:[INFO: App       ] SINK Seq:837:PH:448:PL:112:LEN:108:D1:0:DL:99:SR:13:P:2:
+8987376:13:[INFO: App       ] SENDER Seq:896:P:1:SINK:1:
+8997340:13:[INFO: App       ] DROPPED :T:736:H:0:L:163:S:897:P:2:
+8997340:13:[INFO: App       ] SENDER Seq:897:P:2:SINK:1:
+8999720.08:1:[INFO: App       ] SINK Seq:896:PH:449:PL:112:LEN:108:D1:0:DL:99:SR:13:P:1:
+9007196:13:[INFO: App       ] SENDER Seq:898:P:1:SINK:1:
+9015652.08:1:[INFO: App       ] SINK Seq:898:PH:450:PL:112:LEN:108:D1:0:DL:99:SR:13:P:1:
+9016556:13:[INFO: App       ] SENDER Seq:899:P:2:SINK:1:
+9026789:13:[INFO: App       ] SENDER Seq:900:P:1:SINK:1:
+9031734.08:1:[INFO: App       ] SINK Seq:900:PH:451:PL:112:LEN:108:D1:0:DL:99:SR:13:P:1:
+9035820:13:[INFO: App       ] SENDER Seq:901:P:2:SINK:1:
+9045760:13:[INFO: App       ] SENDER Seq:902:P:1:SINK:1:
+9047727.08:1:[INFO: App       ] SINK Seq:902:PH:452:PL:112:LEN:108:D1:0:DL:99:SR:13:P:1:
+9055914:13:[INFO: App       ] SENDER Seq:903:P:2:SINK:1:
+9063700.08:1:[INFO: App       ] SINK Seq:845:PH:452:PL:113:LEN:108:D1:0:DL:99:SR:13:P:2:
+9066694:13:[INFO: App       ] SENDER Seq:904:P:1:SINK:1:
+9075704:13:[INFO: App       ] DROPPED :T:743:H:0:L:164:S:905:P:2:
+9075704:13:[INFO: App       ] SENDER Seq:905:P:2:SINK:1:
+9079700.08:1:[INFO: App       ] SINK Seq:904:PH:453:PL:113:LEN:108:D1:0:DL:99:SR:13:P:1:
+9085703:13:[INFO: App       ] SENDER Seq:906:P:1:SINK:1:
+9094865:13:[INFO: App       ] DROPPED :T:744:H:0:L:165:S:907:P:2:
+9094865:13:[INFO: App       ] SENDER Seq:907:P:2:SINK:1:
+9095679.08:1:[INFO: App       ] SINK Seq:906:PH:454:PL:113:LEN:108:D1:0:DL:99:SR:13:P:1:
+9105282:13:[INFO: App       ] SENDER Seq:908:P:1:SINK:1:
+9111674.08:1:[INFO: App       ] SINK Seq:908:PH:455:PL:113:LEN:108:D1:0:DL:99:SR:13:P:1:
+9115876:13:[INFO: App       ] SENDER Seq:909:P:2:SINK:1:
+9125057:13:[INFO: App       ] SENDER Seq:910:P:1:SINK:1:
+9127693.08:1:[INFO: App       ] SINK Seq:910:PH:456:PL:113:LEN:108:D1:0:DL:99:SR:13:P:1:
+9134396:13:[INFO: App       ] SENDER Seq:911:P:2:SINK:1:
+9143682.08:1:[INFO: App       ] SINK Seq:855:PH:456:PL:114:LEN:108:D1:0:DL:99:SR:13:P:2:
+9144637:13:[INFO: App       ] SENDER Seq:912:P:1:SINK:1:
+9154550:13:[INFO: App       ] DROPPED :T:749:H:0:L:166:S:913:P:2:
+9154550:13:[INFO: App       ] SENDER Seq:913:P:2:SINK:1:
+9159702.08:1:[INFO: App       ] SINK Seq:912:PH:457:PL:114:LEN:108:D1:0:DL:99:SR:13:P:1:
+9163643:13:[INFO: App       ] SENDER Seq:914:P:1:SINK:1:
+9173129:13:[INFO: App       ] DROPPED :T:750:H:0:L:167:S:915:P:2:
+9173129:13:[INFO: App       ] SENDER Seq:915:P:2:SINK:1:
+9175713.08:1:[INFO: App       ] SINK Seq:914:PH:458:PL:114:LEN:108:D1:0:DL:99:SR:13:P:1:
+9183512:13:[INFO: App       ] SENDER Seq:916:P:1:SINK:1:
+9191700.08:1:[INFO: App       ] SINK Seq:916:PH:459:PL:114:LEN:108:D1:0:DL:99:SR:13:P:1:
+9192930:13:[INFO: App       ] SENDER Seq:917:P:2:SINK:1:
+9203595:13:[INFO: App       ] SENDER Seq:918:P:1:SINK:1:
+9207718.08:1:[INFO: App       ] SINK Seq:918:PH:460:PL:114:LEN:108:D1:0:DL:99:SR:13:P:1:
+9213572:13:[INFO: App       ] SENDER Seq:919:P:2:SINK:1:
+9223730.08:1:[INFO: App       ] SINK Seq:863:PH:460:PL:115:LEN:108:D1:0:DL:99:SR:13:P:2:
+9223790:13:[INFO: App       ] SENDER Seq:920:P:1:SINK:1:
+9233077:13:[INFO: App       ] DROPPED :T:755:H:0:L:168:S:921:P:2:
+9233077:13:[INFO: App       ] SENDER Seq:921:P:2:SINK:1:
+9239749.08:1:[INFO: App       ] SINK Seq:920:PH:461:PL:115:LEN:108:D1:0:DL:99:SR:13:P:1:
+9242863:13:[INFO: App       ] SENDER Seq:922:P:1:SINK:1:
+9253772:13:[INFO: App       ] DROPPED :T:756:H:0:L:169:S:923:P:2:
+9253772:13:[INFO: App       ] SENDER Seq:923:P:2:SINK:1:
+9255713.08:1:[INFO: App       ] SINK Seq:922:PH:462:PL:115:LEN:108:D1:0:DL:99:SR:13:P:1:
+9263791:13:[INFO: App       ] SENDER Seq:924:P:1:SINK:1:
+9271737.08:1:[INFO: App       ] SINK Seq:924:PH:463:PL:115:LEN:108:D1:0:DL:99:SR:13:P:1:
+9273182:13:[INFO: App       ] SENDER Seq:925:P:2:SINK:1:
+9283992:13:[INFO: App       ] SENDER Seq:926:P:1:SINK:1:
+9287719.08:1:[INFO: App       ] SINK Seq:926:PH:464:PL:115:LEN:108:D1:0:DL:99:SR:13:P:1:
+9294945:13:[INFO: App       ] SENDER Seq:927:P:2:SINK:1:
+9303746.08:1:[INFO: App       ] SINK Seq:871:PH:464:PL:116:LEN:108:D1:0:DL:99:SR:13:P:2:
+9305870:13:[INFO: App       ] SENDER Seq:928:P:1:SINK:1:
+9316395:13:[INFO: App       ] DROPPED :T:761:H:0:L:170:S:929:P:2:
+9316395:13:[INFO: App       ] SENDER Seq:929:P:2:SINK:1:
+9319737.08:1:[INFO: App       ] SINK Seq:928:PH:465:PL:116:LEN:108:D1:0:DL:99:SR:13:P:1:
+9327083:13:[INFO: App       ] SENDER Seq:930:P:1:SINK:1:
+9335744.08:1:[INFO: App       ] SINK Seq:930:PH:466:PL:116:LEN:108:D1:0:DL:99:SR:13:P:1:
+9336436:13:[INFO: App       ] SENDER Seq:931:P:2:SINK:1:
+9347139:13:[INFO: App       ] SENDER Seq:932:P:1:SINK:1:
+9351753.08:1:[INFO: App       ] SINK Seq:932:PH:467:PL:116:LEN:108:D1:0:DL:99:SR:13:P:1:
+9357382:13:[INFO: App       ] SENDER Seq:933:P:2:SINK:1:
+9366829:13:[INFO: App       ] SENDER Seq:934:P:1:SINK:1:
+9367697.08:1:[INFO: App       ] SINK Seq:934:PH:468:PL:116:LEN:108:D1:0:DL:99:SR:13:P:1:
+9376297:13:[INFO: App       ] SENDER Seq:935:P:2:SINK:1:
+9383737.08:1:[INFO: App       ] SINK Seq:879:PH:468:PL:117:LEN:108:D1:0:DL:99:SR:13:P:2:
+9385569:13:[INFO: App       ] SENDER Seq:936:P:1:SINK:1:
+9395549:13:[INFO: App       ] DROPPED :T:768:H:0:L:171:S:937:P:2:
+9395549:13:[INFO: App       ] SENDER Seq:937:P:2:SINK:1:
+9399743.08:1:[INFO: App       ] SINK Seq:936:PH:469:PL:117:LEN:108:D1:0:DL:99:SR:13:P:1:
+9405272:13:[INFO: App       ] SENDER Seq:938:P:1:SINK:1:
+9414561:13:[INFO: App       ] DROPPED :T:769:H:0:L:172:S:939:P:2:
+9414561:13:[INFO: App       ] SENDER Seq:939:P:2:SINK:1:
+9415769.08:1:[INFO: App       ] SINK Seq:938:PH:470:PL:117:LEN:108:D1:0:DL:99:SR:13:P:1:
+9424731:13:[INFO: App       ] SENDER Seq:940:P:1:SINK:1:
+9431730.08:1:[INFO: App       ] SINK Seq:940:PH:471:PL:117:LEN:108:D1:0:DL:99:SR:13:P:1:
+9433891:13:[INFO: App       ] SENDER Seq:941:P:2:SINK:1:
+9443456:13:[INFO: App       ] SENDER Seq:942:P:1:SINK:1:
+9447702.08:1:[INFO: App       ] SINK Seq:942:PH:472:PL:117:LEN:108:D1:0:DL:99:SR:13:P:1:
+9452704:13:[INFO: App       ] SENDER Seq:943:P:2:SINK:1:
+9462548:13:[INFO: App       ] SENDER Seq:944:P:1:SINK:1:
+9463783.08:1:[INFO: App       ] SINK Seq:944:PH:473:PL:117:LEN:108:D1:0:DL:99:SR:13:P:1:
+9471965:13:[INFO: App       ] SENDER Seq:945:P:2:SINK:1:
+9479769.08:1:[INFO: App       ] SINK Seq:887:PH:473:PL:118:LEN:108:D1:0:DL:99:SR:13:P:2:
+9481692:13:[INFO: App       ] SENDER Seq:946:P:1:SINK:1:
+9491650:13:[INFO: App       ] DROPPED :T:776:H:0:L:173:S:947:P:2:
+9491650:13:[INFO: App       ] SENDER Seq:947:P:2:SINK:1:
+9495773.08:1:[INFO: App       ] SINK Seq:946:PH:474:PL:118:LEN:108:D1:0:DL:99:SR:13:P:1:
+9501242:13:[INFO: App       ] SENDER Seq:948:P:1:SINK:1:
+9510622:13:[INFO: App       ] DROPPED :T:777:H:0:L:174:S:949:P:2:
+9510622:13:[INFO: App       ] SENDER Seq:949:P:2:SINK:1:
+9511732.08:1:[INFO: App       ] SINK Seq:948:PH:475:PL:118:LEN:108:D1:0:DL:99:SR:13:P:1:
+9520726:13:[INFO: App       ] SENDER Seq:950:P:1:SINK:1:
+9527768.08:1:[INFO: App       ] SINK Seq:950:PH:476:PL:118:LEN:108:D1:0:DL:99:SR:13:P:1:
+9529786:13:[INFO: App       ] SENDER Seq:951:P:2:SINK:1:
+9539054:13:[INFO: App       ] SENDER Seq:952:P:1:SINK:1:
+9543790.08:1:[INFO: App       ] SINK Seq:952:PH:477:PL:118:LEN:108:D1:0:DL:99:SR:13:P:1:
+9549221:13:[INFO: App       ] SENDER Seq:953:P:2:SINK:1:
+9559482:13:[INFO: App       ] SENDER Seq:954:P:1:SINK:1:
+9559734.08:1:[INFO: App       ] SINK Seq:954:PH:478:PL:118:LEN:108:D1:0:DL:99:SR:13:P:1:
+9569788:13:[INFO: App       ] SENDER Seq:955:P:2:SINK:1:
+9575790.08:1:[INFO: App       ] SINK Seq:895:PH:478:PL:119:LEN:108:D1:0:DL:99:SR:13:P:2:
+9579217:13:[INFO: App       ] SENDER Seq:956:P:1:SINK:1:
+9590055:13:[INFO: App       ] DROPPED :T:784:H:0:L:175:S:957:P:2:
+9590055:13:[INFO: App       ] SENDER Seq:957:P:2:SINK:1:
+9591699.08:1:[INFO: App       ] SINK Seq:956:PH:479:PL:119:LEN:108:D1:0:DL:99:SR:13:P:1:
+9599670:13:[INFO: App       ] SENDER Seq:958:P:1:SINK:1:
+9607813.08:1:[INFO: App       ] SINK Seq:958:PH:480:PL:119:LEN:108:D1:0:DL:99:SR:13:P:1:
+9609277:13:[INFO: App       ] SENDER Seq:959:P:2:SINK:1:
+9619560:13:[INFO: App       ] SENDER Seq:960:P:1:SINK:1:
+9623727.08:1:[INFO: App       ] SINK Seq:960:PH:481:PL:119:LEN:108:D1:0:DL:99:SR:13:P:1:
+9630215:13:[INFO: App       ] SENDER Seq:961:P:2:SINK:1:
+9639801.08:1:[INFO: App       ] SINK Seq:903:PH:481:PL:120:LEN:108:D1:0:DL:99:SR:13:P:2:
+9640069:13:[INFO: App       ] SENDER Seq:962:P:1:SINK:1:
+9650549:13:[INFO: App       ] DROPPED :T:789:H:0:L:176:S:963:P:2:
+9650549:13:[INFO: App       ] SENDER Seq:963:P:2:SINK:1:
+9655744.08:1:[INFO: App       ] SINK Seq:962:PH:482:PL:120:LEN:108:D1:0:DL:99:SR:13:P:1:
+9659853:13:[INFO: App       ] SENDER Seq:964:P:1:SINK:1:
+9668881:13:[INFO: App       ] DROPPED :T:790:H:0:L:177:S:965:P:2:
+9668881:13:[INFO: App       ] SENDER Seq:965:P:2:SINK:1:
+9671787.08:1:[INFO: App       ] SINK Seq:964:PH:483:PL:120:LEN:108:D1:0:DL:99:SR:13:P:1:
+9679035:13:[INFO: App       ] SENDER Seq:966:P:1:SINK:1:
+9687746.08:1:[INFO: App       ] SINK Seq:966:PH:484:PL:120:LEN:108:D1:0:DL:99:SR:13:P:1:
+9688585:13:[INFO: App       ] SENDER Seq:967:P:2:SINK:1:
+9699061:13:[INFO: App       ] SENDER Seq:968:P:1:SINK:1:
+9703763.08:1:[INFO: App       ] SINK Seq:968:PH:485:PL:120:LEN:108:D1:0:DL:99:SR:13:P:1:
+9709797:13:[INFO: App       ] SENDER Seq:969:P:2:SINK:1:
+9719258:13:[INFO: App       ] SENDER Seq:970:P:1:SINK:1:
+9719776.08:1:[INFO: App       ] SINK Seq:970:PH:486:PL:120:LEN:108:D1:0:DL:99:SR:13:P:1:
+9729753:13:[INFO: App       ] SENDER Seq:971:P:2:SINK:1:
+9735792.08:1:[INFO: App       ] SINK Seq:911:PH:486:PL:121:LEN:108:D1:0:DL:99:SR:13:P:2:
+9740376:13:[INFO: App       ] SENDER Seq:972:P:1:SINK:1:
+9750907:13:[INFO: App       ] DROPPED :T:797:H:0:L:178:S:973:P:2:
+9750907:13:[INFO: App       ] SENDER Seq:973:P:2:SINK:1:
+9751784.08:1:[INFO: App       ] SINK Seq:972:PH:487:PL:121:LEN:108:D1:0:DL:99:SR:13:P:1:
+9761437:13:[INFO: App       ] SENDER Seq:974:P:1:SINK:1:
+9767797.08:1:[INFO: App       ] SINK Seq:974:PH:488:PL:121:LEN:108:D1:0:DL:99:SR:13:P:1:
+9772130:13:[INFO: App       ] SENDER Seq:975:P:2:SINK:1:
+9781178:13:[INFO: App       ] SENDER Seq:976:P:1:SINK:1:
+9783796.08:1:[INFO: App       ] SINK Seq:976:PH:489:PL:121:LEN:108:D1:0:DL:99:SR:13:P:1:
+9790926:13:[INFO: App       ] SENDER Seq:977:P:2:SINK:1:
+9799780.08:1:[INFO: App       ] SINK Seq:919:PH:489:PL:122:LEN:108:D1:0:DL:99:SR:13:P:2:
+9800535:13:[INFO: App       ] SENDER Seq:978:P:1:SINK:1:
+9810128:13:[INFO: App       ] DROPPED :T:802:H:0:L:179:S:979:P:2:
+9810128:13:[INFO: App       ] SENDER Seq:979:P:2:SINK:1:
+9815835.08:1:[INFO: App       ] SINK Seq:978:PH:490:PL:122:LEN:108:D1:0:DL:99:SR:13:P:1:
+9820151:13:[INFO: App       ] SENDER Seq:980:P:1:SINK:1:
+9830439:13:[INFO: App       ] DROPPED :T:803:H:0:L:180:S:981:P:2:
+9830439:13:[INFO: App       ] SENDER Seq:981:P:2:SINK:1:
+9831787.08:1:[INFO: App       ] SINK Seq:980:PH:491:PL:122:LEN:108:D1:0:DL:99:SR:13:P:1:
+9839926:13:[INFO: App       ] SENDER Seq:982:P:1:SINK:1:
+9847795.08:1:[INFO: App       ] SINK Seq:982:PH:492:PL:122:LEN:108:D1:0:DL:99:SR:13:P:1:
+9850892:13:[INFO: App       ] SENDER Seq:983:P:2:SINK:1:
+9860057:13:[INFO: App       ] SENDER Seq:984:P:1:SINK:1:
+9863792.08:1:[INFO: App       ] SINK Seq:984:PH:493:PL:122:LEN:108:D1:0:DL:99:SR:13:P:1:
+9869556:13:[INFO: App       ] SENDER Seq:985:P:2:SINK:1:
+9879560:13:[INFO: App       ] SENDER Seq:986:P:1:SINK:1:
+9879786.08:1:[INFO: App       ] SINK Seq:986:PH:494:PL:122:LEN:108:D1:0:DL:99:SR:13:P:1:
+9889748:13:[INFO: App       ] SENDER Seq:987:P:2:SINK:1:
+9895776.224:1:[INFO: App       ] SINK Seq:927:PH:494:PL:123:LEN:108:D1:0:DL:99:SR:13:P:2:
+9899537:13:[INFO: App       ] SENDER Seq:988:P:1:SINK:1:
+9909806:13:[INFO: App       ] DROPPED :T:810:H:0:L:181:S:989:P:2:
+9909806:13:[INFO: App       ] SENDER Seq:989:P:2:SINK:1:
+9911793.08:1:[INFO: App       ] SINK Seq:988:PH:495:PL:123:LEN:108:D1:0:DL:99:SR:13:P:1:
+9919472:13:[INFO: App       ] SENDER Seq:990:P:1:SINK:1:
+9927810.08:1:[INFO: App       ] SINK Seq:990:PH:496:PL:123:LEN:108:D1:0:DL:99:SR:13:P:1:
+9929298:13:[INFO: App       ] SENDER Seq:991:P:2:SINK:1:
+9939044:13:[INFO: App       ] SENDER Seq:992:P:1:SINK:1:
+9943820.08:1:[INFO: App       ] SINK Seq:992:PH:497:PL:123:LEN:108:D1:0:DL:99:SR:13:P:1:
+9948301:13:[INFO: App       ] SENDER Seq:993:P:2:SINK:1:
+9957876:13:[INFO: App       ] SENDER Seq:994:P:1:SINK:1:
+9959816.08:1:[INFO: App       ] SINK Seq:994:PH:498:PL:123:LEN:108:D1:0:DL:99:SR:13:P:1:
+9967696:13:[INFO: App       ] SENDER Seq:995:P:2:SINK:1:
+9975822.08:1:[INFO: App       ] SINK Seq:935:PH:498:PL:124:LEN:108:D1:0:DL:99:SR:13:P:2:
+9977073:13:[INFO: App       ] SENDER Seq:996:P:1:SINK:1:
+9987128:13:[INFO: App       ] DROPPED :T:817:H:0:L:182:S:997:P:2:
+9987128:13:[INFO: App       ] SENDER Seq:997:P:2:SINK:1:
+9991841.08:1:[INFO: App       ] SINK Seq:996:PH:499:PL:124:LEN:108:D1:0:DL:99:SR:13:P:1:
+9996878:13:[INFO: App       ] SENDER Seq:998:P:1:SINK:1:
+10007242:13:[INFO: App       ] DROPPED :T:818:H:0:L:183:S:999:P:2:
+10007242:13:[INFO: App       ] SENDER Seq:999:P:2:SINK:1:
+10007242:13:[INFO: App       ] Last packet sent.
+10007838.08:1:[INFO: App       ] SINK Seq:998:PH:500:PL:124:LEN:108:D1:0:DL:99:SR:13:P:1:
+10023806.08:1:[INFO: App       ] SINK Seq:945:PH:500:PL:125:LEN:108:D1:0:DL:99:SR:13:P:2:
+10039895.08:1:[INFO: App       ] SINK Seq:955:PH:500:PL:126:LEN:108:D1:0:DL:99:SR:13:P:2:
+10055814.08:1:[INFO: App       ] SINK Seq:961:PH:500:PL:127:LEN:108:D1:0:DL:99:SR:13:P:2:
+10071823.08:1:[INFO: App       ] SINK Seq:971:PH:500:PL:128:LEN:108:D1:0:DL:99:SR:13:P:2:
+10087849.08:1:[INFO: App       ] SINK Seq:977:PH:500:PL:129:LEN:108:D1:0:DL:99:SR:13:P:2:
+10103837.08:1:[INFO: App       ] SINK Seq:987:PH:500:PL:130:LEN:108:D1:0:DL:99:SR:13:P:2:
+10119811.08:1:[INFO: App       ] SINK Seq:995:PH:500:PL:131:LEN:108:D1:0:DL:99:SR:13:P:2:
+10607242:13:[INFO: App       ] SIMULATION HAS ENDED.
